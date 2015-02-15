@@ -1,7 +1,6 @@
 ---
 title: "Results"
 layout: archive
-categories: results
 ---  
 
 <div class="tiles">

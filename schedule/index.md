@@ -27,67 +27,40 @@ $(document).ready(function() {
 <link rel="stylesheet" type="text/css" href="/css/tidy-table.min.css">
 
 
+Should look into using Tidy-table or some other dynamic javascript table engine. That would let me offer an ical when they click on the date, show only the match types they want to see and do other cool stuff.
 
-<h2>2015</h2>
+## 2015
 
-Date, Match Type (IDPA, 3gun, Handgun), Start Time, Location, Notes
+table using html
 
-<table id="customers">
+<table id="2015">
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Date</th>
+    <th>Match Type</th>
+    <th>Notes</th>
+    <th>Location</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Jan 1</td>
+    <td>Handgun Steel Challenge</td>
+    <td>10AM Match start</td>
+    <td>The Range</td>
   </tr>
   <tr class="alt">
     <td>Berglunds snabbköp</td>
     <td>Christina Berglund</td>
     <td>Sweden</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-  <tr class="alt">
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
-  </tr>
-  <tr class="alt">
-    <td>Königlich Essen</td>
-    <td>Philip Cramer</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr class="alt">
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>North/South</td>
-    <td>Simon Crowther</td>
-    <td>UK</td>
-  </tr>
-  <tr class="alt">
-    <td>Paris spécialités</td>
-    <td>Marie Bertrand</td>
-    <td>France</td>
+    <td>test 2</td>
   </tr>
 </table>
 
 <h2>2014</h2>
+
+table using markdown
+
+// Kramdown table syntax is documented at http://kramdown.gettalong.org/syntax.html#tables
+
+| Date | Match Type | Notes | Location |
+|:-:|:-:|:-|:-:|
+| Feb 20 | 3 gun | This will require 300 rds of ammo, 55 birdshot and 10 slugs | The Range |
+| Aug 9 | Really long match type | Bring your mortars and 10 rounds | Rangemasters |
