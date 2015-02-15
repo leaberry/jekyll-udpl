@@ -17,17 +17,23 @@ $border-radius               	: 3px;
 
 // Color variables
 
+// Go to paletton.com and pick some colors. It will display 5 colors
+// 
+// base color should be the biggest color rectangle. == $background-color
+// text color should be lightest or darkest == $text-color
+// You can set $black and $white to the darkest and lightest colors
+
 $background-color             : #fff4d8;
 $masthead-bg-color            : #130e00;
 $header-color                 : #130e00;
-$body-color                  	: #ebebeb;
-$text-color                  	: #313130;
+$body-color                  	: #ebebeb;    //orig #ebebeb - basically white. Controls table background and...
+$text-color                  	: #130e00;    //orig #313130 - basically black
 $masthead-text-color          : #f7d892;
-$base-color                  	: #343434;    
+$base-color                  	: #343434;    //orig #343434 - does not appear to do anything
 $comp-color                  	: complement($base-color); 
 $border-color                	: #ddd;
-$white                       	: #fff;
-$black                       	: #000;
+$white                       	: #fff;       //controls color of slide out menu text and share buttons
+$black                       	: #000;       //controls color of slide out menu background and footer text
 $link-color                  	: #222;
 $primary-color               	: $black;
 $success-color               	: #2ecc71;
