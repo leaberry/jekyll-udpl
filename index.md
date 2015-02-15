@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: home
 permalink: /
-title: 
+title: Utah Defensive Pistol League
+image:
+  feature: home-header.jpg
 ---
 
 <div class="tiles">
@@ -10,7 +12,7 @@ title:
 {% endfor %}
 </div><!-- /.tiles -->
 
-
+<br />
 
 ## Affiliations
 

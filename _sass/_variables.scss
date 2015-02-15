@@ -17,10 +17,12 @@ $border-radius               	: 3px;
 
 // Color variables
 
-$background-color             : antiquewhite;
+$background-color             : #fff4d8;
+$masthead-bg-color            : #130e00;
 $header-color                 : #130e00;
 $body-color                  	: #ebebeb;
 $text-color                  	: #313130;
+$masthead-text-color          : #f7d892;
 $base-color                  	: #343434;    
 $comp-color                  	: complement($base-color); 
 $border-color                	: #ddd;

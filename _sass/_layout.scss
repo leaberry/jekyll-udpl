@@ -9,7 +9,8 @@
 	&.slide {
 		@include transform(translate(-1600px,0));
 	}
-	background: $background-color;
+	background: $masthead-bg-color;
+	a { color: $masthead-text-color; }
 	.inner-wrap {
 		@include outer-container;
 	}
@@ -22,7 +23,8 @@
 	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
 	height: $masthead-height;
 	text-decoration: none;
-	color: $black;
+	//inherit from #masthead
+	//color: $black;
 	font-family: $alt-font;
 	font-weight: 700;
 	@include font-size(48,no);
@@ -66,7 +68,7 @@
 			}
 			&:after {
 				width: 0;
-				background: $black;
+				background: $masthead-text-color;
 			}
 			&:active:after,
 			&:hover:after {
@@ -98,7 +100,8 @@
 			font-weight: 700;
 			@include font-size(16,no);
 			line-height: .5 * $masthead-height; // half the height to center vertically
-			color: $black;
+			//color: $black;
+			//
 			text-transform: uppercase;
 		}
 	}
