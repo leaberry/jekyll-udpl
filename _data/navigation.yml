@@ -1,0 +1,27 @@
+# Site navigation links
+
+- title: "News"
+  url: /news/
+  excerpt: "Keep up on the news"
+#  image: announcements.png
+
+- title: "Schedule"
+  url: /schedule/
+  excerpt: "Upcoming matches"
+#  image: schedule.png
+  
+- title: "Results"
+  url: /results/
+  excerpt: "Results from previous matches"
+#  image: results.png
+  
+- title: "New Shooters"
+  url: /newshooters/
+  excerpt: "Never shot with us before? Start here"
+#  image: newshooters.png
+
+- title: "Articles"
+  url: /articles/
+  excerpt: "Misc Articles"
+#  image: newshooters.png
+

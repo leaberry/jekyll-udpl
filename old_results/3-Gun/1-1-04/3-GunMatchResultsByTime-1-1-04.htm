@@ -1,0 +1,2567 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=FrontPage.Editor.Document>
+<meta name=Generator content="Microsoft FrontPage 4.0">
+<link rel=File-List href="./3-GunMatchResultsByTime-1-1-04_files/filelist.xml">
+<link rel=Edit-Time-Data
+href="./3-GunMatchResultsByTime-1-1-04_files/editdata.mso">
+<link rel=OLE-Object-Data
+href="./3-GunMatchResultsByTime-1-1-04_files/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Red Redford</o:Author>
+  <o:LastAuthor>Red Redford</o:LastAuthor>
+  <o:LastPrinted>2004-01-05T23:26:44Z</o:LastPrinted>
+  <o:Created>2002-02-08T16:39:53Z</o:Created>
+  <o:LastSaved>2004-01-06T18:13:35Z</o:LastSaved>
+  <o:Company>NSE</o:Company>
+  <o:Version>9.6926</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:D:\msowc.cab"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.5in 0in .25in .25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:0in;
+	mso-page-orientation:landscape;
+	mso-horizontal-page-align:center;
+	mso-vertical-page-align:center;}
+.font0
+	{color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font5
+	{color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.font7
+	{color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.font9
+	{color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.font11
+	{color:#FF6600;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.font12
+	{color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.font13
+	{color:blue;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.font15
+	{color:blue;
+	font-size:7.5pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.font17
+	{color:blue;
+	font-size:7.5pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.font19
+	{color:fuchsia;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;}
+.xl25
+	{mso-style-parent:style0;
+	text-align:center;}
+.xl26
+	{mso-style-parent:style0;
+	mso-number-format:Fixed;}
+.xl27
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;}
+.xl28
+	{mso-style-parent:style0;
+	mso-number-format:"\@";
+	text-align:center;}
+.xl29
+	{mso-style-parent:style0;
+	mso-number-format:Fixed;
+	text-align:center;}
+.xl30
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-style:italic;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:#CCFFCC;
+	mso-pattern:auto none;}
+.xl31
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-style:italic;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:#CCFFCC;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl32
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-style:italic;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:#CCFFCC;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl33
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl34
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	vertical-align:top;
+	white-space:normal;}
+.xl35
+	{mso-style-parent:style0;
+	font-size:18.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.xl36
+	{mso-style-parent:style0;
+	mso-number-format:"\@";
+	white-space:normal;}
+.xl37
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl38
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl39
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl40
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl41
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt dotted windowtext;}
+.xl42
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl43
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:1.0pt solid black;
+	border-left:.5pt dotted windowtext;
+	background:#CCFFCC;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl44
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:right;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl45
+	{mso-style-parent:style0;
+	color:white;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:red;
+	mso-pattern:auto none;}
+.xl46
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-style:italic;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:#CCFFCC;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl47
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl48
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt dotted windowtext;}
+.xl49
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl50
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl51
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl52
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl53
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl54
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl55
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl56
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt dotted windowtext;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl57
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt dotted windowtext;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl58
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+.xl59
+	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	white-space:normal;}
+.xl60
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt dotted windowtext;}
+.xl61
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:right;
+	white-space:normal;}
+.xl62
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl63
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt dotted windowtext;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl64
+	{mso-style-parent:style0;
+	color:blue;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:italic;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:#CCFFCC;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl65
+	{mso-style-parent:style0;
+	color:blue;
+	font-size:7.5pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.xl66
+	{mso-style-parent:style0;
+	color:blue;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:italic;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.5pt solid windowtext;
+	background:#CCFFCC;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl67
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:1.5pt solid windowtext;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl68
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:1.5pt solid windowtext;}
+.xl69
+	{mso-style-parent:style0;
+	color:#993300;
+	font-weight:700;
+	font-style:italic;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:.5pt dotted windowtext;
+	background:#CCFFCC;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl70
+	{mso-style-parent:style0;
+	color:#993300;
+	font-weight:700;
+	font-style:italic;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	border-top:none;
+	border-right:1.5pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:.5pt dotted windowtext;
+	background:#CCFFCC;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl71
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt dotted windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt dotted windowtext;}
+.xl72
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt dotted windowtext;}
+.xl73
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0;
+	text-align:center;
+	border-top:none;
+	border-right:1.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt dotted windowtext;}
+.xl74
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0;
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt dotted windowtext;}
+.xl75
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt dotted windowtext;}
+.xl76
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt dotted windowtext;
+	background:#FFCC00;
+	mso-pattern:auto none;}
+.xl77
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0;
+	text-align:center;
+	border-top:none;
+
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt dotted windowtext;
+	background:#FFCC00;
+	mso-pattern:auto none;}
+.xl78
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#FFCC00;
+	mso-pattern:auto none;}
+.xl79
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl80
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0;
+	text-align:center;
+	border-top:none;
+	border-right:1.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt dotted windowtext;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl81
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0;
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt dotted windowtext;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl82
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:1.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt dotted windowtext;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl83
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt dotted windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl84
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt dotted windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl85
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl86
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:.5pt dotted windowtext;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl87
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt dotted windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl88
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt dotted windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl89
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl90
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:.5pt dotted windowtext;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl91
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt dotted windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:.5pt dotted windowtext;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl92
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:.5pt dotted windowtext;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl93
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl94
+	{mso-style-parent:style0;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:.5pt dotted windowtext;
+	background:yellow;
+	mso-pattern:auto none;}
+.xl95
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl96
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-style:italic;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:#CCFFCC;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl97
+	{mso-style-parent:style0;
+	mso-number-format:"\@";
+	text-align:center;
+	vertical-align:top;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#FFCC00;
+	mso-pattern:auto none;}
+.xl98
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	white-space:normal;}
+.xl99
+	{mso-style-parent:style0;
+	mso-number-format:"\@";
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+.xl100
+	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;}
+.xl101
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+.xl102
+	{mso-style-parent:style0;
+	mso-number-format:"\@";
+	text-align:left;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+.xl103
+	{mso-style-parent:style0;
+	color:white;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt dotted windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt dotted windowtext;
+	background:fuchsia;
+	mso-pattern:auto none;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet1</x:Name>
+    <x:WorksheetOptions>
+     <x:FitToPage/>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>5</x:PaperSizeIndex>
+      <x:Scale>74</x:Scale>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>600</x:VerticalResolution>
+     </x:Print>
+     <x:Zoom>75</x:Zoom>
+     <x:PageBreakZoom>100</x:PageBreakZoom>
+     <x:Selected/>
+     <x:FreezePanes/>
+     <x:FrozenNoSplit/>
+     <x:SplitHorizontal>3</x:SplitHorizontal>
+     <x:TopRowBottomPane>3</x:TopRowBottomPane>
+     <x:ActivePane>2</x:ActivePane>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+      </x:Pane>
+      <x:Pane>
+       <x:Number>2</x:Number>
+       <x:ActiveRow>10</x:ActiveRow>
+       <x:ActiveCol>34</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+    <x:Sorting>
+     <x:Sort>Column D</x:Sort>
+    </x:Sorting>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet2</x:Name>
+    <x:WorksheetOptions>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet3</x:Name>
+    <x:WorksheetOptions>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9315</x:WindowHeight>
+  <x:WindowWidth>12390</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>75</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+ <x:ExcelName>
+  <x:Name>Print_Area</x:Name>
+  <x:SheetIndex>1</x:SheetIndex>
+  <x:Formula>=Sheet1!$A$1:$AG$42</x:Formula>
+ </x:ExcelName>
+</xml><![endif]-->
+<meta name="Microsoft Border" content="none, default">
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1748 style='border-collapse:
+ collapse;table-layout:fixed;width:1315pt'>
+ <col class=xl24 width=40 style='mso-width-source:userset;mso-width-alt:1462;
+ width:30pt'>
+ <col width=138 style='mso-width-source:userset;mso-width-alt:5046;width:104pt'>
+ <col class=xl25 width=36 style='mso-width-source:userset;mso-width-alt:1316;
+ width:27pt'>
+ <col class=xl26 width=56 style='mso-width-source:userset;mso-width-alt:2048;
+ width:42pt'>
+ <col class=xl25 width=46 style='mso-width-source:userset;mso-width-alt:1682;
+ width:35pt'>
+ <col class=xl26 width=58 style='mso-width-source:userset;mso-width-alt:2121;
+ width:44pt'>
+ <col class=xl27 width=52 span=3 style='mso-width-source:userset;mso-width-alt:
+ 1901;width:39pt'>
+ <col class=xl28 width=28 style='mso-width-source:userset;mso-width-alt:1024;
+ width:21pt'>
+ <col class=xl26 width=58 style='mso-width-source:userset;mso-width-alt:2121;
+ width:44pt'>
+ <col class=xl26 width=52 style='mso-width-source:userset;mso-width-alt:1901;
+ width:39pt'>
+ <col class=xl29 width=52 style='mso-width-source:userset;mso-width-alt:1901;
+ width:39pt'>
+ <col class=xl29 width=49 style='mso-width-source:userset;mso-width-alt:1792;
+ width:37pt'>
+ <col class=xl28 width=28 style='mso-width-source:userset;mso-width-alt:1024;
+ width:21pt'>
+ <col class=xl26 width=64 style='mso-width-source:userset;mso-width-alt:2340;
+ width:48pt'>
+ <col class=xl26 width=52 style='mso-width-source:userset;mso-width-alt:1901;
+ width:39pt'>
+ <col class=xl26 width=49 span=2 style='mso-width-source:userset;mso-width-alt:
+ 1792;width:37pt'>
+ <col class=xl28 width=28 style='mso-width-source:userset;mso-width-alt:1024;
+ width:21pt'>
+ <col class=xl26 width=74 style='mso-width-source:userset;mso-width-alt:2706;
+ width:56pt'>
+ <col class=xl29 width=52 span=2 style='mso-width-source:userset;mso-width-alt:
+ 1901;width:39pt'>
+ <col class=xl29 width=49 style='mso-width-source:userset;mso-width-alt:1792;
+ width:37pt'>
+ <col class=xl28 width=28 style='mso-width-source:userset;mso-width-alt:1024;
+ width:21pt'>
+ <col class=xl26 width=72 style='mso-width-source:userset;mso-width-alt:2633;
+ width:54pt'>
+ <col class=xl26 width=51 style='mso-width-source:userset;mso-width-alt:1865;
+ width:38pt'>
+ <col class=xl28 width=28 style='mso-width-source:userset;mso-width-alt:1024;
+ width:21pt'>
+ <col class=xl26 width=63 style='mso-width-source:userset;mso-width-alt:2304;
+ width:47pt'>
+ <col class=xl29 width=50 style='mso-width-source:userset;mso-width-alt:1828;
+ width:38pt'>
+ <col class=xl29 width=49 span=2 style='mso-width-source:userset;mso-width-alt:
+ 1792;width:37pt'>
+ <col class=xl28 width=28 style='mso-width-source:userset;mso-width-alt:1024;
+ width:21pt'>
+ <col width=64 style='width:48pt'>
+ <tr height=31 style='mso-height-source:userset;height:23.25pt'>
+  <td height=31 class=xl24 width=40 style='height:23.25pt;width:30pt'></td>
+  <td colspan=15 class=xl35 width=821 style='width:618pt'>UDPL New Year's Day
+  3-Gun Match<font class=font7><span style="mso-spacerun: yes">  </span>-<span
+  style="mso-spacerun: yes">  </span>Results for January 1, 2004 held at the
+  FARM</font></td>
+  <td class=xl35 width=52 style='width:39pt'></td>
+  <td class=xl35 width=49 style='width:37pt'></td>
+  <td class=xl35 width=49 style='width:37pt'></td>
+  <td class=xl28 width=28 style='width:21pt'></td>
+  <td width=74 style='width:56pt'></td>
+  <td class=xl29 width=52 style='width:39pt'></td>
+  <td class=xl29 width=52 style='width:39pt'></td>
+  <td class=xl29 width=49 style='width:37pt'></td>
+  <td class=xl28 width=28 style='width:21pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=51 style='width:38pt'></td>
+  <td class=xl28 width=28 style='width:21pt'></td>
+  <td width=63 style='width:47pt'></td>
+  <td class=xl29 width=50 style='width:38pt'></td>
+  <td class=xl29 width=49 style='width:37pt'></td>
+  <td class=xl29 width=49 style='width:37pt'></td>
+  <td class=xl28 width=28 style='width:21pt'></td>
+  <td width=64 style='width:48pt'></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:17.1pt'>
+  <td height=22 class=xl24 style='height:17.1pt'></td>
+  <td colspan=9 class=xl100
+  x:str="'(Results listed by Time without regard to Division) - Corrected">(Results
+  listed by <font class=font11>Time</font><font class=font7> without regard to
+  Division) -</font><font class=font19> Corrected</font></td>
+  <td class=xl65 colspan=6 style='mso-ignore:colspan'>To see a description of
+  each Stage, click on the <font class=font17>Stage #</font><font class=font15>.</font></td>
+  <td colspan=3 class=xl26 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td class=xl26></td>
+  <td colspan=3 class=xl29 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td colspan=2 class=xl26 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td class=xl26></td>
+  <td colspan=3 class=xl29 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td></td>
+ </tr>
+ <tr height=57 style='mso-height-source:userset;height:43.15pt'>
+  <td height=57 class=xl30 style='height:43.15pt'>Place</td>
+  <td class=xl46 width=138 style='width:104pt'>Name</td>
+  <td class=xl43 width=36 style='border-left:none;width:27pt'>Div *</td>
+  <td class=xl69 width=56 style='border-left:none;width:42pt'>Shoot<br>
+  Total</td>
+  <td class=xl70 width=46 style='border-left:none;width:35pt'>Total Points Down</td>
+  <td class=xl66 width=58 style='border-left:none;width:44pt'><a href="Stage1.JPG">Stage<br>
+  1</a></td>
+  <td class=xl31 width=52 style='width:39pt'>String<br>
+  1</td>
+  <td class=xl31 width=52 style='width:39pt'>String<br>
+  2</td>
+  <td class=xl31 width=52 style='width:39pt'>String<br>
+  3</td>
+  <td class=xl32 width=28 style='width:21pt'>PD</td>
+  <td class=xl64 width=58 style='width:44pt'><a href="Stage2.JPG">Stage<br>
+  2</a></td>
+  <td class=xl31 width=52 style='width:39pt'>String<br>
+  1</td>
+  <td class=xl31 width=52 style='width:39pt'>String<br>
+  2</td>
+  <td class=xl31 width=49 style='width:37pt'>String<br>
+  3</td>
+  <td class=xl32 width=28 style='width:21pt'>PD</td>
+  <td class=xl64 width=64 style='width:48pt'><a href="Stage3.JPG">Stage<br>
+  3</a></td>
+  <td class=xl31 width=52 style='width:39pt'>String<br>
+  1</td>
+  <td class=xl31 width=49 style='width:37pt'>String<br>
+  2</td>
+  <td class=xl31 width=49 style='width:37pt'>String<br>
+  3</td>
+  <td class=xl32 width=28 style='width:21pt'>PD</td>
+  <td class=xl64 width=74 style='width:56pt'><a href="Stage4.JPG">Stage<br>
+  4</a></td>
+  <td class=xl31 width=52 style='width:39pt'>String<br>
+  1</td>
+  <td class=xl31 width=52 style='width:39pt'>String<br>
+  2</td>
+  <td class=xl31 width=49 style='width:37pt'>String<br>
+  3</td>
+  <td class=xl32 width=28 style='width:21pt'>PD</td>
+  <td class=xl64 width=72 style='width:54pt'><a href="Stage5.JPG">Stage<br>
+  5</a></td>
+  <td class=xl31 width=51 style='width:38pt'>String<br>
+  1</td>
+  <td class=xl32 width=28 style='width:21pt'>PD</td>
+  <td class=xl64 width=63 style='width:47pt'><a href="Stage6.JPG">Stage<br>
+  6</a></td>
+  <td class=xl31 width=50 style='width:38pt'>String<br>
+  1</td>
+  <td class=xl31 width=49 style='width:37pt'>String<br>
+  2</td>
+  <td class=xl31 width=49 style='width:37pt'>String<br>
+  3</td>
+  <td class=xl96 width=28 style='width:21pt'>PD</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl33 style='height:16.9pt'>1</td>
+  <td class=xl50>Griffiths, Todd</td>
+  <td class=xl51>L</td>
+  <td class=xl52 x:num x:fmla="=+F4+K4+P4+U4+Z4+AC4">145.55</td>
+  <td class=xl80 style='border-left:none' x:num x:fmla="=+J4+O4+T4+Y4+AB4+AG4">10</td>
+  <td class=xl67 style='border-left:none' x:num x:fmla="=+(G4+H4+I4)+(0.5*J4)">34.20</td>
+  <td class=xl53 x:num>8.08</td>
+  <td class=xl53 x:num>15.41</td>
+  <td class=xl54 x:num>10.71</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(L4+M4+N4)+0.5*O4">11.63</td>
+  <td class=xl53 x:num>1.75</td>
+  <td class=xl53 x:num>2.50</td>
+  <td class=xl56 style='border-left:none' x:num>2.38</td>
+  <td class=xl76 style='border-left:none'>10</td>
+  <td class=xl52 x:num x:fmla="=+(Q4+R4+S4)+0.5*T4">12.15</td>
+  <td class=xl53 x:num>4.79</td>
+  <td class=xl56 style='border-left:none' x:num>3.71</td>
+  <td class=xl63 style='border-left:none' x:num>3.65</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(V4+W4+X4)+0.5*Y4">30.16</td>
+  <td class=xl53 x:num>11.18</td>
+  <td class=xl56 style='border-left:none' x:num>8.23</td>
+  <td class=xl63 style='border-left:none' x:num>10.75</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(AA4)+0.5*AB4">33.75</td>
+  <td class=xl53 x:num>33.75</td>
+  <td class=xl55>0</td>
+  <td class=xl52 x:num x:fmla="=+(AD4+AE4+AF4)+0.5*AG4">23.66</td>
+  <td class=xl53 x:num>7.76</td>
+  <td class=xl53 x:num>8.55</td>
+  <td class=xl54 x:num>7.35</td>
+  <td class=xl81 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl49 style='height:16.9pt'>2</td>
+  <td class=xl47>Stevens, Randy</td>
+  <td class=xl37>T</td>
+  <td class=xl38 x:num x:fmla="=+F5+K5+P5+U5+Z5+AC5">160.75</td>
+  <td class=xl73 style='border-left:none' x:num x:fmla="=+J5+O5+T5+Y5+AB5+AG5">0</td>
+  <td class=xl68 style='border-left:none' x:num x:fmla="=+(G5+H5+I5)+(0.5*J5)">55.88</td>
+  <td class=xl39 x:num>36.24</td>
+  <td class=xl39 x:num>11.47</td>
+  <td class=xl40 x:num>8.17</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(L5+M5+N5)+0.5*O5">11.69</td>
+  <td class=xl39 x:num>3.58</td>
+  <td class=xl39 x:num>3.57</td>
+  <td class=xl48 style='border-left:none' x:num>4.54</td>
+  <td class=xl41 style='border-left:none'>0</td>
+  <td class=xl38 x:num x:fmla="=+(Q5+R5+S5)+0.5*T5">10.28</td>
+  <td class=xl39 x:num>3.87</td>
+  <td class=xl48 style='border-left:none' x:num>2.67</td>
+  <td class=xl60 style='border-left:none' x:num>3.74</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(V5+W5+X5)+0.5*Y5">28.61</td>
+  <td class=xl39 x:num>14.71</td>
+  <td class=xl48 style='border-left:none' x:num>4.94</td>
+  <td class=xl60 style='border-left:none' x:num>8.96</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(AA5)+0.5*AB5">25.02</td>
+  <td class=xl39 x:num>25.02</td>
+  <td class=xl42>0</td>
+  <td class=xl38 x:num x:fmla="=+(AD5+AE5+AF5)+0.5*AG5">29.27</td>
+  <td class=xl39 x:num>12.59</td>
+  <td class=xl39 x:num>7.41</td>
+  <td class=xl40 x:num>9.27</td>
+  <td class=xl74 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl33 style='height:16.9pt'>3</td>
+  <td class=xl50>Collins, Ken</td>
+  <td class=xl51>O</td>
+  <td class=xl52 x:num x:fmla="=+F6+K6+P6+U6+Z6+AC6">163.52</td>
+  <td class=xl80 style='border-left:none' x:num x:fmla="=+J6+O6+T6+Y6+AB6+AG6">0</td>
+  <td class=xl67 style='border-left:none' x:num x:fmla="=+(G6+H6+I6)+(0.5*J6)">34.31</td>
+  <td class=xl53 x:num>11.66</td>
+  <td class=xl53 x:num>13.62</td>
+  <td class=xl54 x:num>9.03</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(L6+M6+N6)+0.5*O6">10.69</td>
+  <td class=xl53 x:num>4.05</td>
+  <td class=xl53 x:num>2.90</td>
+  <td class=xl56 style='border-left:none' x:num>3.74</td>
+  <td class=xl57 style='border-left:none'>0</td>
+  <td class=xl52 x:num x:fmla="=+(Q6+R6+S6)+0.5*T6">12.61</td>
+  <td class=xl53 x:num>4.89</td>
+  <td class=xl56 style='border-left:none' x:num>4.20</td>
+  <td class=xl63 style='border-left:none' x:num>3.52</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(V6+W6+X6)+0.5*Y6">44.87</td>
+  <td class=xl53 x:num>12.60</td>
+  <td class=xl56 style='border-left:none' x:num>19.87</td>
+  <td class=xl63 style='border-left:none' x:num>12.40</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(AA6)+0.5*AB6">29.68</td>
+  <td class=xl53 x:num>29.68</td>
+  <td class=xl55>0</td>
+  <td class=xl52 x:num x:fmla="=+(AD6+AE6+AF6)+0.5*AG6">31.36</td>
+  <td class=xl53 x:num>10.21</td>
+  <td class=xl53 x:num>9.85</td>
+  <td class=xl54 x:num>11.30</td>
+  <td class=xl81 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl49 style='height:16.9pt'>4</td>
+  <td class=xl47>Vollmer, Phillip</td>
+  <td class=xl37>T</td>
+  <td class=xl38 x:num x:fmla="=+F7+K7+P7+U7+Z7+AC7">163.72</td>
+  <td class=xl73 style='border-left:none' x:num x:fmla="=+J7+O7+T7+Y7+AB7+AG7">0</td>
+  <td class=xl68 style='border-left:none' x:num x:fmla="=+(G7+H7+I7)+(0.5*J7)">40.06</td>
+  <td class=xl39 x:num>12.90</td>
+  <td class=xl39 x:num>16.44</td>
+  <td class=xl40 x:num>10.72</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(L7+M7+N7)+0.5*O7">14.82</td>
+  <td class=xl39 x:num>4.98</td>
+  <td class=xl39 x:num>4.78</td>
+  <td class=xl48 style='border-left:none' x:num>5.06</td>
+  <td class=xl41 style='border-left:none'>0</td>
+  <td class=xl38 x:num x:fmla="=+(Q7+R7+S7)+0.5*T7">13.22</td>
+  <td class=xl39 x:num>4.21</td>
+  <td class=xl48 style='border-left:none' x:num>4.36</td>
+  <td class=xl60 style='border-left:none' x:num>4.65</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(V7+W7+X7)+0.5*Y7">36.14</td>
+  <td class=xl39 x:num>12.71</td>
+  <td class=xl48 style='border-left:none' x:num>13.26</td>
+  <td class=xl60 style='border-left:none' x:num>10.17</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(AA7)+0.5*AB7">33.22</td>
+  <td class=xl39 x:num>33.22</td>
+  <td class=xl42>0</td>
+  <td class=xl38 x:num x:fmla="=+(AD7+AE7+AF7)+0.5*AG7">26.26</td>
+  <td class=xl39 x:num>8.19</td>
+  <td class=xl39 x:num>8.22</td>
+  <td class=xl40 x:num>9.85</td>
+  <td class=xl74 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl33 style='height:16.9pt'>5</td>
+  <td class=xl50>Langford, Les</td>
+  <td class=xl51>TRO</td>
+  <td class=xl52 x:num x:fmla="=+F8+K8+P8+U8+Z8+AC8">170.14</td>
+  <td class=xl80 style='border-left:none' x:num x:fmla="=+J8+O8+T8+Y8+AB8+AG8">10</td>
+  <td class=xl67 style='border-left:none' x:num x:fmla="=+(G8+H8+I8)+(0.5*J8)">34.02</td>
+  <td class=xl53 x:num>11.91</td>
+  <td class=xl53 x:num>13.90</td>
+  <td class=xl54 x:num>8.21</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(L8+M8+N8)+0.5*O8">11.48</td>
+  <td class=xl53 x:num>3.90</td>
+  <td class=xl53 x:num>3.67</td>
+  <td class=xl56 style='border-left:none' x:num>3.91</td>
+  <td class=xl57 style='border-left:none'>0</td>
+  <td class=xl52 x:num x:fmla="=+(Q8+R8+S8)+0.5*T8">15.43</td>
+  <td class=xl53 x:num>3.69</td>
+  <td class=xl56 style='border-left:none' x:num>3.30</td>
+  <td class=xl63 style='border-left:none' x:num>3.44</td>
+  <td class=xl76>10</td>
+  <td class=xl52 x:num x:fmla="=+(V8+W8+X8)+0.5*Y8">44.86</td>
+  <td class=xl53 x:num>17.58</td>
+  <td class=xl56 style='border-left:none' x:num>13.37</td>
+  <td class=xl63 style='border-left:none' x:num>13.91</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(AA8)+0.5*AB8">38.20</td>
+  <td class=xl53 x:num>38.20</td>
+  <td class=xl55>0</td>
+  <td class=xl52 x:num x:fmla="=+(AD8+AE8+AF8)+0.5*AG8">26.15</td>
+  <td class=xl53 x:num>8.17</td>
+  <td class=xl53 x:num>9.68</td>
+  <td class=xl54 x:num>8.30</td>
+  <td class=xl81 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl49 style='height:16.9pt'>6</td>
+  <td class=xl47>Latham, Corey</td>
+  <td class=xl37>L</td>
+  <td class=xl38 x:num x:fmla="=+F9+K9+P9+U9+Z9+AC9">180.88</td>
+  <td class=xl73 style='border-left:none' x:num x:fmla="=+J9+O9+T9+Y9+AB9+AG9">20</td>
+  <td class=xl68 style='border-left:none' x:num x:fmla="=+(G9+H9+I9)+(0.5*J9)">60.26</td>
+  <td class=xl39 x:num>25.30</td>
+  <td class=xl39 x:num>14.65</td>
+  <td class=xl40 x:num>15.31</td>
+  <td class=xl76>10</td>
+  <td class=xl38 x:num x:fmla="=+(L9+M9+N9)+0.5*O9">5.51</td>
+  <td class=xl39 x:num>1.21</td>
+  <td class=xl39 x:num>1.97</td>
+  <td class=xl48 style='border-left:none' x:num>2.33</td>
+  <td class=xl41 style='border-left:none'>0</td>
+  <td class=xl38 x:num x:fmla="=+(Q9+R9+S9)+0.5*T9">10.39</td>
+  <td class=xl39 x:num>3.24</td>
+  <td class=xl48 style='border-left:none' x:num>3.67</td>
+  <td class=xl60 style='border-left:none' x:num>3.48</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(V9+W9+X9)+0.5*Y9">26.33</td>
+  <td class=xl39 x:num>12.79</td>
+  <td class=xl48 style='border-left:none' x:num>7.93</td>
+  <td class=xl60 style='border-left:none' x:num>5.61</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(AA9)+0.5*AB9">32.62</td>
+  <td class=xl39 x:num>32.62</td>
+  <td class=xl42>0</td>
+  <td class=xl38 x:num x:fmla="=+(AD9+AE9+AF9)+0.5*AG9">45.77</td>
+  <td class=xl39 x:num>9.12</td>
+  <td class=xl39 x:num>24.38</td>
+  <td class=xl40 x:num>7.27</td>
+  <td class=xl77 x:num>10</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl33 style='height:16.9pt'>7</td>
+  <td class=xl50>Huff, Blake</td>
+  <td class=xl51>TRO</td>
+  <td class=xl52 x:num x:fmla="=+F10+K10+P10+U10+Z10+AC10">183.45</td>
+  <td class=xl80 style='border-left:none' x:num
+  x:fmla="=+J10+O10+T10+Y10+AB10+AG10">0</td>
+  <td class=xl67 style='border-left:none' x:num
+  x:fmla="=+(G10+H10+I10)+(0.5*J10)">53.07</td>
+  <td class=xl53 x:num>15.97</td>
+  <td class=xl53 x:num>27.70</td>
+  <td class=xl54 x:num>9.40</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(L10+M10+N10)+0.5*O10">12.12</td>
+  <td class=xl53 x:num>4.06</td>
+  <td class=xl53 x:num>3.95</td>
+  <td class=xl56 style='border-left:none' x:num>4.11</td>
+  <td class=xl57 style='border-left:none'>0</td>
+  <td class=xl52 x:num x:fmla="=+(Q10+R10+S10)+0.5*T10">11.84</td>
+  <td class=xl53 x:num>3.22</td>
+  <td class=xl56 style='border-left:none' x:num>4.13</td>
+  <td class=xl63 style='border-left:none' x:num>4.49</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(V10+W10+X10)+0.5*Y10">44.97</td>
+  <td class=xl53 x:num>17.95</td>
+  <td class=xl56 style='border-left:none' x:num>12.99</td>
+  <td class=xl63 style='border-left:none' x:num>14.03</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(AA10)+0.5*AB10">34.42</td>
+  <td class=xl53 x:num>34.42</td>
+  <td class=xl55>0</td>
+  <td class=xl52 x:num x:fmla="=+(AD10+AE10+AF10)+0.5*AG10">27.03</td>
+  <td class=xl53 x:num>10.00</td>
+  <td class=xl53 x:num>9.01</td>
+  <td class=xl54 x:num>8.02</td>
+  <td class=xl81 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl49 style='height:16.9pt'>8</td>
+  <td class=xl47>Ward, Dan</td>
+  <td class=xl37>TRO</td>
+  <td class=xl38 x:num x:fmla="=+F11+K11+P11+U11+Z11+AC11">185.93</td>
+  <td class=xl73 style='border-left:none' x:num
+  x:fmla="=+J11+O11+T11+Y11+AB11+AG11">0</td>
+  <td class=xl68 style='border-left:none' x:num
+  x:fmla="=+(G11+H11+I11)+(0.5*J11)">57.33</td>
+  <td class=xl39 x:num>14.68</td>
+  <td class=xl39 x:num>23.36</td>
+  <td class=xl40 x:num>19.29</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(L11+M11+N11)+0.5*O11">19.15</td>
+  <td class=xl39 x:num>7.42</td>
+  <td class=xl39 x:num>5.81</td>
+  <td class=xl48 style='border-left:none' x:num>5.92</td>
+  <td class=xl41 style='border-left:none'>0</td>
+  <td class=xl38 x:num x:fmla="=+(Q11+R11+S11)+0.5*T11">11.86</td>
+  <td class=xl39 x:num>4.46</td>
+  <td class=xl48 style='border-left:none' x:num>3.90</td>
+  <td class=xl60 style='border-left:none' x:num>3.50</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(V11+W11+X11)+0.5*Y11">35.65</td>
+  <td class=xl39 x:num>13.35</td>
+  <td class=xl48 style='border-left:none' x:num>13.12</td>
+  <td class=xl60 style='border-left:none' x:num>9.18</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(AA11)+0.5*AB11">34.28</td>
+  <td class=xl39 x:num>34.28</td>
+  <td class=xl42>0</td>
+  <td class=xl38 x:num x:fmla="=+(AD11+AE11+AF11)+0.5*AG11">27.66</td>
+  <td class=xl39 x:num>9.16</td>
+  <td class=xl39 x:num>9.14</td>
+  <td class=xl40 x:num>9.36</td>
+  <td class=xl74 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl33 style='height:16.9pt'>9</td>
+  <td class=xl50>Correia, Larry</td>
+  <td class=xl51>O</td>
+  <td class=xl52 x:num x:fmla="=+F12+K12+P12+U12+Z12+AC12">190.29</td>
+  <td class=xl80 style='border-left:none' x:num
+  x:fmla="=+J12+O12+T12+Y12+AB12+AG12">0</td>
+  <td class=xl67 style='border-left:none' x:num
+  x:fmla="=+(G12+H12+I12)+(0.5*J12)">62.25</td>
+  <td class=xl53 x:num>14.41</td>
+  <td class=xl53 x:num>36.62</td>
+  <td class=xl54 x:num>11.22</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(L12+M12+N12)+0.5*O12">9.57</td>
+  <td class=xl53 x:num>3.70</td>
+  <td class=xl53 x:num>2.84</td>
+  <td class=xl56 style='border-left:none' x:num>3.03</td>
+  <td class=xl57 style='border-left:none'>0</td>
+  <td class=xl52 x:num x:fmla="=+(Q12+R12+S12)+0.5*T12">13.69</td>
+  <td class=xl53 x:num>4.41</td>
+  <td class=xl56 style='border-left:none' x:num>5.15</td>
+  <td class=xl63 style='border-left:none' x:num>4.13</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(V12+W12+X12)+0.5*Y12">32.82</td>
+  <td class=xl53 x:num>11.18</td>
+  <td class=xl103 style='border-left:none' x:num>3.69</td>
+  <td class=xl63 style='border-left:none' x:num>17.95</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(AA12)+0.5*AB12">37.71</td>
+  <td class=xl53 x:num>37.71</td>
+  <td class=xl55>0</td>
+  <td class=xl52 x:num x:fmla="=+(AD12+AE12+AF12)+0.5*AG12">34.25</td>
+  <td class=xl53 x:num>13.51</td>
+  <td class=xl53 x:num>9.27</td>
+  <td class=xl54 x:num>11.47</td>
+  <td class=xl81 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl49 style='height:16.9pt'>10</td>
+  <td class=xl47>Mousley, Roger</td>
+  <td class=xl37>TRO</td>
+  <td class=xl38 x:num x:fmla="=+F13+K13+P13+U13+Z13+AC13">190.85</td>
+  <td class=xl73 style='border-left:none' x:num
+  x:fmla="=+J13+O13+T13+Y13+AB13+AG13">0</td>
+  <td class=xl68 style='border-left:none' x:num
+  x:fmla="=+(G13+H13+I13)+(0.5*J13)">67.84</td>
+  <td class=xl39 x:num>16.62</td>
+  <td class=xl39 x:num>37.82</td>
+  <td class=xl40 x:num>13.40</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(L13+M13+N13)+0.5*O13">10.72</td>
+  <td class=xl39 x:num>3.73</td>
+  <td class=xl39 x:num>3.38</td>
+  <td class=xl48 style='border-left:none' x:num>3.61</td>
+  <td class=xl41 style='border-left:none'>0</td>
+  <td class=xl38 x:num x:fmla="=+(Q13+R13+S13)+0.5*T13">8.04</td>
+  <td class=xl39 x:num>2.85</td>
+  <td class=xl48 style='border-left:none' x:num>2.52</td>
+  <td class=xl60 style='border-left:none' x:num>2.67</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(V13+W13+X13)+0.5*Y13">31.65</td>
+  <td class=xl39 x:num>15.36</td>
+  <td class=xl48 style='border-left:none' x:num>8.36</td>
+  <td class=xl60 style='border-left:none' x:num>7.93</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(AA13)+0.5*AB13">39.32</td>
+  <td class=xl39 x:num>39.32</td>
+  <td class=xl42>0</td>
+  <td class=xl38 x:num x:fmla="=+(AD13+AE13+AF13)+0.5*AG13">33.28</td>
+  <td class=xl39 x:num>11.40</td>
+  <td class=xl39 x:num>11.34</td>
+  <td class=xl40 x:num>10.54</td>
+  <td class=xl74 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl33 style='height:16.9pt'>11</td>
+  <td class=xl50>Ostler, Jeff</td>
+  <td class=xl51>TRO</td>
+  <td class=xl52 x:num x:fmla="=+F14+K14+P14+U14+Z14+AC14">192.22</td>
+  <td class=xl80 style='border-left:none' x:num
+  x:fmla="=+J14+O14+T14+Y14+AB14+AG14">30</td>
+  <td class=xl67 style='border-left:none' x:num
+  x:fmla="=+(G14+H14+I14)+(0.5*J14)">62.78</td>
+  <td class=xl53 x:num>25.94</td>
+  <td class=xl53 x:num>21.30</td>
+  <td class=xl54 x:num>15.54</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(L14+M14+N14)+0.5*O14">9.77</td>
+  <td class=xl53 x:num>4.65</td>
+  <td class=xl53 x:num>2.78</td>
+  <td class=xl56 style='border-left:none' x:num>2.34</td>
+  <td class=xl57 style='border-left:none'>0</td>
+  <td class=xl52 x:num x:fmla="=+(Q14+R14+S14)+0.5*T14">10.36</td>
+  <td class=xl53 x:num>3.84</td>
+  <td class=xl56 style='border-left:none' x:num>3.48</td>
+  <td class=xl63 style='border-left:none' x:num>3.04</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(V14+W14+X14)+0.5*Y14">32.73</td>
+  <td class=xl53 x:num>16.20</td>
+  <td class=xl56 style='border-left:none' x:num>6.45</td>
+  <td class=xl63 style='border-left:none' x:num>10.08</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(AA14)+0.5*AB14">52.99</td>
+  <td class=xl53 x:num>37.99</td>
+  <td class=xl78>30</td>
+  <td class=xl52 x:num x:fmla="=+(AD14+AE14+AF14)+0.5*AG14">23.59</td>
+  <td class=xl53 x:num>7.90</td>
+  <td class=xl53 x:num>8.10</td>
+  <td class=xl54 x:num>7.59</td>
+  <td class=xl81 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl49 style='height:16.9pt'>12</td>
+  <td class=xl47>Lowe, John</td>
+  <td class=xl37>TRO</td>
+  <td class=xl38 x:num x:fmla="=+F15+K15+P15+U15+Z15+AC15">192.73</td>
+  <td class=xl73 style='border-left:none' x:num
+  x:fmla="=+J15+O15+T15+Y15+AB15+AG15">10</td>
+  <td class=xl68 style='border-left:none' x:num
+  x:fmla="=+(G15+H15+I15)+(0.5*J15)">76.51</td>
+  <td class=xl39 x:num>36.37</td>
+  <td class=xl39 x:num>29.36</td>
+  <td class=xl40 x:num>10.78</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(L15+M15+N15)+0.5*O15">12.01</td>
+  <td class=xl39 x:num>4.78</td>
+  <td class=xl39 x:num>3.83</td>
+  <td class=xl48 style='border-left:none' x:num>3.40</td>
+  <td class=xl41 style='border-left:none'>0</td>
+  <td class=xl38 x:num x:fmla="=+(Q15+R15+S15)+0.5*T15">17.08</td>
+  <td class=xl39 x:num>4.11</td>
+  <td class=xl48 style='border-left:none' x:num>4.23</td>
+  <td class=xl60 style='border-left:none' x:num>3.74</td>
+  <td class=xl76>10</td>
+  <td class=xl38 x:num x:fmla="=+(V15+W15+X15)+0.5*Y15">30.65</td>
+  <td class=xl39 x:num>18.06</td>
+  <td class=xl48 style='border-left:none' x:num>6.59</td>
+  <td class=xl60 style='border-left:none' x:num>6.00</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(AA15)+0.5*AB15">33.47</td>
+  <td class=xl39 x:num>33.47</td>
+  <td class=xl42>0</td>
+  <td class=xl38 x:num x:fmla="=+(AD15+AE15+AF15)+0.5*AG15">23.01</td>
+  <td class=xl39 x:num>8.32</td>
+  <td class=xl39 x:num>6.43</td>
+  <td class=xl40 x:num>8.26</td>
+  <td class=xl74 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl33 style='height:16.9pt'>13</td>
+  <td class=xl50>Theodore, Ari</td>
+  <td class=xl51>T</td>
+  <td class=xl52 x:num x:fmla="=+F16+K16+P16+U16+Z16+AC16">217.74</td>
+  <td class=xl80 style='border-left:none' x:num
+  x:fmla="=+J16+O16+T16+Y16+AB16+AG16">20</td>
+  <td class=xl67 style='border-left:none' x:num
+  x:fmla="=+(G16+H16+I16)+(0.5*J16)">81.99</td>
+  <td class=xl53 x:num>36.03</td>
+  <td class=xl53 x:num>32.28</td>
+  <td class=xl54 x:num>13.68</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(L16+M16+N16)+0.5*O16">16.67</td>
+  <td class=xl53 x:num>7.04</td>
+  <td class=xl53 x:num>4.91</td>
+  <td class=xl56 style='border-left:none' x:num>4.72</td>
+  <td class=xl57 style='border-left:none'>0</td>
+  <td class=xl52 x:num x:fmla="=+(Q16+R16+S16)+0.5*T16">12.62</td>
+  <td class=xl53 x:num>3.89</td>
+  <td class=xl56 style='border-left:none' x:num>4.49</td>
+  <td class=xl63 style='border-left:none' x:num>4.24</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(V16+W16+X16)+0.5*Y16">27.73</td>
+  <td class=xl53 x:num>11.70</td>
+  <td class=xl56 style='border-left:none' x:num>9.69</td>
+  <td class=xl63 style='border-left:none' x:num>6.34</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(AA16)+0.5*AB16">35.81</td>
+  <td class=xl53 x:num>35.81</td>
+  <td class=xl55>0</td>
+  <td class=xl52 x:num x:fmla="=+(AD16+AE16+AF16)+0.5*AG16">42.92</td>
+  <td class=xl53 x:num>10.69</td>
+  <td class=xl53 x:num>10.69</td>
+  <td class=xl54 x:num>11.54</td>
+  <td class=xl77 x:num>20</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl49 style='height:16.9pt'>14</td>
+  <td class=xl47>Adams, Kyle</td>
+  <td class=xl37>TRO</td>
+  <td class=xl38 x:num x:fmla="=+F17+K17+P17+U17+Z17+AC17">228.99</td>
+  <td class=xl73 style='border-left:none' x:num
+  x:fmla="=+J17+O17+T17+Y17+AB17+AG17">0</td>
+  <td class=xl68 style='border-left:none' x:num
+  x:fmla="=+(G17+H17+I17)+(0.5*J17)">56.05</td>
+  <td class=xl39 x:num>18.60</td>
+  <td class=xl39 x:num>14.28</td>
+  <td class=xl40 x:num>23.17</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(L17+M17+N17)+0.5*O17">10.75</td>
+  <td class=xl39 x:num>3.93</td>
+  <td class=xl39 x:num>3.55</td>
+  <td class=xl48 style='border-left:none' x:num>3.27</td>
+  <td class=xl41 style='border-left:none'>0</td>
+  <td class=xl38 x:num x:fmla="=+(Q17+R17+S17)+0.5*T17">18.50</td>
+  <td class=xl39 x:num>7.36</td>
+  <td class=xl48 style='border-left:none' x:num>4.67</td>
+  <td class=xl60 style='border-left:none' x:num>6.47</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(V17+W17+X17)+0.5*Y17">55.21</td>
+  <td class=xl39 x:num>19.72</td>
+  <td class=xl48 style='border-left:none' x:num>22.00</td>
+  <td class=xl60 style='border-left:none' x:num>13.49</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(AA17)+0.5*AB17">27.41</td>
+  <td class=xl39 x:num>27.41</td>
+  <td class=xl42>0</td>
+  <td class=xl38 x:num x:fmla="=+(AD17+AE17+AF17)+0.5*AG17">61.07</td>
+  <td class=xl39 x:num>20.36</td>
+  <td class=xl39 x:num>28.07</td>
+  <td class=xl40 x:num>12.64</td>
+  <td class=xl74 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl33 style='height:16.9pt'>15</td>
+  <td class=xl50>Zaccardi, Pat</td>
+  <td class=xl51>L</td>
+  <td class=xl52 x:num x:fmla="=+F18+K18+P18+U18+Z18+AC18">236.74</td>
+  <td class=xl82 style='border-left:none' x:num
+  x:fmla="=+J18+O18+T18+Y18+AB18+AG18">30</td>
+  <td class=xl67 style='border-left:none' x:num
+  x:fmla="=+(G18+H18+I18)+(0.5*J18)">81.50</td>
+  <td class=xl53 x:num>20.19</td>
+  <td class=xl53 x:num>34.74</td>
+  <td class=xl54 x:num>16.57</td>
+  <td class=xl76>20</td>
+  <td class=xl52 x:num x:fmla="=+(L18+M18+N18)+0.5*O18">12.95</td>
+  <td class=xl53 x:num>4.63</td>
+  <td class=xl53 x:num>3.96</td>
+  <td class=xl56 style='border-left:none' x:num>4.36</td>
+  <td class=xl57 style='border-left:none'>0</td>
+  <td class=xl52 x:num x:fmla="=+(Q18+R18+S18)+0.5*T18">18.44</td>
+  <td class=xl53 x:num>3.87</td>
+  <td class=xl56 style='border-left:none' x:num>5.42</td>
+  <td class=xl63 style='border-left:none' x:num>4.15</td>
+  <td class=xl76>10</td>
+  <td class=xl52 x:num x:fmla="=+(V18+W18+X18)+0.5*Y18">47.44</td>
+  <td class=xl53 x:num>22.62</td>
+  <td class=xl56 style='border-left:none' x:num>16.43</td>
+  <td class=xl63 style='border-left:none' x:num>8.39</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(AA18)+0.5*AB18">45.92</td>
+  <td class=xl53 x:num>45.92</td>
+  <td class=xl55>0</td>
+  <td class=xl52 x:num x:fmla="=+(AD18+AE18+AF18)+0.5*AG18">30.49</td>
+  <td class=xl53 x:num>10.95</td>
+  <td class=xl53 x:num>8.37</td>
+  <td class=xl54 x:num>11.17</td>
+  <td class=xl81 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl49 style='height:16.9pt'>16</td>
+  <td class=xl47>Roberts, Bruce</td>
+  <td class=xl37>TRO</td>
+  <td class=xl38 x:num x:fmla="=+F19+K19+P19+U19+Z19+AC19">243.23</td>
+  <td class=xl73 style='border-left:none' x:num
+  x:fmla="=+J19+O19+T19+Y19+AB19+AG19">0</td>
+  <td class=xl68 style='border-left:none' x:num
+  x:fmla="=+(G19+H19+I19)+(0.5*J19)">83.45</td>
+  <td class=xl39 x:num>46.70</td>
+  <td class=xl39 x:num>18.18</td>
+  <td class=xl40 x:num>18.57</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(L19+M19+N19)+0.5*O19">16.55</td>
+  <td class=xl39 x:num>7.37</td>
+  <td class=xl39 x:num>4.67</td>
+  <td class=xl48 style='border-left:none' x:num>4.51</td>
+  <td class=xl41 style='border-left:none'>0</td>
+  <td class=xl38 x:num x:fmla="=+(Q19+R19+S19)+0.5*T19">15.08</td>
+  <td class=xl39 x:num>7.05</td>
+  <td class=xl48 style='border-left:none' x:num>4.42</td>
+  <td class=xl60 style='border-left:none' x:num>3.61</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(V19+W19+X19)+0.5*Y19">57.41</td>
+  <td class=xl39 x:num>32.09</td>
+  <td class=xl48 style='border-left:none' x:num>14.57</td>
+  <td class=xl60 style='border-left:none' x:num>10.75</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(AA19)+0.5*AB19">39.78</td>
+  <td class=xl39 x:num>39.78</td>
+  <td class=xl42>0</td>
+  <td class=xl38 x:num x:fmla="=+(AD19+AE19+AF19)+0.5*AG19">30.96</td>
+  <td class=xl39 x:num>12.71</td>
+  <td class=xl39 x:num>8.40</td>
+  <td class=xl40 x:num>9.85</td>
+  <td class=xl74 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl33 style='height:16.9pt'>17</td>
+  <td class=xl50>Montgomery, Robert</td>
+  <td class=xl51>L</td>
+  <td class=xl52 x:num x:fmla="=+F20+K20+P20+U20+Z20+AC20">245.22</td>
+  <td class=xl80 style='border-left:none' x:num
+  x:fmla="=+J20+O20+T20+Y20+AB20+AG20">0</td>
+  <td class=xl67 style='border-left:none' x:num
+  x:fmla="=+(G20+H20+I20)+(0.5*J20)">79.10</td>
+  <td class=xl53 x:num>14.86</td>
+  <td class=xl53 x:num>44.36</td>
+  <td class=xl54 x:num>19.88</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(L20+M20+N20)+0.5*O20">18.09</td>
+  <td class=xl53 x:num>6.85</td>
+  <td class=xl53 x:num>5.92</td>
+  <td class=xl56 style='border-left:none' x:num>5.32</td>
+  <td class=xl57 style='border-left:none'>0</td>
+  <td class=xl52 x:num x:fmla="=+(Q20+R20+S20)+0.5*T20">17.90</td>
+  <td class=xl53 x:num>6.82</td>
+  <td class=xl56 style='border-left:none' x:num>5.60</td>
+  <td class=xl63 style='border-left:none' x:num>5.48</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(V20+W20+X20)+0.5*Y20">47.09</td>
+  <td class=xl53 x:num>19.93</td>
+  <td class=xl56 style='border-left:none' x:num>17.72</td>
+  <td class=xl63 style='border-left:none' x:num>9.44</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(AA20)+0.5*AB20">38.95</td>
+  <td class=xl53 x:num>38.95</td>
+  <td class=xl55>0</td>
+  <td class=xl52 x:num x:fmla="=+(AD20+AE20+AF20)+0.5*AG20">44.09</td>
+  <td class=xl53 x:num>12.71</td>
+  <td class=xl53 x:num>11.59</td>
+  <td class=xl54 x:num>19.79</td>
+  <td class=xl81 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl49 style='height:16.9pt'>18</td>
+  <td class=xl47>Taylor, Joshua</td>
+  <td class=xl37>T</td>
+  <td class=xl38 x:num x:fmla="=+F21+K21+P21+U21+Z21+AC21">245.81</td>
+  <td class=xl73 style='border-left:none' x:num
+  x:fmla="=+J21+O21+T21+Y21+AB21+AG21">0</td>
+  <td class=xl68 style='border-left:none' x:num
+  x:fmla="=+(G21+H21+I21)+(0.5*J21)">55.59</td>
+  <td class=xl39 x:num>11.54</td>
+  <td class=xl39 x:num>22.42</td>
+  <td class=xl40 x:num>21.63</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(L21+M21+N21)+0.5*O21">16.25</td>
+  <td class=xl39 x:num>5.37</td>
+  <td class=xl39 x:num>5.21</td>
+  <td class=xl48 style='border-left:none' x:num>5.67</td>
+  <td class=xl41 style='border-left:none'>0</td>
+  <td class=xl38 x:num x:fmla="=+(Q21+R21+S21)+0.5*T21">16.41</td>
+  <td class=xl39 x:num>5.67</td>
+  <td class=xl48 style='border-left:none' x:num>5.38</td>
+  <td class=xl60 style='border-left:none' x:num>5.36</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(V21+W21+X21)+0.5*Y21">60.69</td>
+  <td class=xl39 x:num>30.50</td>
+  <td class=xl48 style='border-left:none' x:num>18.49</td>
+  <td class=xl60 style='border-left:none' x:num>11.70</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(AA21)+0.5*AB21">46.74</td>
+  <td class=xl39 x:num>46.74</td>
+  <td class=xl42>0</td>
+  <td class=xl38 x:num x:fmla="=+(AD21+AE21+AF21)+0.5*AG21">50.13</td>
+  <td class=xl39 x:num>19.17</td>
+  <td class=xl39 x:num>17.85</td>
+  <td class=xl40 x:num>13.11</td>
+  <td class=xl74 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl33 style='height:16.9pt'>19</td>
+  <td class=xl50>Willard, Jason</td>
+  <td class=xl51>TRO</td>
+  <td class=xl52 x:num x:fmla="=+F22+K22+P22+U22+Z22+AC22">269.23</td>
+  <td class=xl80 style='border-left:none' x:num
+  x:fmla="=+J22+O22+T22+Y22+AB22+AG22">0</td>
+  <td class=xl67 style='border-left:none' x:num
+  x:fmla="=+(G22+H22+I22)+(0.5*J22)">103.61</td>
+  <td class=xl53 x:num>20.45</td>
+  <td class=xl53 x:num>60.03</td>
+  <td class=xl54 x:num>23.13</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(L22+M22+N22)+0.5*O22">13.86</td>
+  <td class=xl53 x:num>4.45</td>
+  <td class=xl53 x:num>4.95</td>
+  <td class=xl56 style='border-left:none' x:num>4.46</td>
+  <td class=xl57 style='border-left:none'>0</td>
+
+  <td class=xl52 x:num x:fmla="=+(Q22+R22+S22)+0.5*T22">12.61</td>
+  <td class=xl53 x:num>4.03</td>
+  <td class=xl56 style='border-left:none' x:num>4.02</td>
+  <td class=xl63 style='border-left:none' x:num>4.56</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(V22+W22+X22)+0.5*Y22">54.73</td>
+  <td class=xl53 x:num>36.30</td>
+  <td class=xl56 style='border-left:none' x:num>10.12</td>
+  <td class=xl63 style='border-left:none' x:num>8.31</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(AA22)+0.5*AB22">46.98</td>
+  <td class=xl53 x:num>46.98</td>
+  <td class=xl55>0</td>
+  <td class=xl52 x:num x:fmla="=+(AD22+AE22+AF22)+0.5*AG22">37.44</td>
+  <td class=xl53 x:num>16.62</td>
+  <td class=xl53 x:num>9.97</td>
+  <td class=xl54 x:num>10.85</td>
+  <td class=xl81 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl49 style='height:16.9pt'>20</td>
+  <td class=xl47>Beck, Dave</td>
+  <td class=xl37>L</td>
+  <td class=xl38 x:num x:fmla="=+F23+K23+P23+U23+Z23+AC23">273.30</td>
+  <td class=xl73 style='border-left:none' x:num
+  x:fmla="=+J23+O23+T23+Y23+AB23+AG23">20</td>
+  <td class=xl68 style='border-left:none' x:num
+  x:fmla="=+(G23+H23+I23)+(0.5*J23)">94.12</td>
+  <td class=xl39 x:num>43.65</td>
+  <td class=xl39 x:num>34.80</td>
+  <td class=xl40 x:num>15.67</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(L23+M23+N23)+0.5*O23">20.88</td>
+  <td class=xl39 x:num>3.95</td>
+  <td class=xl39 x:num>4.71</td>
+  <td class=xl48 style='border-left:none' x:num>7.22</td>
+  <td class=xl76 style='border-left:none'>10</td>
+  <td class=xl38 x:num x:fmla="=+(Q23+R23+S23)+0.5*T23">17.79</td>
+  <td class=xl39 x:num>4.93</td>
+  <td class=xl48 style='border-left:none' x:num>3.72</td>
+  <td class=xl60 style='border-left:none' x:num>4.14</td>
+  <td class=xl76>10</td>
+  <td class=xl38 x:num x:fmla="=+(V23+W23+X23)+0.5*Y23">80.93</td>
+  <td class=xl39 x:num>34.75</td>
+  <td class=xl48 style='border-left:none' x:num>33.32</td>
+  <td class=xl60 style='border-left:none' x:num>12.86</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(AA23)+0.5*AB23">31.87</td>
+  <td class=xl39 x:num>31.87</td>
+  <td class=xl42>0</td>
+  <td class=xl38 x:num x:fmla="=+(AD23+AE23+AF23)+0.5*AG23">27.71</td>
+  <td class=xl39 x:num>9.91</td>
+  <td class=xl39 x:num>8.99</td>
+  <td class=xl40 x:num>8.81</td>
+  <td class=xl74 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl33 style='height:16.9pt'>21</td>
+  <td class=xl50>Knapp, Chris</td>
+  <td class=xl51>L</td>
+  <td class=xl52 x:num x:fmla="=+F24+K24+P24+U24+Z24+AC24">306.28</td>
+  <td class=xl80 style='border-left:none' x:num
+  x:fmla="=+J24+O24+T24+Y24+AB24+AG24">0</td>
+  <td class=xl67 style='border-left:none' x:num
+  x:fmla="=+(G24+H24+I24)+(0.5*J24)">132.37</td>
+  <td class=xl53 x:num>56.08</td>
+  <td class=xl53 x:num>51.76</td>
+  <td class=xl54 x:num>24.53</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(L24+M24+N24)+0.5*O24">13.08</td>
+  <td class=xl53 x:num>4.62</td>
+  <td class=xl53 x:num>4.19</td>
+  <td class=xl56 style='border-left:none' x:num>4.27</td>
+  <td class=xl57 style='border-left:none'>0</td>
+  <td class=xl52 x:num x:fmla="=+(Q24+R24+S24)+0.5*T24">17.80</td>
+  <td class=xl53 x:num>6.94</td>
+  <td class=xl56 style='border-left:none' x:num>5.97</td>
+  <td class=xl63 style='border-left:none' x:num>4.89</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(V24+W24+X24)+0.5*Y24">53.35</td>
+  <td class=xl53 x:num>30.25</td>
+  <td class=xl56 style='border-left:none' x:num>12.04</td>
+  <td class=xl63 style='border-left:none' x:num>11.06</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(AA24)+0.5*AB24">56.00</td>
+  <td class=xl53 x:num>56.00</td>
+  <td class=xl55>0</td>
+  <td class=xl52 x:num x:fmla="=+(AD24+AE24+AF24)+0.5*AG24">33.68</td>
+  <td class=xl53 x:num>10.32</td>
+  <td class=xl53 x:num>12.12</td>
+  <td class=xl54 x:num>11.24</td>
+  <td class=xl81 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl49 style='height:16.9pt'>22</td>
+  <td class=xl58 width=138 style='width:104pt'>Clarin, Kent</td>
+  <td class=xl37>T</td>
+  <td class=xl38 x:num x:fmla="=+F25+K25+P25+U25+Z25+AC25">308.96</td>
+  <td class=xl73 style='border-left:none' x:num
+  x:fmla="=+J25+O25+T25+Y25+AB25+AG25">0</td>
+  <td class=xl68 style='border-left:none' x:num
+  x:fmla="=+(G25+H25+I25)+(0.5*J25)">78.91</td>
+  <td class=xl39 x:num>19.86</td>
+  <td class=xl39 x:num>19.80</td>
+  <td class=xl40 x:num>39.25</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(L25+M25+N25)+0.5*O25">19.88</td>
+  <td class=xl39 x:num>7.62</td>
+  <td class=xl39 x:num>6.26</td>
+  <td class=xl48 style='border-left:none' x:num>6.00</td>
+  <td class=xl41 style='border-left:none'>0</td>
+  <td class=xl38 x:num x:fmla="=+(Q25+R25+S25)+0.5*T25">19.80</td>
+  <td class=xl39 x:num>5.53</td>
+  <td class=xl48 style='border-left:none' x:num>9.96</td>
+  <td class=xl60 style='border-left:none' x:num>4.31</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(V25+W25+X25)+0.5*Y25">83.03</td>
+  <td class=xl39 x:num>41.27</td>
+  <td class=xl48 style='border-left:none' x:num>30.48</td>
+  <td class=xl60 style='border-left:none' x:num>11.28</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(AA25)+0.5*AB25">59.99</td>
+  <td class=xl39 x:num>59.99</td>
+  <td class=xl42>0</td>
+  <td class=xl38 x:num x:fmla="=+(AD25+AE25+AF25)+0.5*AG25">47.35</td>
+  <td class=xl39 x:num>14.13</td>
+  <td class=xl39 x:num>24.20</td>
+  <td class=xl40 x:num>9.02</td>
+  <td class=xl74 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl33 style='height:16.9pt'>23</td>
+  <td class=xl50>Zaccardi, Juke</td>
+  <td class=xl51>L</td>
+  <td class=xl52 x:num x:fmla="=+F26+K26+P26+U26+Z26+AC26">340.33</td>
+  <td class=xl80 style='border-left:none' x:num
+  x:fmla="=+J26+O26+T26+Y26+AB26+AG26">70</td>
+  <td class=xl67 style='border-left:none' x:num
+  x:fmla="=+(G26+H26+I26)+(0.5*J26)">127.85</td>
+  <td class=xl53 x:num>25.49</td>
+  <td class=xl53 x:num>46.96</td>
+  <td class=xl54 x:num>20.40</td>
+  <td class=xl76>70</td>
+  <td class=xl52 x:num x:fmla="=+(L26+M26+N26)+0.5*O26">14.78</td>
+  <td class=xl53 x:num>5.03</td>
+  <td class=xl53 x:num>5.35</td>
+  <td class=xl56 style='border-left:none' x:num>4.40</td>
+  <td class=xl57 style='border-left:none'>0</td>
+  <td class=xl52 x:num x:fmla="=+(Q26+R26+S26)+0.5*T26">16.43</td>
+  <td class=xl53 x:num>5.71</td>
+  <td class=xl56 style='border-left:none' x:num>5.41</td>
+  <td class=xl63 style='border-left:none' x:num>5.31</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(V26+W26+X26)+0.5*Y26">78.77</td>
+  <td class=xl53 x:num>45.58</td>
+  <td class=xl56 style='border-left:none' x:num>23.02</td>
+  <td class=xl63 style='border-left:none' x:num>10.17</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(AA26)+0.5*AB26">65.87</td>
+  <td class=xl53 x:num>65.87</td>
+  <td class=xl55>0</td>
+  <td class=xl52 x:num x:fmla="=+(AD26+AE26+AF26)+0.5*AG26">36.63</td>
+  <td class=xl53 x:num>11.72</td>
+  <td class=xl53 x:num>12.50</td>
+  <td class=xl54 x:num>12.41</td>
+  <td class=xl81 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl49 style='height:16.9pt'>24</td>
+  <td class=xl47>Simpson, Harold</td>
+  <td class=xl37>TRO</td>
+  <td class=xl38 x:num x:fmla="=+F27+K27+P27+U27+Z27+AC27">344.94</td>
+  <td class=xl73 style='border-left:none' x:num
+  x:fmla="=+J27+O27+T27+Y27+AB27+AG27">30</td>
+  <td class=xl68 style='border-left:none' x:num
+  x:fmla="=+(G27+H27+I27)+(0.5*J27)">113.29</td>
+  <td class=xl39 x:num>48.44</td>
+  <td class=xl39 x:num>42.46</td>
+  <td class=xl40 x:num>22.39</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(L27+M27+N27)+0.5*O27">29.14</td>
+  <td class=xl39 x:num>6.67</td>
+  <td class=xl39 x:num>6.25</td>
+  <td class=xl48 style='border-left:none' x:num>6.22</td>
+  <td class=xl76 style='border-left:none'>20</td>
+  <td class=xl38 x:num x:fmla="=+(Q27+R27+S27)+0.5*T27">22.50</td>
+  <td class=xl39 x:num>5.82</td>
+  <td class=xl48 style='border-left:none' x:num>5.24</td>
+  <td class=xl60 style='border-left:none' x:num>6.44</td>
+  <td class=xl76>10</td>
+  <td class=xl38 x:num x:fmla="=+(V27+W27+X27)+0.5*Y27">82.09</td>
+  <td class=xl39 x:num>43.50</td>
+  <td class=xl48 style='border-left:none' x:num>19.49</td>
+  <td class=xl60 style='border-left:none' x:num>19.10</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(AA27)+0.5*AB27">50.30</td>
+  <td class=xl39 x:num>50.30</td>
+  <td class=xl42>0</td>
+  <td class=xl38 x:num x:fmla="=+(AD27+AE27+AF27)+0.5*AG27">47.62</td>
+  <td class=xl39 x:num>15.01</td>
+  <td class=xl39 x:num>16.22</td>
+  <td class=xl40 x:num>16.39</td>
+  <td class=xl74 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl33 style='height:16.9pt'>25</td>
+  <td class=xl50>Rogers, Scott</td>
+  <td class=xl51>L</td>
+  <td class=xl52 x:num x:fmla="=+F28+K28+P28+U28+Z28+AC28">408.31</td>
+  <td class=xl80 style='border-left:none' x:num
+  x:fmla="=+J28+O28+T28+Y28+AB28+AG28">50</td>
+  <td class=xl67 style='border-left:none' x:num
+  x:fmla="=+(G28+H28+I28)+(0.5*J28)">116.24</td>
+  <td class=xl53 x:num>18.41</td>
+  <td class=xl53 x:num>51.58</td>
+  <td class=xl54 x:num>41.25</td>
+  <td class=xl76>10</td>
+  <td class=xl52 x:num x:fmla="=+(L28+M28+N28)+0.5*O28">19.78</td>
+  <td class=xl53 x:num>6.48</td>
+  <td class=xl53 x:num>7.02</td>
+  <td class=xl56 style='border-left:none' x:num>6.28</td>
+  <td class=xl57 style='border-left:none'>0</td>
+  <td class=xl52 x:num x:fmla="=+(Q28+R28+S28)+0.5*T28">24.65</td>
+  <td class=xl53 x:num>9.86</td>
+  <td class=xl56 style='border-left:none' x:num>9.52</td>
+  <td class=xl63 style='border-left:none' x:num>5.27</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(V28+W28+X28)+0.5*Y28">127.38</td>
+  <td class=xl53 x:num>51.32</td>
+  <td class=xl56 style='border-left:none' x:num>26.16</td>
+  <td class=xl63 style='border-left:none' x:num>29.90</td>
+  <td class=xl76>40</td>
+  <td class=xl52 x:num x:fmla="=+(AA28)+0.5*AB28">70.30</td>
+  <td class=xl53 x:num>70.30</td>
+  <td class=xl55>0</td>
+  <td class=xl52 x:num x:fmla="=+(AD28+AE28+AF28)+0.5*AG28">49.96</td>
+  <td class=xl53 x:num>17.24</td>
+  <td class=xl53 x:num>14.95</td>
+  <td class=xl54 x:num>17.77</td>
+  <td class=xl81 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl49 style='height:16.9pt'>26</td>
+  <td class=xl47>Roberts, Jay</td>
+  <td class=xl37>TRO</td>
+  <td class=xl38 x:num x:fmla="=+F29+K29+P29+U29+Z29+AC29">425.84</td>
+  <td class=xl73 style='border-left:none' x:num
+  x:fmla="=+J29+O29+T29+Y29+AB29+AG29">0</td>
+  <td class=xl68 style='border-left:none' x:num
+  x:fmla="=+(G29+H29+I29)+(0.5*J29)">170.24</td>
+  <td class=xl39 x:num>86.48</td>
+  <td class=xl39 x:num>43.53</td>
+  <td class=xl40 x:num>40.23</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(L29+M29+N29)+0.5*O29">19.39</td>
+  <td class=xl39 x:num>6.83</td>
+  <td class=xl39 x:num>6.71</td>
+  <td class=xl48 style='border-left:none' x:num>5.85</td>
+  <td class=xl41 style='border-left:none'>0</td>
+  <td class=xl38 x:num x:fmla="=+(Q29+R29+S29)+0.5*T29">17.36</td>
+  <td class=xl39 x:num>6.45</td>
+  <td class=xl48 style='border-left:none' x:num>6.34</td>
+  <td class=xl60 style='border-left:none' x:num>4.57</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(V29+W29+X29)+0.5*Y29">95.71</td>
+  <td class=xl39 x:num>56.49</td>
+  <td class=xl48 style='border-left:none' x:num>18.38</td>
+  <td class=xl60 style='border-left:none' x:num>20.84</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(AA29)+0.5*AB29">66.73</td>
+  <td class=xl39 x:num>66.73</td>
+  <td class=xl42>0</td>
+  <td class=xl38 x:num x:fmla="=+(AD29+AE29+AF29)+0.5*AG29">56.41</td>
+  <td class=xl39 x:num>30.12</td>
+  <td class=xl39 x:num>11.49</td>
+  <td class=xl40 x:num>14.80</td>
+  <td class=xl74 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl33 style='height:16.9pt'>27</td>
+  <td class=xl50>Knapp, Nathan</td>
+  <td class=xl51>L</td>
+  <td class=xl52 x:num x:fmla="=+F30+K30+P30+U30+Z30+AC30">498.03</td>
+  <td class=xl80 style='border-left:none' x:num
+  x:fmla="=+J30+O30+T30+Y30+AB30+AG30">60</td>
+  <td class=xl67 style='border-left:none' x:num
+  x:fmla="=+(G30+H30+I30)+(0.5*J30)">159.10</td>
+  <td class=xl53 x:num>58.29</td>
+  <td class=xl53 x:num>74.36</td>
+  <td class=xl54 x:num>26.45</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(L30+M30+N30)+0.5*O30">15.85</td>
+  <td class=xl53 x:num>5.67</td>
+  <td class=xl53 x:num>5.30</td>
+  <td class=xl56 style='border-left:none' x:num>4.88</td>
+  <td class=xl57 style='border-left:none'>0</td>
+  <td class=xl52 x:num x:fmla="=+(Q30+R30+S30)+0.5*T30">16.84</td>
+  <td class=xl53 x:num>6.47</td>
+  <td class=xl56 style='border-left:none' x:num>5.72</td>
+  <td class=xl63 style='border-left:none' x:num>4.65</td>
+  <td class=xl57>0</td>
+  <td class=xl52 x:num x:fmla="=+(V30+W30+X30)+0.5*Y30">140.98</td>
+  <td class=xl53 x:num>50.56</td>
+  <td class=xl56 style='border-left:none' x:num>34.46</td>
+  <td class=xl63 style='border-left:none' x:num>25.96</td>
+  <td class=xl76>60</td>
+  <td class=xl52 x:num x:fmla="=+(AA30)+0.5*AB30">120.33</td>
+  <td class=xl53 x:num>120.33</td>
+  <td class=xl55>0</td>
+  <td class=xl52 x:num x:fmla="=+(AD30+AE30+AF30)+0.5*AG30">44.93</td>
+  <td class=xl53 x:num>21.53</td>
+  <td class=xl53 x:num>11.90</td>
+  <td class=xl54 x:num>11.50</td>
+  <td class=xl81 x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl49 style='height:16.9pt'>28</td>
+  <td class=xl47>Garcia, Dan</td>
+  <td class=xl37>TRO</td>
+  <td class=xl38 x:num x:fmla="=+F31+K31+P31+U31+Z31+AC31">502.13</td>
+  <td class=xl73 style='border-left:none' x:num
+  x:fmla="=+J31+O31+T31+Y31+AB31+AG31">150</td>
+  <td class=xl68 style='border-left:none' x:num
+  x:fmla="=+(G31+H31+I31)+(0.5*J31)">268.51</td>
+  <td class=xl39 x:num>94.50</td>
+  <td class=xl39 x:num>93.41</td>
+  <td class=xl40 x:num>20.60</td>
+  <td class=xl76>120</td>
+  <td class=xl38 x:num x:fmla="=+(L31+M31+N31)+0.5*O31">41.99</td>
+  <td class=xl39 x:num>11.60</td>
+  <td class=xl39 x:num>6.63</td>
+  <td class=xl48 style='border-left:none' x:num>8.76</td>
+  <td class=xl76 style='border-left:none'>30</td>
+  <td class=xl38 x:num x:fmla="=+(Q31+R31+S31)+0.5*T31">31.14</td>
+  <td class=xl39 x:num>16.09</td>
+  <td class=xl48 style='border-left:none' x:num>5.63</td>
+  <td class=xl60 style='border-left:none' x:num>9.42</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(V31+W31+X31)+0.5*Y31">68.42</td>
+  <td class=xl39 x:num>42.72</td>
+  <td class=xl48 style='border-left:none' x:num>12.48</td>
+  <td class=xl60 style='border-left:none' x:num>13.22</td>
+  <td class=xl41>0</td>
+  <td class=xl38 x:num x:fmla="=+(AA31)+0.5*AB31">56.52</td>
+  <td class=xl39 x:num>56.52</td>
+  <td class=xl42>0</td>
+  <td class=xl38 x:num x:fmla="=+(AD31+AE31+AF31)+0.5*AG31">35.55</td>
+  <td class=xl71 style='border-top:none;border-left:none' x:num>12.74</td>
+  <td class=xl71 style='border-top:none;border-left:none' x:num>9.72</td>
+  <td class=xl72 style='border-top:none;border-left:none' x:num>13.09</td>
+  <td class=xl75 style='border-top:none' x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:16.9pt'>
+  <td height=22 class=xl79 style='height:16.9pt;border-top:none'>29</td>
+  <td class=xl83 style='border-top:none'>Adams, Cody</td>
+  <td class=xl84 style='border-top:none'>TRO</td>
+  <td class=xl85 style='border-top:none' x:num
+  x:fmla="=+F32+K32+P32+U32+Z32+AC32">668.72</td>
+  <td class=xl86 style='border-top:none' x:num
+  x:fmla="=+J32+O32+T32+Y32+AB32+AG32">0</td>
+  <td class=xl87 style='border-top:none' x:num
+  x:fmla="=+(G32+H32+I32)+(0.5*J32)">168.50</td>
+  <td class=xl88 style='border-top:none' x:num>53.24</td>
+  <td class=xl88 style='border-top:none' x:num>46.76</td>
+  <td class=xl89 style='border-top:none' x:num>68.50</td>
+  <td class=xl90 style='border-top:none'>0</td>
+  <td class=xl87 style='border-top:none' x:num x:fmla="=+(L32+M32+N32)+0.5*O32">27.99</td>
+  <td class=xl88 style='border-top:none' x:num>8.19</td>
+  <td class=xl88 style='border-top:none' x:num>7.56</td>
+  <td class=xl91 style='border-top:none;border-left:none' x:num>12.24</td>
+  <td class=xl90 style='border-top:none;border-left:none'>0</td>
+  <td class=xl87 style='border-top:none' x:num x:fmla="=+(Q32+R32+S32)+0.5*T32">36.15</td>
+  <td class=xl88 style='border-top:none' x:num>10.09</td>
+  <td class=xl91 style='border-top:none;border-left:none' x:num>13.83</td>
+  <td class=xl92 style='border-top:none;border-left:none' x:num>12.23</td>
+  <td class=xl90 style='border-top:none'>0</td>
+  <td class=xl87 style='border-top:none' x:num x:fmla="=+(V32+W32+X32)+0.5*Y32">226.46</td>
+  <td class=xl88 style='border-top:none' x:num>91.38</td>
+  <td class=xl91 style='border-top:none;border-left:none' x:num>95.14</td>
+  <td class=xl92 style='border-top:none;border-left:none' x:num>39.94</td>
+  <td class=xl90 style='border-top:none'>0</td>
+  <td class=xl87 style='border-top:none' x:num x:fmla="=+(AA32)+0.5*AB32">142.05</td>
+  <td class=xl88 style='border-top:none' x:num>142.05</td>
+  <td class=xl93 style='border-top:none'>0</td>
+  <td class=xl87 style='border-top:none' x:num
+  x:fmla="=+(AD32+AE32+AF32)+0.5*AG32">67.57</td>
+  <td class=xl88 style='border-top:none' x:num>18.36</td>
+  <td class=xl88 style='border-top:none' x:num>27.28</td>
+  <td class=xl89 style='border-top:none' x:num>21.93</td>
+  <td class=xl94 style='border-top:none' x:num>0</td>
+  <td></td>
+ </tr>
+ <tr height=26 style='mso-height-source:userset;height:20.1pt'>
+  <td colspan=15 height=26 class=xl59 width=797 style='height:20.1pt;
+  width:600pt'>Notes:<font class=font12><span style="mso-spacerun: yes"> 
+  </span></font></td>
+  <td colspan=4 class=xl26 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td></td>
+  <td colspan=3 class=xl29 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td colspan=2 class=xl26 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td class=xl26></td>
+  <td colspan=3 class=xl34 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td></td>
+ </tr>
+ <tr height=26 style='mso-height-source:userset;height:20.1pt'>
+  <td height=26 class=xl44 style='height:20.1pt' x:str="'- ">- </td>
+  <td colspan=12 class=xl101 width=680 style='width:512pt'>Div * -<font
+  class=font5><span style="mso-spacerun: yes">  </span>Refer to the </font><font
+  class=font13><a href="../../../3gun/3-GunDivSpecs-R3.htm">UDPL 3-Gun Division Specifications</a></font><font class=font5> for
+  specifics on each Division.</font></td>
+  <td colspan=7 class=xl59 style='mso-ignore:colspan'></td>
+  <td></td>
+  <td colspan=3 class=xl29 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td colspan=2 class=xl26 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td class=xl26></td>
+  <td colspan=3 class=xl34 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td></td>
+ </tr>
+ <tr height=21 style='height:15.75pt'>
+  <td height=21 class=xl24 style='height:15.75pt'></td>
+  <td class=xl61 width=138 style='width:104pt' x:str="L = ">L = </td>
+  <td colspan=4 class=xl98 width=196 style='width:148pt'><span
+  style="mso-spacerun: yes"> </span>LIMITED</td>
+  <td colspan=14 class=xl59 style='mso-ignore:colspan'></td>
+  <td></td>
+  <td colspan=3 class=xl29 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td colspan=2 class=xl26 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td class=xl26></td>
+  <td colspan=3 class=xl34 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td></td>
+ </tr>
+ <tr height=21 style='height:15.75pt'>
+  <td height=21 class=xl24 style='height:15.75pt'></td>
+  <td class=xl61 width=138 style='width:104pt' x:str="T = ">T = </td>
+  <td colspan=4 class=xl98 width=196 style='width:148pt'><span
+  style="mso-spacerun: yes"> </span>TACTICAL</td>
+  <td colspan=14 class=xl59 style='mso-ignore:colspan'></td>
+  <td></td>
+  <td colspan=3 class=xl29 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td colspan=2 class=xl26 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td class=xl26></td>
+  <td colspan=3 class=xl34 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td></td>
+ </tr>
+ <tr height=21 style='height:15.75pt'>
+  <td height=21 class=xl24 style='height:15.75pt'></td>
+  <td class=xl61 width=138 style='width:104pt' x:str="TRO = ">TRO = </td>
+  <td colspan=4 class=xl98 width=196 style='width:148pt'><span
+  style="mso-spacerun: yes"> </span>TACTICAL RIFLE-OPTICAL</td>
+  <td colspan=14 class=xl59 style='mso-ignore:colspan'></td>
+  <td></td>
+  <td colspan=3 class=xl29 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td colspan=2 class=xl26 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td class=xl26></td>
+  <td colspan=3 class=xl34 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td></td>
+ </tr>
+ <tr height=21 style='height:15.75pt'>
+  <td height=21 class=xl24 style='height:15.75pt'></td>
+  <td class=xl61 width=138 style='width:104pt' x:str="O = ">O = </td>
+  <td colspan=4 class=xl98 width=196 style='width:148pt'><span
+  style="mso-spacerun: yes"> </span>OPEN</td>
+  <td colspan=14 class=xl59 style='mso-ignore:colspan'></td>
+  <td></td>
+  <td colspan=3 class=xl29 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td colspan=2 class=xl26 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td class=xl26></td>
+  <td colspan=3 class=xl34 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td></td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl95 style='height:15.0pt'>PD</td>
+  <td colspan=11 class=xl102 width=628 style='width:473pt'><span
+  style="mso-spacerun: yes"> </span>= <font class=font9>Points Down</font><font
+  class=font0> = .5 seconds x Points Down. PD Total is added to the total Stage
+  time.</font></td>
+  <td colspan=7 class=xl36 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td></td>
+  <td colspan=3 class=xl29 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td></td>
+  <td colspan=3 class=xl29 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl97 style='height:12.75pt;border-top:none'>XX</td>
+  <td colspan=16 class=xl99 width=873 style='width:657pt'
+  x:str="' = Indicates that the Points Down value includes some kind of penalty (Procedural Error, Hits on Non-Threat, Misses on Steel (5 seconds each), etc.)."><span
+  style="mso-spacerun: yes"> </span>= Indicates that the Points Down value
+  includes some kind of penalty (Procedural Error, Hits on Non-Threat, Misses
+  on Steel (5 seconds each), etc.).</td>
+  <td colspan=2 class=xl36 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td class=xl26></td>
+  <td colspan=3 class=xl29 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td colspan=2 class=xl26 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td class=xl26></td>
+  <td colspan=3 class=xl29 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td></td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl45 style='height:15.0pt;border-top:none'>DNF</td>
+  <td class=xl62><span style="mso-spacerun: yes"> </span>= Did Not Finish</td>
+  <td class=xl25></td>
+  <td class=xl26></td>
+  <td class=xl25></td>
+  <td class=xl26></td>
+  <td colspan=3 class=xl27 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td colspan=2 class=xl26 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl29 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td colspan=4 class=xl26 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td class=xl26></td>
+  <td colspan=3 class=xl29 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td colspan=2 class=xl26 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td class=xl26></td>
+  <td colspan=3 class=xl29 style='mso-ignore:colspan'></td>
+  <td class=xl28></td>
+  <td></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=40 style='width:30pt'></td>
+  <td width=138 style='width:104pt'></td>
+  <td width=36 style='width:27pt'></td>
+  <td width=56 style='width:42pt'></td>
+  <td width=46 style='width:35pt'></td>
+  <td width=58 style='width:44pt'></td>
+  <td width=52 style='width:39pt'></td>
+  <td width=52 style='width:39pt'></td>
+  <td width=52 style='width:39pt'></td>
+  <td width=28 style='width:21pt'></td>
+  <td width=58 style='width:44pt'></td>
+  <td width=52 style='width:39pt'></td>
+  <td width=52 style='width:39pt'></td>
+  <td width=49 style='width:37pt'></td>
+  <td width=28 style='width:21pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=52 style='width:39pt'></td>
+  <td width=49 style='width:37pt'></td>
+  <td width=49 style='width:37pt'></td>
+  <td width=28 style='width:21pt'></td>
+  <td width=74 style='width:56pt'></td>
+  <td width=52 style='width:39pt'></td>
+  <td width=52 style='width:39pt'></td>
+  <td width=49 style='width:37pt'></td>
+  <td width=28 style='width:21pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=51 style='width:38pt'></td>
+  <td width=28 style='width:21pt'></td>
+  <td width=63 style='width:47pt'></td>
+  <td width=50 style='width:38pt'></td>
+  <td width=49 style='width:37pt'></td>
+  <td width=49 style='width:37pt'></td>
+  <td width=28 style='width:21pt'></td>
+  <td width=64 style='width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
