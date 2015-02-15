@@ -1,12 +1,15 @@
 # Site wide configuration
 
+#url: http://localhost:4000
+url: http://beta.udpl.net
+name: UDPL
+description: "News, schedule, results and articles for the Utah Defensive Pistol Club"
+rss_post_limit: 30
 title: UDPL.net
 description: "Utah Defensive Pistol League"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: site.jpg # 400x250 px default teaser image used in image archive grid
 locale:
-url: http://beta.udpl.net
-#url: http://localhost:4000
 
 # Jekyll configuration
 

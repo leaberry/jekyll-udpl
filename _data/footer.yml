@@ -1,10 +1,16 @@
 # Footer navigation links
 
-- title: Subscribe to Email List
+- title: "Email List"
   url: http://www.udpl.net/lists/?p=subscribe&id=1
   
-- title: Follow on Facebook
+- title: "Follow on Facebook"
   url: http://www.facebook.com/group.php?gid=104429186260375&ref=ts
+  
+- title: "Rss"
+  url: /rss.xml
+
+- title: "Atom"
+  url: /atom.xml
 
 - title: "About Us"
   url: /about/
