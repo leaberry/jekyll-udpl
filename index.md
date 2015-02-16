@@ -12,12 +12,3 @@ image:
 {% endfor %}
 </div><!-- /.tiles -->
 
-<br />
-
-## Affiliations
-
-We have lots of club affilitions that should go here in a grid list with logos
-
-## Sponsors
-
-We have lots of sponsors that should go here also in a grid list with logos
