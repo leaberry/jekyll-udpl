@@ -36,6 +36,18 @@
       transform: translateX(100%);
     }
     </style>
+    
+    
+    <!-- Special CSS for Datatables with child rows -->
+    <style>
+      td.details-control {
+          background: url('/images/details_open.png') no-repeat center center;
+          cursor: pointer;
+      }
+      tr.shown td.details-control {
+          background: url('/images/details_close.png') no-repeat center center;
+      }
+    </style>
 
     <link rel="stylesheet" href="{{ site.url }}/css/main.css">
     <!-- HTML5 Shiv and Media Query Support for IE -->
@@ -45,7 +57,7 @@
     <![endif]-->
     
     <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
-    <script src="{{ site.url }}/css/jquery.datatables.js"></script>
+    <script src="{{ site.url }}/js/vendor/datatables-1.10.5.js"></script>
     
 
     <script>
@@ -57,7 +69,7 @@
     } );
     </script>
 
-    <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
+    <link rel="stylesheet" type="text/css" href="/css/jquery.datatables.css">
 
   </head>
 

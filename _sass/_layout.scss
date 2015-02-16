@@ -394,6 +394,37 @@
 		}
 	}
 }
+
+// matchdetails
+.matchdetails {
+	position: relative;
+	width: 80%;
+}
+.matchdetails div {
+	height: 200px;
+}
+
+.column-left {
+	width: 25%;
+	left: 0;
+	background: #00F;
+	position: absolute;
+}
+.column-center {
+	width: 25%;
+	background: #933;
+	margin-left: 25%;
+	position: absolute;
+}
+.column-right {
+	width: 50%;
+	right: 0;
+	position: absolute;
+	background: #999;
+}
+
+
+
 // footnotes
 .footnotes {
 	font-family: $alt-font;

@@ -3,16 +3,111 @@ title: "Schedule of Events"
 layout: table
 ---
 
-<!-- HTML example start -->
 
-<div id="container"></div>
+<script>
+function format ( d ) {
+    // `d` is the original data object for the row
+     return '<table class="" cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
+        '<tr>'+
+            '<td>'+d.start_time+'</td>'+
+            '<td>'+d.ns_time+'</td>'+
+            '<td>'+d.match_time+'</td>'+
+        '</tr>'+
+        '<tr>'+
+            '<td>Match Notes</td>'+
+            '<td>'+d.notes+'</td>'+
+        '</tr>'+
+        '<tr>'+   
+            '<td><a href="'+d.cof+'">Course of Fire</a></td>'+
+            '<td><a href="'+d.results+'">Match Results</a></td>'+
+        '</tr>'+
+    '</table>';
 
-<!-- HTML example end -->
+//        return '<div class="matchdetails"><div class="column-left">'+
+//               '<p>Sign in: '+d.start_time+
+//               '<p>New Shooter Meeting: '+d.ns_time+
+//               '<p>Match Start: '+d.match_time+
+//               '</div>'+
+//               '<div class="column-center">'+
+//               '<p>Sign in: '+d.start_time+
+//               '<p>New Shooter Meeting: '+d.ns_time+
+//               '<p>Match Start: '+d.match_time+
+//               '</div>'+
+//               '<div class="column-right">'+
+//               '<p>Notes: '+d.notes+
+//               '</div>';
+}
+
+// Table for 2015 
+// Needs fields for date, match_type, info, location, 
+// starttime, ns_time, match_time, notes, cof, results
+
+$(document).ready(function() {
+    var table = $('#2015').DataTable( {
+        "ajax": "/schedule/2015.txt",
+        "paging":   false,
+        "info":     false,
+        "columns": [
+            {
+                "className":      'details-control',
+                "orderable":      false,
+                "data":           null,
+                "defaultContent": ''
+            },
+            { "data": "date" },
+            { "data": "match_type" },
+            { "data": "info" },
+            { "data": "location" }
+        ],
+        "order": [[1, 'asc']]
+    } );
+     
+    // Add event listener for opening and closing details
+    $('#2015 tbody').on('click', 'td.details-control', function () {
+        var tr = $(this).closest('tr');
+        var row = table.row( tr );
+ 
+        if ( row.child.isShown() ) {
+            // This row is already open - close it
+            row.child.hide();
+            tr.removeClass('shown');
+        }
+        else {
+            // Open this row
+            row.child( format(row.data()) ).show();
+            tr.addClass('shown');
+        }
+    } );
+} );
+</script>
 
 
-Should look into using Tidy-table or some other dynamic javascript table engine. That would let me offer an ical when they click on the date, show only the match types they want to see and do other cool stuff.
+
+## 2015 - child info table
+
+<table id="2015" class="" cellspacing="0" width="100%">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Date</th>
+                <th>Match Type</th>
+                <th>Info</th>
+                <th>Location</th>
+            </tr>
+        </thead>
+</table>
+
 
 ## 2015
+
+child fields should show
+  
+  * Info 
+  * Sign in - $TIME - New Shooters Meeting - $TIME - Match Start - $TIME
+  * COF Link
+  * Results Link 
+  
+
 
 {:.datatable}
 | Date | Match Type | Notes | Location |

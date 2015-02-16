@@ -45,9 +45,9 @@ $table-border-color          	: $border-color;
 $table-border                	: 1px solid $table-border-color;
 $table-background            	: $body-color;
 $table-header-color          	: lighten($table-background, 10);
-$table-hover-color           	: darken($table-background, 2);
-$table-stripe-color          	: darken($table-background, 4);
-$table-stripe-color-hover    	: darken($table-stripe-color, 5);
+$table-hover-color           	: $body-color;  //darken($table-background, 2);
+$table-stripe-color          	: $body-color;  //darken($table-background, 4);
+$table-stripe-color-hover    	: $body-color;  //darken($table-stripe-color, 5);
 
 $facebook-color					: #3b5998;
 $flickr-color					: #ff0084;

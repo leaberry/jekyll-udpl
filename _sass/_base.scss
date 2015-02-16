@@ -137,6 +137,10 @@ tbody {
 		background-color: $table-hover-color;
 	}
 }
+.child {
+  
+}
+
 thead {
 	tr:first-child td {
 		border-bottom: 2px solid $table-border-color;
@@ -148,7 +152,8 @@ th {
 	font-family: $alt-font;
 	font-weight: bold;
 	text-align: left;
-	background-color: $table-header-color;
+	// Datatables expansion column will be white background unless you disable this
+	//background-color: $table-header-color;
 	border-bottom: 1px solid darken($border-color, 15%);
 }
 td {
