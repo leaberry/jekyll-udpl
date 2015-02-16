@@ -7,20 +7,22 @@ layout: table
 <script>
 function format ( d ) {
     // `d` is the original data object for the row
- 
+        
+        $cof = "";
+        if(d.cof) { $cof='<a href="' + d.cof + '">Course of Fire</a>'; } 
+        if(d.results) { $results='<a href="'+d.results+'">Match Results</a>'; } else { $results=""; }
 
         return '<div class="matchdetails">'+
-               '<p>Sign in: '+d.start_time+
-               '<p>New Shooter Meeting: '+d.ns_time+
-               '<p>Match Start: '+d.match_time+
-               '</div>'+
-               '<div class="matchdetails">'+
-               '## Sign in: '+d.start_time+
-               '<p>New Shooter Meeting: '+d.ns_time+
-               '<p>Match Start: '+d.match_time+
-               '</div>'+
+               '<ul><li><em>Sign in:</em> '+d.start_time+
+               '</li><li><em>Shooter Meeting:</em> '+d.ns_time+
+               '</li><li><em>Match Start:</em> '+d.match_time+
+               '</li><li>Directions to <a href="'+d.location_url+'">'+d.location+'</a></li></ul></div>'+
                '<div class="matchdetails">'+
                '<p>Notes: '+d.notes+
+               '</div>'+
+               '<div class="matchdetails">'+
+               '<p>'+ $cof+
+               '<p>'+ $results+
                '</div>';
 }
 
@@ -69,7 +71,7 @@ $(document).ready(function() {
 
 
 
-## 2015 - child info table
+## 2015
 
 <table id="2015" class="row-border" cellspacing="0" width="100%">
         <thead>
@@ -84,16 +86,8 @@ $(document).ready(function() {
 </table>
 
 
-## 2015
 
-child fields should show
-  
-  * Info 
-  * Sign in - $TIME - New Shooters Meeting - $TIME - Match Start - $TIME
-  * COF Link
-  * Results Link 
-  
-
+## Previous datatable way
 
 {:.datatable}
 | Date | Match Type | Notes | Location |

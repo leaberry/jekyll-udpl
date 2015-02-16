@@ -423,10 +423,11 @@
 			pointer-events: none;
 			@include transition(background 0.3s);
 		}
-	background: $background-color;
+	//background: $background-color;
+	color: #0004ff;
 	padding-left: 10px;
 	border-top: 3px solid $header-color;
-	border-bottom: 3px solid $header-color
+	//border-bottom: 3px solid $header-color
 }
 
 // footnotes
