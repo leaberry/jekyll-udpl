@@ -7,35 +7,21 @@ layout: table
 <script>
 function format ( d ) {
     // `d` is the original data object for the row
-     return '<table class="" cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
-        '<tr>'+
-            '<td>'+d.start_time+'</td>'+
-            '<td>'+d.ns_time+'</td>'+
-            '<td>'+d.match_time+'</td>'+
-        '</tr>'+
-        '<tr>'+
-            '<td>Match Notes</td>'+
-            '<td>'+d.notes+'</td>'+
-        '</tr>'+
-        '<tr>'+   
-            '<td><a href="'+d.cof+'">Course of Fire</a></td>'+
-            '<td><a href="'+d.results+'">Match Results</a></td>'+
-        '</tr>'+
-    '</table>';
+ 
 
-//        return '<div class="matchdetails"><div class="column-left">'+
-//               '<p>Sign in: '+d.start_time+
-//               '<p>New Shooter Meeting: '+d.ns_time+
-//               '<p>Match Start: '+d.match_time+
-//               '</div>'+
-//               '<div class="column-center">'+
-//               '<p>Sign in: '+d.start_time+
-//               '<p>New Shooter Meeting: '+d.ns_time+
-//               '<p>Match Start: '+d.match_time+
-//               '</div>'+
-//               '<div class="column-right">'+
-//               '<p>Notes: '+d.notes+
-//               '</div>';
+        return '<div class="matchdetails">'+
+               '<p>Sign in: '+d.start_time+
+               '<p>New Shooter Meeting: '+d.ns_time+
+               '<p>Match Start: '+d.match_time+
+               '</div>'+
+               '<div class="matchdetails">'+
+               '## Sign in: '+d.start_time+
+               '<p>New Shooter Meeting: '+d.ns_time+
+               '<p>Match Start: '+d.match_time+
+               '</div>'+
+               '<div class="matchdetails">'+
+               '<p>Notes: '+d.notes+
+               '</div>';
 }
 
 // Table for 2015 
