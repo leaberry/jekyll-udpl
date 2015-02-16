@@ -7,8 +7,8 @@ description: "News, schedule, results and articles for the Utah Defensive Pistol
 rss_post_limit: 30
 title: UDPL.net
 description: "Utah Defensive Pistol League"
-logo: # 120x120 px default image used for Twitter summary card
-teaser: udpl-logo.png # 400x250 px default teaser image used in image archive grid
+logo: apple-icon-120x120.png # 120x120 px default image used for Twitter summary card
+teaser: default-teaser.jpg # 400x250 px default teaser image used in image archive grid
 locale:
 
 # Jekyll configuration

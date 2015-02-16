@@ -4,7 +4,6 @@ layout: article
 categories: articles
 toc: true
 image:
-  teaser: "assets/udplhg_teaser.png"
   feature: "assets/udplhg_feature.jpg"
 ---
 
@@ -31,4 +30,8 @@ During these general matches we usually have the following divisions. These incl
 
 * ***REV*** - Revolver - 8 round max, no optical sights
 * ***REVOP*** - Revolver - 8 round max, optical sights OK
+
+#### BUG guns
+
+These have a loose definition of any small size gun. Generally a 5 shot snubby revolver or a single stack semi auto with a barrel of 3 inches or less. These are the guns that no one shoots at matches but a lot of people carry. Bring a BUG gun to our yearly match or shoot one in a normal match for an extra challenge.
 
