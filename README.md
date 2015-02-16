@@ -1,16 +1,18 @@
-# Skinny Bones Jekyll Starter
+# Howto start developing
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+Mac or Linux. I don't know anything about ruby on Windows. Fire up a terminal and run these commands.
 
-I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
+	cd ~/; git clone https://github.com/leaberry/jekyll-udpl.git
+	cd jekyll-udpl
+	sudo gem install bundler
+	sudo bundle install
+	vi _config.yml (change the site url to localhost:4000)
+	bundle exec jekyll serve
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
+The website will now be running on `localhost:4000`. Any changes you make are recompliled on the fly and immediately visible.
 
----
+* [Original Authors Getting Started Guide](http://mmistakes.github.io/skinny-bones-jekyll/getting-started/)
 
-## Notable Features
+You can make changes and submit a pull request.
 
-* Stylesheet built using Sass. *Requires Jekyll 2.x*
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
+
