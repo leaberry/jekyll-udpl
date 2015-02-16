@@ -85,7 +85,7 @@ $(document).ready(function() {
 
 ## 2015 - child info table
 
-<table id="2015" class="" cellspacing="0" width="100%">
+<table id="2015" class="row-border" cellspacing="0" width="100%">
         <thead>
             <tr>
                 <th></th>
