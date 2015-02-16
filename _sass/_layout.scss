@@ -20,7 +20,8 @@
 	@include media($large) {
 		@include span-columns(4);
 	}
-	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
+	//padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
+	padding: 0;
 	height: $masthead-height;
 	text-decoration: none;
 	//inherit from #masthead
@@ -28,7 +29,8 @@
 	font-family: $alt-font;
 	font-weight: 700;
 	@include font-size(48,no);
-	line-height: .5 * $masthead-height; // half the height to center vertically
+	//line-height: .5 * $masthead-height; // half the height to center vertically
+	line-height: 0;
 	text-transform: uppercase;
 }
 
