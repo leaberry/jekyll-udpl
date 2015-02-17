@@ -150,15 +150,18 @@
 #main {
 	.inner-wrap {
 		@include media($medium) {
-			@include span-columns(9);
+			@include span-columns(11);
 		}
 	}
 	.toc {
-		@include media($medium) {
+		@include media($small) {
 			@include row($direction: RTL);
 		}
+		@include media($medium) {
+		  @include span-columns(3 of 11);
+		}
 		@include media($large) {
-			@include span-columns(2 of 9);
+			@include span-columns(3 of 11);
 		}
 	}
 	.page-title {
@@ -168,10 +171,10 @@
 		.page-content {
 			@include media($medium) {
 				@include row($direction: RTL);
-				//@include span-columns(7 of 9);
+				@include span-columns(8 of 11);
 			}
 			@include media($large) {
-				@include span-columns(7 of 9);
+				@include span-columns(8 of 11);
 			}
 			// larger font for intro paragraph
 			> p {
@@ -338,6 +341,22 @@
     @include media($small) { @include font-size(16,no,18); }
 		@include font-size(12,no,16);
 		border-bottom: 1px solid $border-color;
+	}
+	// Lets indent each level
+	.h2 {
+	  padding-left: 0px;  
+	}
+	.h3 {
+	  padding-left: 10px;  
+	  list-style: circle inside none;
+	}
+	.h4 {
+	  padding-left: 20px;  
+	  list-style: disc inside none;
+	}
+	.h5 {
+	  padding-left: 30px;  
+	  list-style: square inside none;
 	}
 	font-family: $alt-font;
 	a {
