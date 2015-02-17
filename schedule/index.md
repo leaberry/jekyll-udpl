@@ -5,6 +5,30 @@ layout: table
 
 
 <script>
+
+//init moment
+moment().format();
+
+// The problem with this is you can't search on the "Dec 15th 2014" Date string
+// because the filter string is the original 2014/12/15 string.
+// It has to be this way because we filter things and it uses the filter string
+// to construct it's date.
+// Could probably rework the filter part
+function formatJSONDate(dateInput, type) {
+  if (dateInput === null) {
+    return '';
+  }
+  if (type === 'display' ) {
+    var evdate = moment(new Date(dateInput));
+    return evdate.format('MMM Do YYYY');
+  }
+  if (type === 'sort' || type === 'filter' ) {
+    return dateInput;
+  }
+  
+  return dateInput;
+}
+ 
 function format ( d ) {
     // `d` is the original data object for the row
     // This is how you format the expansion child rows
@@ -60,19 +84,22 @@ $(document).ready(function() {
         "ajax": "/events.txt",
         "paging":   false,
         "info":     false,
-        "columns": [
-            {
+        'aaSorting': [[1, 'asc']],
+        'aoColumns': [ 
+          {
                 "className":      'details-control',
                 "orderable":      false,
                 "data":           null,
                 "defaultContent": ''
-            },
-            { "data": "date" },
-            { "data": "match_type" },
-            { "data": "info" },
-            { "data": "location" }
-        ],
-        "order": [[1, 'asc']]
+          },
+          {'mData': "date", 
+            'mRender': function(data, type, full) {
+              return formatJSONDate(data, type);
+            }},
+          {'mData': "match_type" },
+          {'mData': "info" }, 
+          {'mData': "location" }
+        ]
     } );
      
     // Add event listener for opening and closing details

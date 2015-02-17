@@ -4,6 +4,30 @@ layout: table
 ---  
 
 <script>
+
+//init moment
+moment().format();
+
+// The problem with this is you can't search on the "Dec 15th 2014" Date string
+// because the filter string is the original 2014/12/15 string.
+// It has to be this way because we filter things and it uses the filter string
+// to construct it's date.
+// Could probably rework the filter part
+function formatJSONDate(dateInput, type) {
+  if (dateInput === null) {
+    return '';
+  }
+  if (type === 'display' ) {
+    var evdate = moment(new Date(dateInput));
+    return evdate.format('MMM Do YYYY');
+  }
+  if (type === 'sort' || type === 'filter' ) {
+    return dateInput;
+  }
+  
+  return dateInput;
+}
+
 function format ( d ) {
     // `d` is the original data object for the row
     // This is how you format the expansion child rows
@@ -33,7 +57,6 @@ $.fn.dataTableExt.afnFiltering.push(
     function( settings, data, dataindex ) {
         var mydate = new Date();
         var evdate = new Date(data[1]);
-        console.log(mydate+ ' event date => '+ evdate);
   
         // If the event date is the same as today or older - show it
         if ( mydate >= evdate  )
@@ -58,18 +81,21 @@ $(document).ready(function() {
         "info":     false,
         "ordering": true,
         "pagingType": "full",
-        "columns": [
-            {
+        'aaSorting': [[1, 'desc']],
+        'aoColumns': [ 
+          {
                 "className":      'details-control',
                 "orderable":      false,
                 "data":           null,
                 "defaultContent": ''
-            },
-            { "data": "date" },
-            { "data": "match_type" },
-            { "data": "results" }
-        ],
-        "order": [[1, 'desc']]
+          },
+          {'mData': "date", 
+            'mRender': function(data, type, full) {
+              return formatJSONDate(data, type);
+            }},
+          {'mData': "match_type" },
+          {'mData': "results" }
+        ]
     } );
      
     // Add event listener for opening and closing details
