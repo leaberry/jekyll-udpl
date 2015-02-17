@@ -44,7 +44,7 @@
     },
     {
       "date": "02-17-2015",
-      "match_type": "Handgun Man Vs Man",
+      "match_type": "Testing rollover",
       "info": "Bring 300+ rds of ammo",
       "location": "The Range",
       "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
