@@ -1,6 +1,62 @@
 {
   "data": [
     {
+      "date": "12-03-2014",
+      "match_type": "UDPL December Test match",
+      "info": "Bring 900+ rds of ammo",
+      "location": "The Range",
+      "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
+      "start_time": "8:00AM",
+      "ns_time": "8:30AM",
+      "match_time": "9:00AM",
+      "cof": "<a href='/articles/man-vs-man-info/'>Course of Fire</a>",
+      "results": "<a href='http://www.google.com'>Results 1</a> <a href='/results/test.pdf'>Results 2</a>",
+      "registration_link": "<a href='https://clubs.practiscore.com/2015-udpl-man-vs-man/register'>Register</a>",
+      "notes": "<a href='http://beta.udpl.net/articles/man-vs-man-info/'>Match Info</a> - This match has a different format from our usual matches."
+    },
+    {
+      "date": "01-01-2015",
+      "match_type": "UDPL Steel Challenge",
+      "info": "Bring 400+ rds of ammo",
+      "location": "The Range",
+      "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
+      "start_time": "8:00AM",
+      "ns_time": "8:30AM",
+      "match_time": "9:00AM",
+      "cof": "<a href='/articles/man-vs-man-info/'>Course of Fire</a>",
+      "results": "<a href='http://www.google.com'>Results 1</a> <a href='/results/test.pdf'>Results 2</a>",
+      "registration_link": "<a href='https://clubs.practiscore.com/2015-udpl-man-vs-man/register'>Register</a>",
+      "notes": "<a href='http://beta.udpl.net/articles/man-vs-man-info/'>Match Info</a> - This match has a different format from our usual matches."
+    },
+    {
+      "date": "01-15-2015",
+      "match_type": "Sample Rangemasters Match",
+      "info": "Bring 500+ rds of ammo",
+      "location": "The Range",
+      "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
+      "start_time": "8:00AM",
+      "ns_time": "8:30AM",
+      "match_time": "9:00AM",
+      "cof": "<a href='/articles/man-vs-man-info/'>Course of Fire</a>",
+      "results": "<a href='http://www.google.com'>Results 1</a> <a href='/results/test.pdf'>Results 2</a>",
+      "registration_link": "<a href='https://clubs.practiscore.com/2015-udpl-man-vs-man/register'>Register</a>",
+      "notes": "<a href='http://beta.udpl.net/articles/man-vs-man-info/'>Match Info</a> - This match has a different format from our usual matches."
+    },
+    {
+      "date": "02-17-2015",
+      "match_type": "Handgun Man Vs Man",
+      "info": "Bring 300+ rds of ammo",
+      "location": "The Range",
+      "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
+      "start_time": "8:00AM",
+      "ns_time": "8:30AM",
+      "match_time": "9:00AM",
+      "cof": "<a href='/articles/man-vs-man-info/'>Course of Fire</a>",
+      "results": "<a href='http://www.google.com'>Results 1</a> <a href='/results/test.pdf'>Results 2</a> <a href='/results/test.pdf'>Results 3</a>",
+      "registration_link": "<a href='https://clubs.practiscore.com/2015-udpl-man-vs-man/register'>Register</a>",
+      "notes": "<a href='http://beta.udpl.net/articles/man-vs-man-info/'>Match Info</a> - This match has a different format from our usual matches."
+    },
+    {
       "date": "02-28-2015",
       "match_type": "Handgun Man Vs Man",
       "info": "Bring 300+ rds of ammo",
@@ -9,9 +65,9 @@
       "start_time": "8:00AM",
       "ns_time": "8:30AM",
       "match_time": "9:00AM",
-      "cof": "/articles/man-vs-man-info/",
+      "cof": "<a href='/articles/man-vs-man-info/'>Course of Fire</a>",
       "results": "",
-      "registration_link": "https://clubs.practiscore.com/2015-udpl-man-vs-man/register",
+      "registration_link": "<a href='https://clubs.practiscore.com/2015-udpl-man-vs-man/register'>Register</a>",
       "notes": "<a href='http://beta.udpl.net/articles/man-vs-man-info/'>Match Info</a> - This match has a different format from our usual matches."
     },
     {
@@ -37,7 +93,7 @@
       "start_time": "9:00AM",
       "ns_time": "9:30AM",
       "match_time": "10:00AM",
-      "cof": "http://www.idpa.com/compete/stagedetails/39",
+      "cof": "<a href='http://www.idpa.com/compete/stagedetails/39'>Course of Fire</a>",
       "results": "",
       "registration_link": "",
       "notes": "You <strong>must</strong> be an IDPA member to shoot the classifier portion of the match. This is the last opportunity to classify before the Utah State IDPA match in May."
@@ -81,7 +137,7 @@
       "match_time": "9:00AM",
       "cof": "",
       "results": "",
-      "registration_link": "https://clubs.practiscore.com/2015-utah-idpa-championship/register",
+      "registration_link": "<a href='https://clubs.practiscore.com/2015-utah-idpa-championship/register'>Register</a>",
       "notes": "<em>You must be a registered IDPA member and have shot the classifier to take part in this match.</em>"
     },
     {
@@ -261,7 +317,7 @@
       "start_time": "9:00AM",
       "ns_time": "9:30AM",
       "match_time": "10:00AM",
-      "cof": "http://steelchallenge.com/steel-challenge-stage-library.php",
+      "cof": "<a href='http://steelchallenge.com/steel-challenge-stage-library.php'>Course of Fire</a>",
       "results": "",
       "registration_link": "",
       "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."

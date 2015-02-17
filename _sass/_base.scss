@@ -163,6 +163,14 @@ tr, td, th {
 	vertical-align: middle;
 }
 
+// pad the links on the results table so they are easier to distinguish
+#results, #schedule {
+  a {
+    padding-left: 7px;
+    padding-right: 7px;
+  }
+}
+
 // ELEMENTS (MEDIA, EMBEDS, BUTTONS, ETC.)
 // --------------------------------------------------
 

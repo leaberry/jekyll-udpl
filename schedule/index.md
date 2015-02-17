@@ -7,34 +7,57 @@ layout: table
 <script>
 function format ( d ) {
     // `d` is the original data object for the row
+    // This is how you format the expansion child rows
         
-        if(d.registration_link) { $reg='<a href="' + d.registration_link + '">Register for Match</a>'; } else { $reg=""; }
-        if(d.cof) { $cof='<a href="' + d.cof + '">Course of Fire</a>'; } else { $cof=""; }
-        if(d.results) { $results='<a href="'+d.results+'">Match Results</a>'; } else { $results=""; }
+  if(d.registration_link) { reg=d.registration_link; } else { reg=""; }
+  if(d.cof) { var cof=d.cof; } else { cof=""; }
+  if(d.results) { results=d.results; } else { results=""; }
 
-        return '<div class="matchdetails">'+
-               '<ul>'+
-               '<li><em>Sign in:</em> '+d.start_time+
-               '</li><li><em>Shooter Meeting:</em> '+d.ns_time+
-               '</li><li><em>Match Start:</em> '+d.match_time+
-               '</li><li>Directions to <a href="'+d.location_url+'">'+d.location+'</a></li></ul></div>'+
-               '<div class="matchdetails">'+
-               '<p>'+d.notes+
-               '</div>'+
-               '<div class="matchdetails">'+
-               '<p>'+$reg+
-               '<p>'+ $cof+
-               '<p>'+ $results+
-               '</div>';
+  return '<div class="matchdetails">'+
+         '<ul>'+
+         '<li><em>Sign in:</em> '+d.start_time+
+         '</li><li><em>Shooter Meeting:</em> '+d.ns_time+
+         '</li><li><em>Match Start:</em> '+d.match_time+
+         '</li><li>Directions to <a href="'+d.location_url+'">'+d.location+'</a></li></ul></div>'+
+         '<div class="matchdetails">'+
+         '<p>'+d.notes+
+         '</div>'+
+         '<div class="matchdetails">'+
+         '<p>'+reg+
+         '<p>'+cof+
+         '<p>'+results+
+         '</div>';
 }
 
-// Table for 2015 
+/// Custom filter to only get events in the future
+/// column 0 is actually the child expansion column. Date is in column[1]
+$.fn.dataTableExt.afnFiltering.push(
+    function( settings, data, dataindex ) {
+        
+        //Set the date to filter against to 3 days ago.
+        var mydate = new Date();
+        mydate.setDate(mydate.getDate() -3 );
+        var evdate = new Date(data[1]);
+        
+        if ( mydate > evdate  )
+        {
+            return false;
+        }
+        else
+        {
+            return true;
+        }
+    }
+);
+
+
+// Table for schedule
 // Needs fields for date, match_type, info, location, 
 // starttime, ns_time, match_time, notes, cof, results
 
 $(document).ready(function() {
-    var table = $('#2015').DataTable( {
-        "ajax": "/schedule/2015.txt",
+    var table = $('#schedule').DataTable( {
+        "ajax": "/events.txt",
         "paging":   false,
         "info":     false,
         "columns": [
@@ -53,7 +76,7 @@ $(document).ready(function() {
     } );
      
     // Add event listener for opening and closing details
-    $('#2015 tbody').on('click', 'td.details-control', function () {
+    $('#schedule tbody').on('click', 'td.details-control', function () {
         var tr = $(this).closest('tr');
         var row = table.row( tr );
  
@@ -72,14 +95,14 @@ $(document).ready(function() {
 </script>
 
 
-<table id="2015" class="row-border" cellspacing="0" width="100%">
-        <thead>
-            <tr>
-                <th></th>
-                <th>Date</th>
-                <th>Match Type</th>
-                <th>Info</th>
-                <th>Location</th>
-            </tr>
-        </thead>
+<table id="schedule" class="row-border" cellspacing="0" width="100%">
+    <thead>
+      <tr>
+        <th></th>
+        <th>Date</th>
+        <th>Match Type</th>
+        <th>Info</th>
+        <th>Location</th>
+      </tr>
+    </thead>
 </table>
