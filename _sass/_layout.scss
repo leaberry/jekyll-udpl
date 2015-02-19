@@ -416,6 +416,22 @@
 	}
 }
 
+.snippet {
+	@include outer-container;
+	margin-bottom: $gutter;
+	@include media($micro) {
+		@include fill-parent;
+	}
+	@include media($small) {
+		@include span-columns(6);
+		@include omega(2n);
+	}
+	@include media($medium) {
+		@include span-columns(3);
+		@include omega(4n);
+	}
+}
+
 // matchdetails
 .matchdetails {
   @include outer-container;
