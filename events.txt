@@ -31,7 +31,7 @@
     {
       "date": "2015/03/04",
       "match_type": "<a href='/articles/rangemasters-funshoot/'>Fun Shoot<a/>",
-      "info": "Bi-monthly Rangemasters Fun Shoot",
+      "info": "Low light shoot, see the notes for details",
       "location": "Rangemasters",
       "location_url": "https://www.google.com/maps/dir//Rangemasters+of+Utah,+712+W+1300+N,+Springville,+UT+84663/@40.185769,-111.623676,17z/data=!4m13!1m4!3m3!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2sRangemasters+of+Utah!3b1!4m7!1m0!1m5!1m1!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2m2!1d-111.623676!2d40.185769",
       "start_time": "6:30PM",
@@ -40,7 +40,7 @@
       "cof": "",
       "results": "",
       "registration_link": "",
-      "notes": "Generally 100 rounds or less"
+      "notes": "This match will include two low-light stages and you should bring a tac light if you have one. A light will be available for you to use if you don’t have one."
     },
     {
       "date": "2015/03/17",
