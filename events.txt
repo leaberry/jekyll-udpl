@@ -10,7 +10,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='/files/results/FunShoot-2015-02-17.pdf'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },

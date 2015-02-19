@@ -1,5 +1,5 @@
 
-for i in *.txt; do
+for i in events.txt; do
 	echo -en "$i => "
 	cat $i | python -m json.tool > /dev/null
 	if [ $? -ne 0 ]; then
