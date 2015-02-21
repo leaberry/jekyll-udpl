@@ -30,19 +30,4 @@ Special matches like the IDPA state match and the Cedar Valley Multigun match wi
 |Match Safety Officers | $5.00 | $5.00 |
 
 
-## Club Officers
-
-<figure class="snippet"><h5>President</h5>Jim Smith</figure>
-<figure class="snippet"><h5>Secretary</h5>Michael Scott</figure>
-<figure class="snippet"><h5>Treasurer</h5>Alan Scott</figure>
-<figure class="snippet"><h5>Medical Officer</h5><p>Ari Theodore</p></figure>
-<div class="snippet"><h5>Equipment Officer</h5><p>Chad Halter</p></div>
-<div class="snippet"><h5>Assistent Equipment Officer</h5><p>Steve Brown</p></div>
-<div class="snippet"><h5>Safety Officer Instructors</h5><p>Evan Woolley</p><p>Daniel Leaberry</p></div>
-<div class="snippet"><h5>Prize Coordinator</h5><p>Alex Lyons</p></div>
-
-
-
-
-
 
