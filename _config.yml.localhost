@@ -1,0 +1,40 @@
+# Site wide configuration
+
+url: http://localhost:4000
+#url: http://beta.udpl.net
+name: UDPL
+description: "News, schedule, results and articles for the Utah Defensive Pistol Club"
+rss_post_limit: 30
+title: UDPL.net
+description: "Utah Defensive Pistol League"
+logo: apple-icon-120x120.png # 120x120 px default image used for Twitter summary card
+teaser: default-teaser.jpg # 400x250 px default teaser image used in image archive grid
+locale:
+
+# Jekyll configuration
+
+sass:
+    sass_dir: _sass
+    style: compressed
+permalink: /:categories/:title/
+markdown: kramdown
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner: 
+  name: "UDPL Webmonkey"
+  email: leaberry@gmail.com
+  twitter: 
+  google:
+    ad-client: 
+    ad-slot: 
+  bio: "When not staring at monitors the WebMonkey enjoys reading, running and shooting"
+  avatar: udpl-bio.png # 160x160 px image for author byline
+disqus-shortname:
+
+
+include: [".htaccess", "_h5ai"]
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
