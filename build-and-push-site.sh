@@ -9,7 +9,7 @@ rm -rf _site
 cp _config.yml.realsite _config.yml
 
 ## Check the JSON file. Abort if invalid
-./check-json.sh
+./check_json.sh
 if [ $? -eq 1 ]; then
   echo "JSON file events.txt is not valid JSON. Aborting"
   exit
@@ -27,5 +27,5 @@ xattr -rc _site
 
 ## Set permissions and push
 chmod -R 755 _site
-rsync -auv --delete -e ssh _site/ udplmail@192.168.244.30:/var/www/beta_udpl
+rsync -au --delete -e ssh _site/ udplmail@192.168.244.30:/var/www/beta_udpl
 
