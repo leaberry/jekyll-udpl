@@ -9,7 +9,9 @@ image:
   feature: "assets/funshoot_feature.jpg"
 ---
 
-The Rangemasters Handgun Fun Shoot matches **are not** UDPL events. As a service to local shooters, the UDPL posts these match schedules and results. Any questions about these matches should be directed to [Rangemasters](http://www.rangemasters.com/). Each match is 3-4 stages and you should bring 75-150 rounds.
+The Rangemasters Handgun Fun Shoot matches **are not** UDPL events. As a service to local shooters, the UDPL posts these match schedules and results. Any questions about these matches should be directed to [Rangemasters](http://www.rangemasters.com/). 
+
+Each match is 3-4 stages and you should bring 75-150 rounds.
 
 ## General Match details
 

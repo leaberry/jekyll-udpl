@@ -7,7 +7,9 @@ image:
   feature: "assets/udplhg_feature.jpg"
 ---
 
-UDPL runs a number of club matches during the year that are general handgun matches unaffiliated with any other shooting organizations. They don't have any special match rules and you don't need an additional membership to shoot them. Each match is 8-10 stages and you will fire 200-400 rounds.
+UDPL runs a number of club matches during the year that are general handgun matches unaffiliated with any other shooting organizations. They don't have any special match rules and you don't need an additional membership to shoot them. 
+
+Each match is 8-10 stages and you will fire 200-400 rounds.
 
 ## General UDPL rules
 
