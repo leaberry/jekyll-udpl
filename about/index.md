@@ -6,8 +6,7 @@ toc: true
 share: false
 ---
 
-The Utah Defensive Pistol League was formed in 2001. 
-
+The Utah Defensive Pistol League is a local Utah County not-for-profit organization formed in 2001. We are affiliated with various shooting organizations and run various types of matches all year long. 
 
 
 ## Club Affiliations
@@ -29,5 +28,12 @@ Special matches like the IDPA state match and the Cedar Valley Multigun match wi
 |Junior Shooters (17 and under)| $5.00 | $5.00 |
 |Match Safety Officers | $5.00 | $5.00 |
 
+## 2nd Ammendment Rights
 
+The club hopes that its members will actively work to defend our Right to Keep and Bear Arms. If we don't work to preserve our rights, who will?
 
+Some organizations that can help us are:
+
+* [The National Rifle Association (NRA)](http://home.nra.org/)
+* [Gun Owners of America (GOA)](http://gunowners.org/)
+* [National Shooting Sports Foundation (NSSF)](http://www.nssf.org/)
