@@ -28,7 +28,7 @@ Special matches like the IDPA state match and the Cedar Valley Multigun match wi
 |Junior Shooters (17 and under)| $5.00 | $5.00 |
 |Match Safety Officers | $5.00 | $5.00 |
 
-## 2nd Ammendment Rights
+## 2nd Amendment Rights
 
 The club hopes that its members will actively work to defend our Right to Keep and Bear Arms. If we don't work to preserve our rights, who will?
 
