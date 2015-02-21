@@ -163,11 +163,11 @@ tr, td, th {
 	vertical-align: middle;
 }
 
-// pad the links on the results table so they are easier to distinguish
+// pad the links on the schedule/results tables so they are easier to distinguish
 #results, #schedule {
   a {
-    padding-left: 7px;
-    padding-right: 7px;
+    padding-left: 0px;
+    padding-right: 10px;
   }
 }
 
