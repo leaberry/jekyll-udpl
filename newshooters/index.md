@@ -107,10 +107,16 @@ IDPA requires an additional IDPA membership. You can sign up online. IDPA also h
 [More Info](/articles/idpa-info/)
 
 
-
 ## 3 Gun Matches
 
 3 Gun is the newest type of shooting sport and uses a rifle, shotgun and pistol. Most stages use two of the three firearms at the same time.
 
 [More Info](/articles/3gun-info/)
+
+## Rangemasters Fun Shoot
+
+UDPL does not sponsor these matches but provides information on them as a courtesy to shooters. These take place twice a month at the indoor range at Rangemasters in Springville, UT.
+
+[More Info](/articles/rangemasters-funshoot/)
+
  
