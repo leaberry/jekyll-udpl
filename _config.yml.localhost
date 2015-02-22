@@ -22,7 +22,7 @@ highlighter: pygments
 gems:
   - jekyll-sitemap
   - jekyll-minibundle
-
+  - jekyll-compass
 
 # Site owner
 owner: 
