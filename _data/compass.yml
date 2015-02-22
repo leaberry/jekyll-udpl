@@ -4,6 +4,10 @@ require:
 project_path: .
 http_path: /
 css_dir: css
+css_path: _tmp
 sass_dir: _compass
 images_dir: images
 javascripts_dir: js
+output_style: compressed
+sass_options:
+  unix_newlines: true
