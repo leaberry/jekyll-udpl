@@ -15,6 +15,9 @@ ExpiresByType application/javascript "access plus 1 year"
 ExpiresByType text/x-javascript "access plus 1 year"
 ExpiresByType application/pdf "access plus 1 month"
 ExpiresByType image/x-icon "access plus 1 year"
+
+## The events.txt json file needs to be loaded frequently
+ExpiresByType text/plain "access plus 15 minutes"
 ExpiresDefault "access plus 2 days"
 </IfModule>
 
