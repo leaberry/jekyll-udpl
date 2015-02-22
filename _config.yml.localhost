@@ -24,6 +24,12 @@ gems:
   - jekyll/minibundle
   - jekyll-compass
 
+## Minibundle wants to minify javascript
+## We just want to bundle it so we use cat
+minibundle:
+  minifier_commands:
+    js: cat
+
 # Site owner
 owner: 
   name: "UDPL Webmonkey"
