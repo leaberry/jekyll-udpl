@@ -21,7 +21,8 @@ markdown: kramdown
 highlighter: pygments
 gems:
   - jekyll-sitemap
-  - jekyll-minibundle
+  - jekyll/minibundle
+  - jekyll-compass
 
 # Site owner
 owner: 
