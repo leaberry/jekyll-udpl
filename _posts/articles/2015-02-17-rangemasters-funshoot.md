@@ -5,8 +5,8 @@ layout: article
 categories: articles
 toc: false
 image:
-  teaser: "assets/funshoot_teaser.jpg"
-  feature: "assets/funshoot_feature.jpg"
+  teaser: "/assets/funshoot_teaser.jpg"
+  feature: "/assets/funshoot_feature.jpg"
 ---
 
 The Rangemasters Handgun Fun Shoot matches **are not** UDPL events. As a service to local shooters, the UDPL posts these match schedules and results. Any questions about these matches should be directed to [Rangemasters](http://www.rangemasters.com/). 

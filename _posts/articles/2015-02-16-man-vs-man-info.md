@@ -4,7 +4,7 @@ layout: article
 categories: articles
 toc: true
 image:
-  teaser: "assets/crossed_pistols.jpg"
+  teaser: "/assets/crossed_pistols.jpg"
   credit: "Nimaina Sekin"
   creditlink: "http://nimainasekan.deviantart.com/art/Pistols-Crossed-49570739"
 ---
