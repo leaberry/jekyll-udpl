@@ -4,7 +4,7 @@ layout: article
 categories: articles
 toc: true
 image:
-  feature: "assets/udplhg_feature.jpg"
+  feature: "/assets/udplhg_feature.jpg"
 ---
 
 UDPL runs a number of club matches during the year that are general handgun matches unaffiliated with any other shooting organizations. They don't have any special match rules and you don't need an additional membership to shoot them. 
