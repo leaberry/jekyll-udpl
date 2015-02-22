@@ -22,6 +22,8 @@ Files should be placed in /files. Images used for articles should be placed in /
 
 The results and schedule pages use datatables with a json file. They are dynamically built to only show events in the future for the schedule page and only show events in the past for the results page. The json file is only cached 15 minutes.
 
+Images have been compressed losslessly and in some instances quality has been reduced. Visually the files all look the same but they are 75% smaller. I used [tnypng](http://tinypng.com) and [ImageOptim](https://imageoptim.com/)
+
 * [Original Authors Getting Started Guide](http://mmistakes.github.io/skinny-bones-jekyll/getting-started/)
 
 You can make changes and submit a pull request.
