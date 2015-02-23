@@ -1,3 +1,7 @@
+## Set default charset to utf8 or some text elements look odd
+AddDefaultCharset UTF-8
+
+
 ## This enables browser level caching
 ## on ubuntu you need to run a2enmod expires
 ## To enable mod_expires
