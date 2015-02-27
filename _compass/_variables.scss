@@ -3,91 +3,88 @@
 
 // Typography variables
 
-$base-font                   	: Georgia,Times,"Times New Roman",serif;
-$heading-font                	: "Helvetica Neue","Segoe UI",Arial,sans-serif;
-$caption-font                	: $base-font;
-$code-font                   	: monospace;
-$alt-font                    	: $heading-font;
+$base-font                      : "Helvetica Neue","Segoe UI",Arial,sans-serif;
+$heading-font                   : "Helvetica Neue","Segoe UI",Arial,sans-serif;
+$caption-font                   : $base-font;
+$code-font                      : monospace;
+$alt-font                       : $heading-font;
 
-$doc-font-size               	: 16;
-$doc-line-height             	: 24;
+$doc-font-size                  : 16;
+$doc-line-height                : 24;
 
-$border-radius               	: 3px;
+$border-radius                  : 3px;
 
 
 // Color variables
 
 // Go to paletton.com and pick some colors. It will display 5 colors
-// 
+//
 // base color should be the biggest color rectangle. == $background-color
 // text color should be lightest or darkest == $text-color
 // You can set $black and $white to the darkest and lightest colors
 
-//$background-color             : #fff4d8;
-//$masthead-bg-color            : #5f4708; 
-$background-color             : #00091a;
-$masthead-bg-color            : #ced2d9;    
-//$header-color                 : #aa8c39;
-$header-color                 : #eba21a;
-$body-color                  	: #ebebeb;    //orig #ebebeb - basically white. Controls table background and...
-$text-color                  	: #130e00;    //orig #313130 - basically black
-$masthead-text-color          : #f7d892;
-$base-color                  	: #343434;    //orig #343434 - does not appear to do anything
-$comp-color                  	: complement($base-color); 
-$border-color                	: #ddd;
-$white                       	: #fff;       //controls color of slide out menu text and share buttons
-$black                       	: #000;       //controls color of slide out menu background and footer text
-$link-color                  	: #222;
-$primary-color               	: $black;
-$success-color               	: #2ecc71;
-$warning-color               	: #f1c40f;
-$danger-color                	: #e74c3c;
-$info-color                  	: #3498db;
+$background-color               : #ced2d9;
+$masthead-bg-color              : #00091a;
+$header-color                   : #e6a000;
+$body-color                     : #ebebeb;    //orig #ebebeb - basically white. Controls table background and...
+$text-color                     : #00091a;    //orig #313130 - basically black
+$masthead-text-color            : #e6a000;
+$base-color                     : #343434;    //orig #343434 - does not appear to do anything
+$comp-color                     : complement($base-color);
+$border-color                   : #ddd;
+$white                          : #fff;       //controls color of slide out menu text and share buttons
+$black                          : #000;       //controls color of slide out menu background and footer text
+$link-color                     : #222;
+$primary-color                  : $black;
+$success-color                  : #2ecc71;
+$warning-color                  : #f1c40f;
+$danger-color                   : #e74c3c;
+$info-color                     : #3498db;
 
-$table-border-color          	: $border-color;
-$table-border                	: 1px solid $table-border-color;
-$table-background            	: $body-color;
-$table-header-color          	: lighten($table-background, 10);
-$table-hover-color           	: $body-color;  //darken($table-background, 2);
-$table-stripe-color          	: $body-color;  //darken($table-background, 4);
-$table-stripe-color-hover    	: $body-color;  //darken($table-stripe-color, 5);
+$table-border-color             : $border-color;
+$table-border                   : 1px solid $table-border-color;
+$table-background               : $body-color;
+$table-header-color             : lighten($table-background, 10);
+$table-hover-color              : $body-color;  //darken($table-background, 2);
+$table-stripe-color             : $body-color;  //darken($table-background, 4);
+$table-stripe-color-hover       : $body-color;  //darken($table-stripe-color, 5);
 
-$facebook-color					: #3b5998;
-$flickr-color					: #ff0084;
-$foursquare-color				: #0cbadf;
-$google-plus-color				: #dd4b39;
-$instagram-color				: #4e433c;
-$linkedin-color					: #4875b4;
-$pinterest-color				: #cb2027;
-$rss-color						: #fa9b39;
-$tumblr-color					: #2c4762;
-$twitter-color					: #55acee;
-$vimeo-color					: #1ab7ea;
-$youtube-color					: #ff3333;
+$facebook-color                                 : #3b5998;
+$flickr-color                                   : #ff0084;
+$foursquare-color                               : #0cbadf;
+$google-plus-color                              : #dd4b39;
+$instagram-color                                : #4e433c;
+$linkedin-color                                 : #4875b4;
+$pinterest-color                                : #cb2027;
+$rss-color                                      : #fa9b39;
+$tumblr-color                                   : #2c4762;
+$twitter-color                                  : #55acee;
+$vimeo-color                                    : #1ab7ea;
+$youtube-color                                  : #ff3333;
 
 
 // Form variables
 
-$form-border-color           	: $border-color;
-$form-border-color-hover     	: darken($border-color, 10);
-$form-border-color-focus     	: $primary-color;
-$form-border-radius          	: $border-radius;
-$form-box-shadow             	: inset 0 1px 3px hsla(0, 0%, 0%, 0.06);
-$form-box-shadow-focus       	: $form-box-shadow, 0 0 5px rgba(darken($form-border-color-focus, 5), 0.7);
-$form-font-family            	: $base-font;
-$form-font-size              	: $doc-font-size;
+$form-border-color              : $border-color;
+$form-border-color-hover        : darken($border-color, 10);
+$form-border-color-focus        : $primary-color;
+$form-border-radius             : $border-radius;
+$form-box-shadow                : inset 0 1px 3px hsla(0, 0%, 0%, 0.06);
+$form-box-shadow-focus          : $form-box-shadow, 0 0 5px rgba(darken($form-border-color-focus, 5), 0.7);
+$form-font-family               : $base-font;
+$form-font-size                 : $doc-font-size;
 
 
 // Sliding Menu Navigation
 
-$sliding-menu-border-color	 	: $black;
-$sliding-menu-background 		: $black;
-$sliding-menu-color 	 		: $white;
-$sliding-menu-background-hover	: $black;
-$sliding-menu-color-hover	 	: $white;
-$sliding-menu-border   			: 1px solid $sliding-menu-border-color;
-$button-size		         	: 30px; 
-$transition						: .3s; // increase this to see the transformations in slow-motion
+$sliding-menu-border-color              : $black;
+$sliding-menu-background                : $black;
+$sliding-menu-color                     : $white;
+$sliding-menu-background-hover          : $black;
+$sliding-menu-color-hover               : $white;
+$sliding-menu-border                    : 1px solid $sliding-menu-border-color;
+$button-size                            : 30px;
+$transition                             : .3s; // increase this to see the transformations in slow-motion
 
 
 // Masthead
