@@ -127,7 +127,7 @@ $(document).ready(function() {
       <tr>
         <th></th>
         <th>Date</th>
-        <th>Match Type</th>
+        <th>Match</th>
         <th>Info</th>
         <th>Location</th>
       </tr>
