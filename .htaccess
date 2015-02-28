@@ -1,6 +1,8 @@
 ## Set default charset to utf8 or some text elements look odd
 AddDefaultCharset UTF-8
-
+## If you are running on a non apache box you need to add this line to your default.html and table.html
+## right below the <head> tag
+## <meta charset="utf-8">
 
 ## This enables browser level caching
 ## on ubuntu you need to run a2enmod expires
@@ -22,7 +24,7 @@ ExpiresByType image/x-icon "access plus 1 year"
 
 ## The events.txt json file needs to be loaded frequently
 ExpiresByType text/plain "access plus 15 minutes"
-ExpiresDefault "access plus 2 days"
+ExpiresDefault "access plus 1 days"
 </IfModule>
 
 ## Gzip speeds up the events.txt load significantly
