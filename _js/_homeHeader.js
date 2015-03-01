@@ -27,5 +27,4 @@ function ranimage() {
   core = Math.floor(core/ran)
     return(image[core])
 }
- 
-  document.write("<img src='" +ranimage()+ "'>")  
+document.write("+ranimage()+")

@@ -9,3 +9,11 @@ _asset_bundler_cache
 _tmp
 
 _config.yml
+
+*.swp
+
+_config.yml
+
+*.yml
+
+_config.yml
