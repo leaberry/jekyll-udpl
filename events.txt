@@ -82,7 +82,7 @@
       "cof": "<a href='http://www.idpa.com/compete/stagedetails/39'>Course of Fire</a>",
       "results": "",
       "registration_link": "<a href='https://clubs.practiscore.com/march-2015-udpl-idpa-with-classifier/register'>Register at Practiscore</a>",
-      "notes": "You <strong>must</strong> be an IDPA member to shoot the classifier portion of the match. This is the last opportunity to classify before the Utah State IDPA match in May."
+      "notes": "You <strong>must</strong> be an IDPA member to shoot the classifier portion of the match. This is the last opportunity to classify before the Utah State IDPA match in May.<p>There will be 4 defensive stages and the classifier."
     },
     {
       "date": "2015/04/01",
