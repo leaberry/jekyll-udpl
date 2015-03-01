@@ -6,7 +6,7 @@ toc: true
 share: false
 ---
 
-The Utah Defensive Pistol League is a local Utah County not-for-profit organization formed in 2001. We are affiliated with various shooting organizations and run various types of matches all year long. 
+The Utah Defensive Pistol League is a local Utah County not-for-profit organization formed in 2003. We are affiliated with various shooting organizations and run various types of matches all year long. 
 
 
 ## Club Affiliations
@@ -37,3 +37,7 @@ Some organizations that can help us are:
 * [The National Rifle Association (NRA)](http://home.nra.org/)
 * [Gun Owners of America (GOA)](http://gunowners.org/)
 * [National Shooting Sports Foundation (NSSF)](http://www.nssf.org/)
+
+## Questions??
+
+You can email <udpl.wmaster@gmail.com> 

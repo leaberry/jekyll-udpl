@@ -6,13 +6,15 @@ categories: newshooter
 toc: true
 ---
 
-You may have never shot at a competition before or shot at dozens of clubs but if this is your first time shooting with us then you are a new shooter. The most important thing to remember is safety. Familiarity breeds complacency which leads to accidents. We want everyone one to be safe and have a good time.
+![Rapid fire](/assets/newshooter_1.jpg)
+
+You may have shot with dozens of clubs or never shot a match, but if this is your first time shooting with us then you are a new shooter. The most important thing to remember is safety. Familiarity breeds complacency, which leads to accidents. We want everyone one to be safe and have a good time.
 
 As a new shooter you should be familiar with the operation of your firearm. You should be comfortable loading and unloading the firearm along with shooting it and holstering. You don't need to be an expert, you just need to be comfortable with basic firearm manipulations.
 
 ## Safety Details
 
-We run a **cold range**. This means you keep your firearm holstered (or chamber flagged for a long gun) at all times. You can load magazines and do everything but remove the firearm from your holster. The only time you can load the firearm is when you are at the shooting line and the Safety Officer has instructed you to *load and make ready.*
+We run a **cold range**. This means you keep your firearm holstered (or chamber flagged for a long gun) at all times. You can load magazines and do anything but remove the firearm from your holster. The only time you can remove the firearm from the holster is when you are at the shooting line and the Safety Officer has instructed you to *load and make ready.*
 
 There are a number of safe areas around the range. At these safe areas you may handle the firearm, dry fire, disassemble, etc... **but don't handle any ammo or magazines**. When you arrive if your firearm is in a bag or case, walk over to the safe area to remove it from the case and holster the firearm.
 
@@ -26,8 +28,6 @@ There are a number of safe areas around the range. At these safe areas you may h
 ## General Match Info
 
 All UDPL matches score based on time taken to shoot the match and accuracy of the shooting. Generally 0.5-2.5 seconds are added to the time for every shot that isn't as accurate as it could be. IDPA matches use more advanced scoring but the basics are the same. Shoot fast and be accurate. 
-
-There are also a fairly common set of range commands that you will hear every time you shoot a stage.
 
 ### Membership and Match Fees
 
@@ -47,24 +47,24 @@ Special matches like the IDPA state match and the Cedar Valley Multigun match wi
 All UDPL matches use common range commands.
 
 * **Load and make ready**
-  * You should face downrange, remove your firearm from the holster, load a magazine, rack the slide so the firearm is ready to fire, engage the safety or decocker if needed, **carefully** holster the firearm.
+  * You should face down range, remove your firearm from the holster, load a magazine, rack the slide so the firearm is ready to fire, engage the safety or decocker if needed, **carefully** holster the firearm.
 * **Shooter ready**
   * You can respond with **Shooter Ready!** or nod your head. If you do nothing, after about 5 seconds the Safety Officer will assume you're ready. If you are not ready, say something.
 * **Standby**
   * You should remain motionless in the start position, waiting the buzzer from the timer. 
 * **BEEP**
-  * When the timer goes off you should draw your firearm and shoot the course of fire. When you are all done shooting just face down range with the firearm pointed downrange and remain there.
+  * When the timer goes off you should draw your firearm and shoot the course of fire. When you are all done shooting face down range with the firearm pointed down range and remain there awaiting commands from the Safety Officer.
   * While shooting you may hear the following three commands.
 * **Muzzle, Finger, Stop**
   * Muzzle - your firearm muzzle is close to a muzzle safe point. The Safety Officer is warning you. Make sure your muzzle is pointing down range.
   * Finger - Unless you are actively shooting your finger should not be on the trigger. Moving and reloading are the most common times this will be called. You should make sure your finger is outside the trigger guard, preferably above the trigger guard along the slide or frame of the firearm.
-  * Stop - The Safety Officer might call stop for a number of reasons. **Stop immediately**, make sure you're facing down range and your firearm is facing downrange. Wait for further commands from the Safety Officer.
+  * Stop - The Safety Officer might call stop for a number of reasons. **Stop immediately**, make sure you're facing down range and your firearm is facing down range. Wait for further commands from the Safety Officer.
 * **Unload and show clear**
   * You should remove the magazine from your firearm and stow it. Rack the slide to remove the chambered round. Check to make sure the chamber is empty then lock the slide back so the Safety Officer can also verify the chamber is empty.
 * **Slide forward, pull the trigger, holster**
-  * After the Safety Officer verifies the firearm is clear you will drop the slide, then pointing the firearm downrange, pull the trigger, then holster the firearm.
+  * After the Safety Officer verifies the firearm is clear you will drop the slide, then pointing the firearm down range, pull the trigger, then holster the firearm.
 * **Range is Clear**
-  * It is now clear to go downrange and score the targets, tape them, and reset the stage for the next shooter.
+  * It is now clear to go down range and score the targets, tape them, and reset the stage for the next shooter.
 
 ### Example Stage Walkthrough
 
