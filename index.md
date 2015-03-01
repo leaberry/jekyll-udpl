@@ -3,7 +3,7 @@ layout: home
 permalink: /
 title: Utah Defensive Pistol League
 image:
-  feature: home-header.jpg
+  feature: home-header00.jpg
 ---
 
 <div class="tiles">
