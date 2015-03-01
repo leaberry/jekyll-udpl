@@ -58,9 +58,9 @@ function format ( d ) {
 $.fn.dataTableExt.afnFiltering.push(
     function( settings, data, dataindex ) {
         
-        //Set the date to filter against to 2 days ago.
+        //Set the date to filter against to 1 days ago.
         var mydate = new Date();
-        mydate.setDate(mydate.getDate() -2 );
+        mydate.setDate(mydate.getDate() -1 );
         var evdate = new Date(data[1]);
         
         if ( mydate > evdate  )
