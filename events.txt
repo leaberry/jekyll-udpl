@@ -24,7 +24,7 @@
       "ns_time": "8:30AM",
       "match_time": "9:00AM",
       "cof": "<a href='/articles/man-vs-man-info/'>Course of Fire</a>",
-      "results": "",
+      "results": "<a href='/files/results/2015-02-28_man_vs_man_results.pdf'>Results</a>",
       "registration_link": "<a href='https://clubs.practiscore.com/2015-udpl-man-vs-man/register'>Register</a>",
       "notes": "<a href='http://beta.udpl.net/articles/man-vs-man-info/'>Match Info</a> - This match has a different format from our usual matches."
     },
