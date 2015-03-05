@@ -8,7 +8,7 @@ toc: true
 
 ![Rapid fire](/assets/newshooter_1.jpg)
 
-You may have shot with dozens of clubs or never shot a match, but if this is your first time shooting with us then you are a new shooter. The most important thing to remember is safety. Familiarity breeds complacency, which leads to accidents. We want everyone one to be safe and have a good time.
+You may have shot with dozens of clubs or never shot a match, but if this is your first time shooting with us then you are a new shooter. The most important thing to remember is safety. Familiarity breeds complacency, which leads to accidents. We want everyone to be safe and have a good time.
 
 As a new shooter you should be familiar with the operation of your firearm. You should be comfortable loading and unloading the firearm along with shooting it and holstering. You don't need to be an expert, you just need to be comfortable with basic firearm manipulations.
 
