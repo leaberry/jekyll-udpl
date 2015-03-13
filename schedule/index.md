@@ -121,6 +121,7 @@ $(document).ready(function() {
 } );
 </script>
 
+Clicking on the green plus symbol on the left side of each row will expand the row to show match details.
 
 <table id="schedule" class="row-border" cellspacing="0" width="100%">
     <thead>
