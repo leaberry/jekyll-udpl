@@ -14,6 +14,7 @@ The Utah Defensive Pistol League is a local Utah County not-for-profit organizat
 * [3 Gun Nation](http://www.3gunnation.com)
 * [IDPA](http://www.idpa.com)
 * [ICORE](http://www.icore.org)
+* [Practiscore](https://practiscore.com)
 
 ## Membership and Match Fees
 
@@ -38,6 +39,11 @@ Some organizations that can help us are:
 * [Gun Owners of America (GOA)](http://gunowners.org/)
 * [National Shooting Sports Foundation (NSSF)](http://www.nssf.org/)
 
-## Questions??
+## Contact Info
 
-You can email <udpl.wmaster@gmail.com> 
+You can email <webmaster@udpl.net> if you have questions.
+
+The club mailing address is: 
+
+    P.O. Box 970762
+    Orem, Utah  84097-0762
