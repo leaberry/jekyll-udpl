@@ -2,7 +2,7 @@
 
 - title: "Home"
   url: /
-  excerpt: "Home"
+#  excerpt: "Home"
 #  image: announcements.png
 
 # News is really only pertinant for the current time period. No need for the history
@@ -13,21 +13,21 @@
 
 - title: "Schedule"
   url: /schedule/
-  excerpt: "Upcoming matches"
+#  excerpt: "Upcoming matches"
 #  image: schedule.png
   
 - title: "Results"
   url: /results/
-  excerpt: "Results from previous matches"
+#  excerpt: "Results from previous matches"
 #  image: results.png
   
 - title: "New Shooters"
   url: /newshooters/
-  excerpt: "Never shot with us before? Start here"
+#  excerpt: "Never shot with us before? Start here"
 #  image: newshooters.png
 
 - title: "Articles"
   url: /articles/
-  excerpt: "Misc Articles"
+#  excerpt: "Misc Articles"
 #  image: newshooters.png
 
