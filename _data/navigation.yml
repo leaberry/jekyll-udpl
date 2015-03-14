@@ -1,8 +1,14 @@
 # Site navigation links
 
-- title: "News"
-  url: /news/
-  excerpt: "Keep up on the news"
+- title: "Home"
+  url: /
+  excerpt: "Home"
+#  image: announcements.png
+
+# News is really only pertinant for the current time period. No need for the history
+#- title: "News"
+#  url: /news/
+#  excerpt: "Keep up on the news"
 #  image: announcements.png
 
 - title: "Schedule"
