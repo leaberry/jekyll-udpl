@@ -1,7 +1,14 @@
 #!/bin/bash
 
+
 ## This will clean out the website, build it and push it to the server
 ## You should make sure everything is working before running this
+
+## You can specify ipv4 or ipv6 and it will use either one.
+
+if [ -z $1 ]; then 
+  echo "Specify ipv4 or ipv6"
+fi
 
 rm -rf _site
 
@@ -27,5 +34,11 @@ xattr -rc _site
 
 ## Set permissions and push
 chmod -R 755 _site
-rsync -auv --delete --exclude _h5ai/cache/ --exclude lists/ -e ssh _site/ '[udplmail@2001:470:4b:e0::bbbb]':/var/www/beta_udpl
 
+if [ $1 == "ipv6" ]; then
+  ## We have ipv6, we rock!
+  rsync -auv --delete --exclude _h5ai/cache/ --exclude lists/ -e ssh _site/ '[udplmail@2001:470:4b:e0::bbbb]':/var/www/beta_udpl
+else
+  ## Have only ipv4, must use vpn
+  #rsync -auv --delete --exclude _h5ai/cache/ --exclude lists/ -e ssh _site/ udplmail@192.168.244.30:/var/www/beta_udpl
+fi
