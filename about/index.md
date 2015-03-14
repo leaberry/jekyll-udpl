@@ -18,7 +18,7 @@ The Utah Defensive Pistol League is a local Utah County not-for-profit organizat
 
 ## Membership and Match Fees
 
-You can join UDPL for $13.00 a year. Membership can be initiated at any match during sign in. Membership allows for discounted match pricing and voting at the yearly membership meeting on club officers and issues.
+You can join UDPL for $12.00 a year. Membership can be initiated at any match during sign in. Membership allows for discounted match pricing and voting at the yearly membership meeting on club officers and issues.
 
 Special matches like the IDPA state match and the Cedar Valley Multigun match will have different fee structures. See the [schedule](/schedule) for specific match details.
 

@@ -31,7 +31,7 @@ All UDPL matches score based on time taken to shoot the match and accuracy of th
 
 ### Membership and Match Fees
 
-You can join UDPL for $13.00 a year. Membership can be initiated at any match during sign in. Membership allows for discounted match pricing and voting at the yearly membership meeting on club officers and issues. **You do not need to be a UDPL member to shoot a UDPL match.**
+You can join UDPL for $12.00 a year. Membership can be initiated at any match during sign in. Membership allows for discounted match pricing and voting at the yearly membership meeting on club officers and issues. **You do not need to be a UDPL member to shoot a UDPL match.**
 
 Special matches like the IDPA state match and the Cedar Valley Multigun match will have different fee structures. See the [schedule](/schedule) for specific match details. Additionally [IDPA matches](/articles/idpa-info/) require you to be an IDPA member.
 
