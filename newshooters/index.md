@@ -1,7 +1,7 @@
 ---
 title: "New Shooter Info"
 date: 2015/02/21
-layout: article
+layout: article-noauth
 categories: newshooter
 toc: true
 ---
