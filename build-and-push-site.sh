@@ -38,8 +38,8 @@ chmod -R 755 _site
 
 if [ $1 == "ipv6" ]; then
   ## We have ipv6, we rock!
-  rsync -auv --delete --exclude _h5ai/cache/ --exclude lists/ -e ssh _site/ '[udplmail@2001:470:4b:e0::bbbb]':/var/www/beta_udpl
+  rsync -auv --delete --exclude _h5ai/cache/ --exclude lists/ -e ssh _site/ '[udplmail@2001:470:4b:e0::bbbb]':/var/www/new_udpl
 else
   ## Have only ipv4, must use vpn
-  rsync -auv --delete --exclude _h5ai/cache/ --exclude lists/ -e ssh _site/ udplmail@192.168.244.30:/var/www/beta_udpl
+  rsync -auv --delete --exclude _h5ai/cache/ --exclude lists/ -e ssh _site/ udplmail@192.168.244.30:/var/www/new_udpl
 fi
