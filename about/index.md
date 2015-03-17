@@ -6,7 +6,7 @@ toc: true
 share: false
 ---
 
-The Utah Defensive Pistol League is a local Utah County not-for-profit organization formed in 2003. We are affiliated with various shooting organizations and run various types of matches all year long. 
+The Utah Defensive Pistol League is a local Utah County not-for-profit organization formed in 1997. We are affiliated with various shooting organizations and run various types of matches all year long. 
 
 
 ## Club Affiliations
