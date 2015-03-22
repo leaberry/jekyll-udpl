@@ -66,7 +66,7 @@
       "ns_time": "<strong>No New Shooters</strong>",
       "match_time": "9:00AM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results.php?uuid=da445b45-01d7-46ee-a40e-6cf34ea61fd7'>Results</a>",
       "registration_link": "<a href='https://clubs.practiscore.com/udpl-march-3-gun/register'>Register at Practiscore</a>",
       "notes": "<em>You must have shot at least one match with UDPL before shooting this match.</em><p>A 3 Gun Nation Club series match including 2 classifiers."    
     },    
