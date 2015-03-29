@@ -80,7 +80,7 @@
       "ns_time": "8:30AM",
       "match_time": "9:00AM",
       "cof": "<a href='https://docs.google.com/presentation/d/1h1oeG_ogPfaAf5VgLfEJ1vh0QOKKohcT84DCoTNQ7iA/edit?usp=sharing'>Course of Fire for Non Classifier Stages</a>",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results.php?uuid=ee4979bc-90f2-44bb-9603-2846a6055009'>Classifier Results</a> <a href='https://practiscore.com/results.php?uuid=f8d63c43-312b-4553-82f5-904bc71d6321'>Defensive Stages Results</a>",
       "registration_link": "<a href='https://clubs.practiscore.com/march-2015-udpl-idpa-with-classifier/register'>Register at Practiscore</a>",
       "notes": "You <strong>must</strong> be an IDPA member to shoot the classifier portion of the match. This is the last opportunity to classify before the Utah State IDPA match in May.<p>There will be 4 defensive stages and the classifier."
     },
