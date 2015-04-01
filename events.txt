@@ -123,8 +123,8 @@
       "match_time": "9:00AM",
       "cof": "",
       "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "registration_link": "<a href='https://clubs.practiscore.com/udpl-march-icore/register'>Register at Practiscore</a>",
+      "notes": "<p>Courses of fire that are revolver friendly but semi automatics are welcome to shoot as well."
     },
     {
       "date": "2015/05/06",
