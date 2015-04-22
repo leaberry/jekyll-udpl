@@ -235,7 +235,7 @@
       "match_time": "9:00AM",
       "cof": "",
       "results": "",
-      "registration_link": "",
+      "registration_link": "<a href='https://clubs.practiscore.com/2015-cedar-valley-multi-gun/register'>Register on Practiscore</a>",
       "notes": "<em>You must have shot at least one match with UDPL before shooting this match.</em><p>This match will take place on both Friday and Saturday. That will avoid it running until midnight like last year."
     },
     {
