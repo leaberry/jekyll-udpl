@@ -2,12 +2,12 @@
 layout: table
 ---
 
-<div id="main" role="main">	
-	<article class="wrap" itemscope itemtype="http://schema.org/Article">
-		{% if page.image.feature %}
-		<div class="page-feature">
-			<div class="page-image">
-				<script>
+<div id="main" role="main"> 
+  <article class="wrap" itemscope itemtype="http://schema.org/Article">
+    {% if page.image.feature %}
+    <div class="page-feature">
+      <div class="page-image">
+        <script>
           /*
           Random Image Script- By JavaScript Kit (http://www.javascriptkit.com) 
           Over 400+ free JavaScripts here!
@@ -20,6 +20,7 @@ layout: table
           myimages[1]="/images/header/home-header00.jpg"
           myimages[2]="/images/header/home-header01.jpg"
           myimages[3]="/images/header/home-header02.jpg"
+          myimages[4]="/images/header/home-header03.jpg"
 
           var ry=Math.floor(Math.random()*myimages.length)
           if (ry==0)
@@ -28,19 +29,19 @@ layout: table
           }
           random_imglink()
 
-				</script>
-				<!--<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">-->
-				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
-			</div><!-- /.page-image -->
-		</div><!-- /.page-feature -->
-		{% endif %}
-		
-				{{ content }}
-				
-				<footer class="page-footer">
-					{% include page-meta.html %}
-				</footer><!-- /.footer -->
-			</div><!-- /.content -->
-		{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
-	</article><!-- /.wrap -->
+        </script>
+        <!--<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">-->
+        {% if page.image.credit %}{% include image-credit.html %}{% endif %}
+      </div><!-- /.page-image -->
+    </div><!-- /.page-feature -->
+    {% endif %}
+    
+        {{ content }}
+        
+        <footer class="page-footer">
+          {% include page-meta.html %}
+        </footer><!-- /.footer -->
+      </div><!-- /.content -->
+    {% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
+  </article><!-- /.wrap -->
 </div><!-- /#main -->
