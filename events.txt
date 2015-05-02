@@ -143,7 +143,7 @@
     {
       "date": "2015/05/16",
       "match_type": "<a href='/articles/3gun-info/'>3 Gun</a>",
-      "info": "<a href='/articles/3gun-info/'>3 Gun Divisions</a>",
+      "info": "<a href='/articles/3gun-info/'>3 Gun Divisions</a> - This match is PCC friendly",
       "location": "The Farm",
       "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
       "start_time": "8:00AM",
@@ -151,8 +151,8 @@
       "match_time": "9:00AM",
       "cof": "",
       "results": "",
-      "registration_link": "",
-      "notes": "<em>You must have shot at least one match with UDPL before shooting this match.</em><p>This match info and registration will be available on the 1st of the month the match takes place."
+      "registration_link": "<a href='https://clubs.practiscore.com/udpl-may-3-gun/register'>Register at Practiscore</a>",
+      "notes": "<em>You must have shot at least one match with UDPL before shooting this match.</em><p>This match will be very Pistol Caliber Carbine (PCC) friendly. If you would like to shoot with your PCC instead of a rifle you can."
     },
     {
       "date": "2015/05/19",
