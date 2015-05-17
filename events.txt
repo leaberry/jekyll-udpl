@@ -150,7 +150,7 @@
       "ns_time": "<strong>No New Shooters</strong>",
       "match_time": "9:00AM",
       "cof": "<a href='/files/cofs/2015-05-16_cof.pdf'>COF</a>",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results.php?uuid=d6170d86-88c9-47e2-a156-3a2de7318eca'>Results</a>",
       "registration_link": "<a href='https://clubs.practiscore.com/udpl-may-3-gun/register'>Register at Practiscore</a>",
       "notes": "<em>You must have shot at least one match with UDPL before shooting this match.</em><p>This match will be very Pistol Caliber Carbine (PCC) friendly. If you would like to shoot with your PCC instead of a rifle you can. <p>Round count is 114 pistol, 66 rifle, 66 birdshot, 4 slugs. You can help setup on Friday from 9AM until dusk."
     },
