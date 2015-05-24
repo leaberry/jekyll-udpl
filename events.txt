@@ -178,7 +178,7 @@
       "ns_time": "8:30AM",
       "match_time": "9:00AM",
       "cof": "<a href='/files/cofs/2015-05-23_state_cof.pdf'>COF</a>",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results.php?uuid=c6fd1be4-f764-4115-84d6-3dfc4201008e'>Results</a>",
       "registration_link": "<a href='https://clubs.practiscore.com/2015-utah-idpa-championship/register'>Register</a>",
       "notes": "<em>You must be a registered IDPA member and have shot the classifier to take part in this match.</em><p>Round count is a minimum of 129. We will be doing a full equipment and ammo check as part of the match. 2015 rules are in effect."
     },
