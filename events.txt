@@ -68,8 +68,8 @@
       "cof": "",
       "results": "<a href='https://practiscore.com/results.php?uuid=da445b45-01d7-46ee-a40e-6cf34ea61fd7'>Results</a>",
       "registration_link": "<a href='https://clubs.practiscore.com/udpl-march-3-gun/register'>Register at Practiscore</a>",
-      "notes": "<em>You must have shot at least one match with UDPL before shooting this match.</em><p>A 3 Gun Nation Club series match including 2 classifiers."    
-    },    
+      "notes": "<em>You must have shot at least one match with UDPL before shooting this match.</em><p>A 3 Gun Nation Club series match including 2 classifiers."
+    },
     {
       "date": "2015/03/28",
       "match_type": "<a href='/articles/idpa-info/'>IDPA</a>",
@@ -185,16 +185,16 @@
     {
       "date": "2015/06/03",
       "match_type": "<a href='/articles/rangemasters-funshoot/'>Fun Shoot<a/>",
-      "info": "Bi-monthly Rangemasters Fun Shoot",
+      "info": "Bring a flashlight or weapon light",
       "location": "Rangemasters",
       "location_url": "https://www.google.com/maps/dir//Rangemasters+of+Utah,+712+W+1300+N,+Springville,+UT+84663/@40.185769,-111.623676,17z/data=!4m13!1m4!3m3!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2sRangemasters+of+Utah!3b1!4m7!1m0!1m5!1m1!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2m2!1d-111.623676!2d40.185769",
       "start_time": "6:30PM",
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='/files/results/2015-06-03_Funshoot.pdf'>Results</a>",
       "registration_link": "",
-      "notes": "Generally 100 rounds or less"
+      "notes": "Generally 100 rounds or less. <p>This match will have low light stages. Bring a flashlight or weapon light for your firearm."
     },
     {
       "date": "2015/06/13",
@@ -207,8 +207,8 @@
       "match_time": "9:00AM",
       "cof": "",
       "results": "",
-      "registration_link": "",
-      "notes": "This match info and registration will be available on the 1st of the month the match takes place."
+      "registration_link": "<a href='https://clubs.practiscore.com/2015-june-udpl-idpa/register'>Register at Practiscore</a>",
+      "notes": "Round count of 100 - 150."
     },
     {
       "date": "2015/06/16",
