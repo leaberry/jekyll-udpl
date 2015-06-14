@@ -206,7 +206,7 @@
       "ns_time": "8:30AM",
       "match_time": "9:00AM",
       "cof": "",
-      "results": "",
+      "results": "<a href='http://www.practiscore.com/results.php?uuid=c590c7a2-457b-45a2-a652-7c329c2604b7'>Results</a>",
       "registration_link": "<a href='https://clubs.practiscore.com/2015-june-udpl-idpa/register'>Register at Practiscore</a>",
       "notes": "Round count of 100 - 150."
     },
