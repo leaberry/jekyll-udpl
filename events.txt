@@ -227,16 +227,16 @@
     {
       "date": "2015/06/26",
       "match_type": "<a href='/articles/3gun-info/'>Cedar Valley 3 Gun</a>",
-      "info": "State level match for Cedar Valley Multi-Gun. <strong>Two days</strong>",
+      "info": "State level match for Cedar Valley Multi-Gun. <strong>Two days</strong>. See <a href='/announcements/CVMG-2015/'>here for details</a>",
       "location": "The Farm",
       "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
-      "start_time": "8:00AM",
+      "start_time": "7:30AM",
       "ns_time": "<strong>No New Shooters</strong>",
-      "match_time": "9:00AM",
+      "match_time": "8:00AM",
       "cof": "<a href='/files/cofs/CVMG_2015.pdf'>COF</a>",
       "results": "",
       "registration_link": "<a href='https://clubs.practiscore.com/2015-cedar-valley-multi-gun/register'>Register on Practiscore</a>",
-      "notes": "<em>You must have shot at least one match with UDPL before shooting this match.</em><p>This match will take place on both Friday and Saturday. That will avoid it running until midnight like last year."
+      "notes": "<em>You must have shot at least one match with UDPL before shooting this match.</em><p>This match will take place on both Friday and Saturday. <p>Squads 101 thru 105 start at 8 AM on Friday and at 11 AM on Saturday. The PM/AM squads 201, 202... start at 11 AM Friday and 8 AM Saturday. <p>There is no shooters meeting prior to the match. Be at your starting stage 20 min early, the stage brief will be read at 10 min to start time and then a five min walk thru, firsts shots right at the start time."
     },
     {
       "date": "2015/07/18",
