@@ -234,7 +234,7 @@
       "ns_time": "<strong>No New Shooters</strong>",
       "match_time": "8:00AM",
       "cof": "<a href='/files/cofs/CVMG_2015.pdf'>COF</a>",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results.php?uuid=c58fb0e3-a4ad-486a-80ff-9c2c8fa86e36'>Results</a>",
       "registration_link": "<a href='https://clubs.practiscore.com/2015-cedar-valley-multi-gun/register'>Register on Practiscore</a>",
       "notes": "<em>You must have shot at least one match with UDPL before shooting this match.</em><p>This match will take place on both Friday and Saturday. <p>Squads 101 thru 105 start at 8 AM on Friday and at 11 AM on Saturday. The PM/AM squads 201, 202... start at 11 AM Friday and 8 AM Saturday. <p>There is no shooters meeting prior to the match. Be at your starting stage 20 min early, the stage brief will be read at 10 min to start time and then a five min walk thru, firsts shots right at the start time."
     },
