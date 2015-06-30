@@ -296,8 +296,8 @@
     },
     {
       "date": "2015/09/19",
-      "match_type": "<a href='/articles/udpl-handgun-info/'>UDPL BUG/Carbine</a>",
-      "info": "BUG and Carbine stages before the night match",
+      "match_type": "<a href='/articles/udpl-handgun-info/'>UDPL Backup Gun (BUG)</a>",
+      "info": "BUG match only, bring the small guns",
       "location": "The Farm",
       "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
       "start_time": "2:00PM",
@@ -306,7 +306,7 @@
       "cof": "",
       "results": "",
       "registration_link": "",
-      "notes": "These are the day time stages before the night match. Bring a carbine and BUG gun.<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "notes": "These are the day time stages before the night match. Bring a Backup (BUG) gun.<p>This match info and registration will be available on the 1st of the month the match takes place."
     },
     {
       "date": "2015/09/19",
