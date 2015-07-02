@@ -239,6 +239,20 @@
       "notes": "<em>You must have shot at least one match with UDPL before shooting this match.</em><p>This match will take place on both Friday and Saturday. <p>Squads 101 thru 105 start at 8 AM on Friday and at 11 AM on Saturday. The PM/AM squads 201, 202... start at 11 AM Friday and 8 AM Saturday. <p>There is no shooters meeting prior to the match. Be at your starting stage 20 min early, the stage brief will be read at 10 min to start time and then a five min walk thru, firsts shots right at the start time."
     },
     {
+      "date": "2015/07/01",
+      "match_type": "<a href='/articles/rangemasters-funshoot/'>Fun Shoot<a/>",
+      "info": "Bi-monthly Rangemasters Fun Shoot",
+      "location": "Rangemasters",
+      "location_url": "https://www.google.com/maps/dir//Rangemasters+of+Utah,+712+W+1300+N,+Springville,+UT+84663/@40.185769,-111.623676,17z/data=!4m13!1m4!3m3!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2sRangemasters+of+Utah!3b1!4m7!1m0!1m5!1m1!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2m2!1d-111.623676!2d40.185769",
+      "start_time": "6:30PM",
+      "ns_time": "6:45PM",
+      "match_time": "7:30PM",
+      "cof": "",
+      "results": "<a href='/files/results/2015-07-01_Funshoot.pdf'>Results</a>",
+      "registration_link": "",
+      "notes": "Generally 100 rounds or less"
+    },
+    {
       "date": "2015/07/18",
       "match_type": "UDPL Rifle/Pistol",
       "info": "Pistol caliber carbines and .22lr welcome as well",
@@ -249,8 +263,8 @@
       "match_time": "9:00AM",
       "cof": "",
       "results": "",
-      "registration_link": "",
-      "notes": "If you shoot a less than rifle caliber rifle you'll be put in the Open category.<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "registration_link": "<a href='https://clubs.practiscore.com/udpl-2015-july-pistol-carbine-match/register'>Register at Practiscore</a>",
+      "notes": "If you shoot a less than rifle caliber rifle you'll be put in the Open category."
     },
     {
       "date": "2015/07/25",
