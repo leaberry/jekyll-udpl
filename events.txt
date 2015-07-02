@@ -263,8 +263,8 @@
       "match_time": "9:00AM",
       "cof": "",
       "results": "",
-      "registration_link": "",
-      "notes": "You <strong>must</strong> be an IDPA member to shoot the classifier portion of the match.<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "registration_link": "<a href='https://clubs.practiscore.com/udpl-idpa-july-2015/register'>Register on Practiscore</a>",
+      "notes": "You <strong>must</strong> be an IDPA member to shoot the classifier portion of the match."
     },
     {
       "date": "2015/08/22",
