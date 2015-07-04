@@ -267,6 +267,20 @@
       "notes": "If you shoot a less than rifle caliber rifle you'll be put in the Open category."
     },
     {
+      "date": "2015/07/21",
+      "match_type": "<a href='/articles/rangemasters-funshoot/'>Fun Shoot<a/>",
+      "info": "Bi-monthly Rangemasters Fun Shoot",
+      "location": "Rangemasters",
+      "location_url": "https://www.google.com/maps/dir//Rangemasters+of+Utah,+712+W+1300+N,+Springville,+UT+84663/@40.185769,-111.623676,17z/data=!4m13!1m4!3m3!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2sRangemasters+of+Utah!3b1!4m7!1m0!1m5!1m1!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2m2!1d-111.623676!2d40.185769",
+      "start_time": "6:30PM",
+      "ns_time": "6:45PM",
+      "match_time": "7:30PM",
+      "cof": "",
+      "results": "",
+      "registration_link": "",
+      "notes": "Generally 100 rounds or less"
+    },
+    {
       "date": "2015/07/25",
       "match_type": "<a href='/articles/idpa-info/'>IDPA</a>",
       "info": "Includes the classifier as part of the match.",
@@ -279,6 +293,34 @@
       "results": "",
       "registration_link": "<a href='https://clubs.practiscore.com/udpl-idpa-july-2015/register'>Register on Practiscore</a>",
       "notes": "You <strong>must</strong> be an IDPA member to shoot the classifier portion of the match."
+    },
+    {
+      "date": "2015/08/05",
+      "match_type": "<a href='/articles/rangemasters-funshoot/'>Fun Shoot<a/>",
+      "info": "Bi-monthly Rangemasters Fun Shoot",
+      "location": "Rangemasters",
+      "location_url": "https://www.google.com/maps/dir//Rangemasters+of+Utah,+712+W+1300+N,+Springville,+UT+84663/@40.185769,-111.623676,17z/data=!4m13!1m4!3m3!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2sRangemasters+of+Utah!3b1!4m7!1m0!1m5!1m1!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2m2!1d-111.623676!2d40.185769",
+      "start_time": "6:30PM",
+      "ns_time": "6:45PM",
+      "match_time": "7:30PM",
+      "cof": "",
+      "results": "",
+      "registration_link": "",
+      "notes": "Generally 100 rounds or less"
+    },
+    {
+      "date": "2015/08/18",
+      "match_type": "<a href='/articles/rangemasters-funshoot/'>Fun Shoot<a/>",
+      "info": "Bi-monthly Rangemasters Fun Shoot",
+      "location": "Rangemasters",
+      "location_url": "https://www.google.com/maps/dir//Rangemasters+of+Utah,+712+W+1300+N,+Springville,+UT+84663/@40.185769,-111.623676,17z/data=!4m13!1m4!3m3!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2sRangemasters+of+Utah!3b1!4m7!1m0!1m5!1m1!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2m2!1d-111.623676!2d40.185769",
+      "start_time": "6:30PM",
+      "ns_time": "6:45PM",
+      "match_time": "7:30PM",
+      "cof": "",
+      "results": "",
+      "registration_link": "",
+      "notes": "Generally 100 rounds or less"
     },
     {
       "date": "2015/08/22",
@@ -295,6 +337,20 @@
       "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
     },
     {
+      "date": "2015/09/02",
+      "match_type": "<a href='/articles/rangemasters-funshoot/'>Fun Shoot<a/>",
+      "info": "Bi-monthly Rangemasters Fun Shoot",
+      "location": "Rangemasters",
+      "location_url": "https://www.google.com/maps/dir//Rangemasters+of+Utah,+712+W+1300+N,+Springville,+UT+84663/@40.185769,-111.623676,17z/data=!4m13!1m4!3m3!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2sRangemasters+of+Utah!3b1!4m7!1m0!1m5!1m1!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2m2!1d-111.623676!2d40.185769",
+      "start_time": "6:30PM",
+      "ns_time": "6:45PM",
+      "match_time": "7:30PM",
+      "cof": "",
+      "results": "",
+      "registration_link": "",
+      "notes": "Generally 100 rounds or less"
+    },
+    {
       "date": "2015/09/12",
       "match_type": "<a href='/articles/idpa-info/'>Idaho State IDPA</a>",
       "info": "State level Tier 3 IDPA match in Parma, ID",
@@ -307,6 +363,20 @@
       "results": "",
       "registration_link": "",
       "notes": "<em>You must be a registered IDPA member and have shot the classifier to take part in this match.</em>"
+    },
+    {
+      "date": "2015/09/15",
+      "match_type": "<a href='/articles/rangemasters-funshoot/'>Fun Shoot<a/>",
+      "info": "Bi-monthly Rangemasters Fun Shoot",
+      "location": "Rangemasters",
+      "location_url": "https://www.google.com/maps/dir//Rangemasters+of+Utah,+712+W+1300+N,+Springville,+UT+84663/@40.185769,-111.623676,17z/data=!4m13!1m4!3m3!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2sRangemasters+of+Utah!3b1!4m7!1m0!1m5!1m1!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2m2!1d-111.623676!2d40.185769",
+      "start_time": "6:30PM",
+      "ns_time": "6:45PM",
+      "match_time": "7:30PM",
+      "cof": "",
+      "results": "",
+      "registration_link": "",
+      "notes": "Generally 100 rounds or less"
     },
     {
       "date": "2015/09/19",
@@ -351,6 +421,34 @@
       "notes": "<em>You must have shot at least one match with UDPL before shooting this match.</em><p>This match info and registration will be available on the 1st of the month the match takes place."
     },
     {
+      "date": "2015/10/07",
+      "match_type": "<a href='/articles/rangemasters-funshoot/'>Fun Shoot<a/>",
+      "info": "Bi-monthly Rangemasters Fun Shoot",
+      "location": "Rangemasters",
+      "location_url": "https://www.google.com/maps/dir//Rangemasters+of+Utah,+712+W+1300+N,+Springville,+UT+84663/@40.185769,-111.623676,17z/data=!4m13!1m4!3m3!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2sRangemasters+of+Utah!3b1!4m7!1m0!1m5!1m1!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2m2!1d-111.623676!2d40.185769",
+      "start_time": "6:30PM",
+      "ns_time": "6:45PM",
+      "match_time": "7:30PM",
+      "cof": "",
+      "results": "",
+      "registration_link": "",
+      "notes": "Generally 100 rounds or less"
+    },
+    {
+      "date": "2015/10/20",
+      "match_type": "<a href='/articles/rangemasters-funshoot/'>Fun Shoot<a/>",
+      "info": "Bi-monthly Rangemasters Fun Shoot",
+      "location": "Rangemasters",
+      "location_url": "https://www.google.com/maps/dir//Rangemasters+of+Utah,+712+W+1300+N,+Springville,+UT+84663/@40.185769,-111.623676,17z/data=!4m13!1m4!3m3!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2sRangemasters+of+Utah!3b1!4m7!1m0!1m5!1m1!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2m2!1d-111.623676!2d40.185769",
+      "start_time": "6:30PM",
+      "ns_time": "6:45PM",
+      "match_time": "7:30PM",
+      "cof": "",
+      "results": "",
+      "registration_link": "",
+      "notes": "Generally 100 rounds or less"
+    },
+    {
       "date": "2015/10/24",
       "match_type": "<a href='/articles/udpl-handgun-info/'>UDPL Handgun</a>",
       "info": "",
@@ -363,6 +461,34 @@
       "results": "",
       "registration_link": "",
       "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+    },
+    {
+      "date": "2015/11/04",
+      "match_type": "<a href='/articles/rangemasters-funshoot/'>Fun Shoot<a/>",
+      "info": "Bi-monthly Rangemasters Fun Shoot",
+      "location": "Rangemasters",
+      "location_url": "https://www.google.com/maps/dir//Rangemasters+of+Utah,+712+W+1300+N,+Springville,+UT+84663/@40.185769,-111.623676,17z/data=!4m13!1m4!3m3!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2sRangemasters+of+Utah!3b1!4m7!1m0!1m5!1m1!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2m2!1d-111.623676!2d40.185769",
+      "start_time": "6:30PM",
+      "ns_time": "6:45PM",
+      "match_time": "7:30PM",
+      "cof": "",
+      "results": "",
+      "registration_link": "",
+      "notes": "Generally 100 rounds or less"
+    },
+    {
+      "date": "2015/11/17",
+      "match_type": "<a href='/articles/rangemasters-funshoot/'>Fun Shoot<a/>",
+      "info": "Bi-monthly Rangemasters Fun Shoot",
+      "location": "Rangemasters",
+      "location_url": "https://www.google.com/maps/dir//Rangemasters+of+Utah,+712+W+1300+N,+Springville,+UT+84663/@40.185769,-111.623676,17z/data=!4m13!1m4!3m3!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2sRangemasters+of+Utah!3b1!4m7!1m0!1m5!1m1!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2m2!1d-111.623676!2d40.185769",
+      "start_time": "6:30PM",
+      "ns_time": "6:45PM",
+      "match_time": "7:30PM",
+      "cof": "",
+      "results": "",
+      "registration_link": "",
+      "notes": "Generally 100 rounds or less"
     },
     {
       "date": "2015/11/28",
@@ -379,6 +505,20 @@
       "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
     },
     {
+      "date": "2015/12/02",
+      "match_type": "<a href='/articles/rangemasters-funshoot/'>Fun Shoot<a/>",
+      "info": "Bi-monthly Rangemasters Fun Shoot",
+      "location": "Rangemasters",
+      "location_url": "https://www.google.com/maps/dir//Rangemasters+of+Utah,+712+W+1300+N,+Springville,+UT+84663/@40.185769,-111.623676,17z/data=!4m13!1m4!3m3!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2sRangemasters+of+Utah!3b1!4m7!1m0!1m5!1m1!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2m2!1d-111.623676!2d40.185769",
+      "start_time": "6:30PM",
+      "ns_time": "6:45PM",
+      "match_time": "7:30PM",
+      "cof": "",
+      "results": "",
+      "registration_link": "",
+      "notes": "Generally 100 rounds or less"
+    },
+    {
       "date": "2015/12/12",
       "match_type": "<a href='/articles/udpl-handgun-info/'>UDPL Handgun</a>",
       "info": "",
@@ -391,6 +531,20 @@
       "results": "",
       "registration_link": "",
       "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+    },
+    {
+      "date": "2015/12/15",
+      "match_type": "<a href='/articles/rangemasters-funshoot/'>Fun Shoot<a/>",
+      "info": "Bi-monthly Rangemasters Fun Shoot",
+      "location": "Rangemasters",
+      "location_url": "https://www.google.com/maps/dir//Rangemasters+of+Utah,+712+W+1300+N,+Springville,+UT+84663/@40.185769,-111.623676,17z/data=!4m13!1m4!3m3!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2sRangemasters+of+Utah!3b1!4m7!1m0!1m5!1m1!1s0x874d97b5c5407aa7:0x8eb2ddfdfebd974a!2m2!1d-111.623676!2d40.185769",
+      "start_time": "6:30PM",
+      "ns_time": "6:45PM",
+      "match_time": "7:30PM",
+      "cof": "",
+      "results": "",
+      "registration_link": "",
+      "notes": "Generally 100 rounds or less"
     },
     {
       "date": "2016/01/01",
