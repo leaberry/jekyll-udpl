@@ -290,7 +290,7 @@
       "ns_time": "8:30AM",
       "match_time": "9:00AM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results.php?uuid=d4268bf6-0d23-4951-a4fc-a644b737de7f'>Classifier Results</a> <a href='https://practiscore.com/results.php?uuid=8bb404f3-3a7a-470c-bb30-a2ddf3344927'>Defensive Stages Results</a>",
       "registration_link": "<a href='https://clubs.practiscore.com/udpl-idpa-july-2015/register'>Register on Practiscore</a>",
       "notes": "You <strong>must</strong> be an IDPA member to shoot the classifier portion of the match."
     },
@@ -333,8 +333,8 @@
       "match_time": "9:00AM",
       "cof": "",
       "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "registration_link": "<a href='https://clubs.practiscore.com/2015-udpl-super-shoot/register'>Register on Practiscore</a>",
+      "notes": "<p>You must pay online for this match. You will receive a payment link after you register but before you squad. Once your payment is processed you will be allowed to squad."
     },
     {
       "date": "2015/09/02",
