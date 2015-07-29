@@ -361,7 +361,7 @@
       "match_time": "7:00AM",
       "cof": "",
       "results": "",
-      "registration_link": "",
+      "registration_link": "<a href='https://clubs.practiscore.com/2015-idaho-state-idpa-championship/register'>Register at Practiscore</a>",
       "notes": "<em>You must be a registered IDPA member and have shot the classifier to take part in this match.</em>"
     },
     {
