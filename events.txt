@@ -332,7 +332,7 @@
       "ns_time": "7:30AM",
       "match_time": "8:00AM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results.php?uuid=cde1bf4b-a987-49c8-a3f7-d8e3088e3395'>Results</a>",
       "registration_link": "<a href='https://clubs.practiscore.com/2015-udpl-super-shoot/register'>Register on Practiscore</a>",
       "notes": "<p>You must pay online for this match. You will receive a payment link after you register but before you squad. Once your payment is processed you will be allowed to squad.<p>Round count is 12 stages, 30rds per stage if you don't miss. I would recommend 500 rounds"
     },
@@ -384,12 +384,12 @@
       "info": "BUG match only, bring the small guns",
       "location": "The Farm",
       "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
-      "start_time": "2:00PM",
+      "start_time": "12:00PM",
       "ns_time": "<strong>No New Shooters</strong>",
-      "match_time": "2:00PM",
+      "match_time": "1:00PM",
       "cof": "",
       "results": "",
-      "registration_link": "",
+      "registration_link": "<a href='https://clubs.practiscore.com/udpl-sept-19th-2015-bug-match/register'>Register at Practiscore</a>",
       "notes": "These are the day time stages before the night match. Bring a Backup (BUG) gun.<p>This match info and registration will be available on the 1st of the month the match takes place."
     },
     {
@@ -403,7 +403,7 @@
       "match_time": "9:00PM",
       "cof": "",
       "results": "",
-      "registration_link": "",
+      "registration_link": "<a href='https://clubs.practiscore.com/udpl-sept-19th-2015-night-match/register'>Register at Practiscore</a>",
       "notes": "<em>No new shooters</em>.<p>Bring a flashlight, a headlamp if you have one for scoring and a light/laser for your pistol if you want to compete with it. This match will run until 2-3AM.<p>This match info and registration will be available on the 1st of the month the match takes place."
     },
     {
