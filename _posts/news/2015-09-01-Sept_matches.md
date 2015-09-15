@@ -7,6 +7,10 @@ categories: Announcements
 September is filled with matches. If you want to shoot the [Idaho IDPA state match](https://clubs.practiscore.com/2015-idaho-state-idpa-championship/register) there is still time to register. We're also doing our annual night match this month with a side match for backup guns (BUG) earlier in the afternoon. If you haven't shot the night match before it is a great experience to see how your tactical lights, night sights and other equipment works at night.
 
 
+## Funshoot on Sept 2nd and 15th
+
+As always we have the Rangemasters Funshoot on Sept 2nd and 15th. Details are in the schedule.
+
 
 ## Sept 19th, Night and BUG matches
 
