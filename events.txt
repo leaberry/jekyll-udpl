@@ -388,7 +388,7 @@
       "ns_time": "<strong>No New Shooters</strong>",
       "match_time": "1:00PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results/11943'>Results</a>",
       "registration_link": "<a href='https://clubs.practiscore.com/udpl-sept-19th-2015-bug-match/register'>Register at Practiscore</a>",
       "notes": "These are the day time stages before the night match. Bring a Backup (BUG) gun."
     },
@@ -402,7 +402,7 @@
       "ns_time": "<strong>No New Shooters</strong>",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results/ad55757f-bb65-44d7-9ef6-35a07afbc6f7/index'>Results</a>",
       "registration_link": "<a href='https://clubs.practiscore.com/udpl-sept-19th-2015-night-match/register'>Register at Practiscore</a>",
       "notes": "<em>No new shooters</em>.<p>Bring a flashlight, a headlamp if you have one for scoring and a light/laser for your pistol if you want to compete with it. This match will run until 2-3AM."
     },
@@ -416,7 +416,7 @@
       "ns_time": "<strong>No New Shooters</strong>",
       "match_time": "9:00AM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results/12220'>Results</a>",
       "registration_link": "<a href='https://clubs.practiscore.com/udpl-sept-3-gun/register'>Register at Practiscore</a>",
       "notes": "<em>You must have shot at least one match with UDPL before shooting this match.</em>"
     },
