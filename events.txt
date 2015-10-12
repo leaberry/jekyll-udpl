@@ -431,7 +431,7 @@
       "match_time": "7:30PM",
       "cof": "",
       "results": "",
-      "registration_link": "",
+      "registration_link": "<a href='/files/results/2015-10-07_Funshoot.pdf'>Results</a>",
       "notes": "Generally 100 rounds or less"
     },
     {
@@ -459,8 +459,8 @@
       "match_time": "9:00AM",
       "cof": "",
       "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "registration_link": "<a href='https://practiscore.com/udpl-handgun-oct-2015/register'>Register on Practiscore</a>",
+      "notes": "<p>Normal handgun match. Bring about 300-400 rounds of ammo."
     },
     {
       "date": "2015/11/04",
