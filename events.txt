@@ -430,8 +430,8 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
-      "registration_link": "<a href='/files/results/2015-10-07_Funshoot.pdf'>Results</a>",
+      "results": "<a href='/files/results/2015-10-07_Funshoot.pdf'>Results</a>",
+      "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
     {
