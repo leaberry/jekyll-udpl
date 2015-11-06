@@ -458,7 +458,7 @@
       "ns_time": "8:30AM",
       "match_time": "9:00AM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results/13197'>Results</a>",
       "registration_link": "<a href='https://practiscore.com/udpl-handgun-oct-2015/register'>Register on Practiscore</a>",
       "notes": "<p>Normal handgun match. Bring about 300-400 rounds of ammo."
     },
@@ -472,7 +472,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='/files/results/2015-11-04_Funshoot.pdf'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -501,8 +501,8 @@
       "match_time": "10:00AM",
       "cof": "",
       "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "registration_link": "<a href='https://practiscore.com/udpl-handgun-nov-2015/register'>Register on Practiscore</a>",
+      "notes": "<p>Winter hours. Revolver friendly match"
     },
     {
       "date": "2015/12/02",
