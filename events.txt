@@ -514,7 +514,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='/files/results/2015-12-02_Funshoot.pdf'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -528,9 +528,9 @@
       "ns_time": "9:30AM",
       "match_time": "10:00AM",
       "cof": "",
-      "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "results": "<a href='https://practiscore.com/results/14626'>Results</a>",
+      "registration_link": "<a href='https://practiscore.com/udpl-december-2015-handgun-match/register'>Register on Practiscore</a>",
+      "notes": "<p>Registration opens Dec 3rd."
     },
     {
       "date": "2015/12/15",
@@ -542,7 +542,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='/files/results/2015-12-15_Funshoot.pdf'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -557,8 +557,8 @@
       "match_time": "10:00AM",
       "cof": "",
       "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "registration_link": "<a href='https://practiscore.com/udpl-jan-1-2015-steel-challange/register'>Register on Practiscore</a>",
+      "notes": "<p>Steel challenge has a standard format. You can read up on it <a href='https://steelchallenge.com/media/stage-diagrams.html'>here</a>. "
     },
     {
       "date": "2016/01/23",
@@ -571,8 +571,8 @@
       "match_time": "10:00AM",
       "cof": "",
       "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "registration_link": "<a href='https://practiscore.com/udpl-2016-january-idpa-match/register'>Register at Practiscore</a>",
+      "notes": "<p>Bring your mittens!"
     },
     {
       "date": "2016/02/27",
