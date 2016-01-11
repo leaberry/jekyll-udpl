@@ -576,8 +576,8 @@
     },
     {
       "date": "2016/02/27",
-      "match_type": "Handgun Man Vs Man",
-      "info": "Bring 300+ rds of ammo",
+      "match_type": "<a href='/articles/udpl-handgun-info/'>UDPL Handgun</a>",
+      "info": "UDPL Handgun Match",
       "location": "The Farm",
       "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
       "start_time": "9:00AM",
@@ -603,9 +603,23 @@
       "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
     },
     {
+      "date": "2016/03/26",
+      "match_type": "<a href='/articles/idpa-info/'>IDPA</a>",
+      "info": "IDPA Match",
+      "location": "The Farm",
+      "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
+      "start_time": "9:00AM",
+      "ns_time": "9:30AM",
+      "match_time": "10:00AM",
+      "cof": "",
+      "results": "",
+      "registration_link": "",
+      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+    },
+    {
       "date": "2016/04/16",
-      "match_type": "<a href='/articles/udpl-handgun-info/'>UDPL Handgun</a>",
-      "info": "UDPL Hand Gun Match",
+      "match_type": "<a href='/articles/udpl-handgun-info/'>ICORE Handgun</a>",
+      "info": "ICORE Handgun Match",
       "location": "The Farm",
       "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
       "start_time": "8:00AM",
@@ -758,8 +772,8 @@
     },
     {
       "date": "2016/11/19",
-      "match_type": "<a href='/articles/udpl-handgun-info/'>UDPL/ICORE Handgun</a>",
-      "info": "ICORE Hand Gun",
+      "match_type": "<a href='/articles/udpl-handgun-info/'>ICORE Handgun</a>",
+      "info": "ICORE Handgun",
       "location": "The Farm",
       "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
       "start_time": "9:00AM",
@@ -773,7 +787,7 @@
     {
       "date": "2016/12/10",
       "match_type": "<a href='/articles/udpl-handgun-info/'>UDPL Handgun</a>",
-      "info": "UDPL Hand Gun",
+      "info": "UDPL Handgun",
       "location": "The Farm",
       "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
       "start_time": "9:00AM",

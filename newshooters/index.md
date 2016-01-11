@@ -22,12 +22,20 @@ There are a number of safe areas around the range. At these safe areas you may h
 
 * You are never timed on holstering your firearm and holstering is frequently when people have accidents. Take your time holstering your firearm, look at the holster, make sure your shirt or sweater isn't in the way. Make sure your finger is off the trigger and along the side of the firearm.
 
-* Breaking the muzzle safety points. Each stage has either muzzle safety cones or an imaginary 180 degree line. Sometimes while reloading or moving you might twist the gun. If you move the muzzle past the limits you will be disqualified. 
+* Breaking the muzzle safety points. Each stage has either muzzle safety cones or an imaginary 180 degree line. Sometimes while reloading or moving you might twist the gun. If you move the muzzle past the limits you will be disqualified.
 
 
 ## General Match Info
 
-All UDPL matches score based on time taken to shoot the match and accuracy of the shooting. Generally 0.5-2.5 seconds are added to the time for every shot that isn't as accurate as it could be. IDPA matches use more advanced scoring but the basics are the same. Shoot fast and be accurate. 
+All UDPL matches score based on time taken to shoot the match and accuracy of the shooting. Generally 0.5-2.5 seconds are added to the time for every shot that isn't as accurate as it could be. IDPA matches use more advanced scoring but the basics are the same. Shoot fast and be accurate.
+
+### Match Etiquette
+
+* Don't jump ahead of another squad. This causes all sorts of problems. Instead help the squad tape and reset so they go faster and have your safety officer take their shooters that have already shot and move to the next stage.
+
+* Don't leave trash lying around. You brought it in, you carry it out.
+
+* Don't be lazy. Shooting the match involves more than just shooting. Unless you are the current shooter or the next shooter you should be helping with taping and reset. If you can't tape and reset bring someone who will for you and is not shooting.
 
 ### Membership and Match Fees
 
@@ -51,7 +59,7 @@ All UDPL matches use common range commands.
 * **Shooter ready**
   * You can respond with **Shooter Ready!** or nod your head. If you do nothing, after about 5 seconds the Safety Officer will assume you're ready. If you are not ready, say something.
 * **Standby**
-  * You should remain motionless in the start position, waiting the buzzer from the timer. 
+  * You should remain motionless in the start position, waiting the buzzer from the timer.
 * **BEEP**
   * When the timer goes off you should draw your firearm and shoot the course of fire. When you are all done shooting face down range with the firearm pointed down range and remain there awaiting commands from the Safety Officer.
   * While shooting you may hear the following three commands.
@@ -68,23 +76,23 @@ All UDPL matches use common range commands.
 
 ### Example Stage Walkthrough
 
-Bob is shooting a UDPL Handgun match. There are 8 paper targets and 2 steel targets. The course of fire (CoF) calls for 2 shots on each paper target and hitting the steel targets with one shot. 
+Bob is shooting a UDPL Handgun match. There are 8 paper targets and 2 steel targets. The course of fire (CoF) calls for 2 shots on each paper target and hitting the steel targets with one shot.
 
 * Bob is listening for his name to be called. The Scorekeeper or Safety Officer will call out the next 3 shooters after each shooter finishes shooting the stage. While waiting, Bob is helping to tape paper targets and reset steel targets so the match progresses quickly.
 
-* Bob is called to the shooting line. He has his magazines all loaded and he is mentally prepared to shoot the stage. 
+* Bob is called to the shooting line. He has his magazines all loaded and he is mentally prepared to shoot the stage.
 
 * The safety officer runs Bob through the range commands and Bob shoots the stage
 
 * The safety officer will make sure Bob unloads his firearm, clears it, and holsters.
 
-* The range will be called *Clear* and the Scorekeeper and Safety Officer will score the targets. Bob should check the targets with the Safety Officer and Scorekeeper to ensure he is clear on the scoring. Other shooters will be taping the targets after they are scored. 
+* The range will be called *Clear* and the Scorekeeper and Safety Officer will score the targets. Bob should check the targets with the Safety Officer and Scorekeeper to ensure he is clear on the scoring. Other shooters will be taping the targets after they are scored.
 
 * Bob shoots the stage in 30 seconds. The shot timer records each shot taken so the end time is the time of your last shot. Scoring the targets Bob realizes he completely missed two shots on the paper targets. His final time will be 35 seconds (2.5 seconds for each missed paper shot).
 
 ## Range Info
 
-[Directions](http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724) 
+[Directions](http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724)
 
 The range is located at [The Farm](http://www.farmpolice.com) near Fairfield, UT. There are 3 miles of dirt roads but they are passable in a standard passenger car. There are no garbage cans, no running water, and only portable toilets. Plan to carry out everything you bring to the range.
 
@@ -119,4 +127,4 @@ UDPL does not sponsor these matches but provides information on them as a courte
 
 [More Info](/articles/rangemasters-funshoot/)
 
- 
+
