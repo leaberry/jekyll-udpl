@@ -575,6 +575,20 @@
       "notes": "<p>Bring your mittens!"
     },
     {
+      "date": "2016/02/20",
+      "match_type": "UDPL Membership meeting",
+      "info": "Annual meeting for all club members",
+      "location": "Sizzler 1240 S State Street, Orem",
+      "location_url": "https://goo.gl/maps/uezSw4aGLMm",
+      "start_time": "3:00PM",
+      "ns_time": "3:00PM",
+      "match_time": "3:00PM",
+      "cof": "",
+      "results": "",
+      "registration_link": "",
+      "notes": "If you are a UDPL member and would like to vote on club officers or hear the status reports please join us. Everyone buys their own lunch from Sizzler and then we have the meeting. We have a private room reserved so just ask for the UDPL club."
+    },
+    {
       "date": "2016/02/27",
       "match_type": "<a href='/articles/udpl-handgun-info/'>UDPL Handgun</a>",
       "info": "UDPL Handgun Match",
