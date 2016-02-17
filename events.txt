@@ -570,7 +570,7 @@
       "ns_time": "9:30AM",
       "match_time": "10:00AM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results/15653'>Results</a>",
       "registration_link": "<a href='https://practiscore.com/udpl-2016-january-idpa-match/register'>Register at Practiscore</a>",
       "notes": "<p>Bring your mittens!"
     },
@@ -659,9 +659,9 @@
       "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
     },
     {
-      "date": "2016/05/27",
+      "date": "2016/05/28",
       "match_type": "<a href='/articles/idpa-info/'>Utah State IDPA</a>",
-      "info": "Tier 3 IDPA match - Two days (27th - 28th)",
+      "info": "Tier 2 IDPA match - Two days (27th - 28th)",
       "location": "The Farm",
       "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
       "start_time": "8:00AM",
@@ -669,8 +669,8 @@
       "match_time": "9:00AM",
       "cof": "",
       "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "registration_link": "<a href='https://practiscore.com/2016-utah-state-idpa-championship/register'>Register on Practiscore</a>",
+      "notes": "<p>State level IDPA match. Will be lots of fun. Staff shoot the 27th. Match is the 28th."
     },
     {
       "date": "2016/06/11",
@@ -836,7 +836,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='/files/results/2016-01-19_Funshoot.pdf'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -850,7 +850,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='/files/results/2016-02-03_Funshoot.pdf'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
