@@ -599,8 +599,8 @@
       "match_time": "10:00AM",
       "cof": "<a href='/articles/man-vs-man-info/'>Course of Fire</a>",
       "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "registration_link": "<a href='https://practiscore.com/udpl-february-2016-handgun-match-clone/register'>Register on Practiscore</a>",
+      "notes": "<p>Standard udpl handgun match. Bring about 300 rds of ammo"
     },
     {
       "date": "2016/03/19",
@@ -864,7 +864,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='/files/results/2016-02-16_Funshoot.pdf'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
