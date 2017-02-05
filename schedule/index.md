@@ -123,6 +123,8 @@ $(document).ready(function() {
 
 Clicking on the green plus symbol on the left side of each row will expand the row to show match details. A [calendar](https://www.google.com/calendar/embed?src=udpl.calendar@gmail.com&ctz=America/Denver&src=7argqbtikbq4otu48vhqpdilv8@group.calendar.google.com&mode=Month) is provided as well.
 
+**Cash/Check are the only forms of payment accepted**
+
 <table id="schedule" class="row-border" cellspacing="0" width="100%">
     <thead>
       <tr>

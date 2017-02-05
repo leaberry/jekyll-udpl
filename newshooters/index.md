@@ -39,15 +39,17 @@ All UDPL matches score based on time taken to shoot the match and accuracy of th
 
 ### Membership and Match Fees
 
+**Payment at the range is cash/check only! No credit cards**
+
 You can join UDPL for $12.00 a year. Membership can be initiated at any match during sign in. Membership allows for discounted match pricing and voting at the yearly membership meeting on club officers and issues. **You do not need to be a UDPL member to shoot a UDPL match.**
 
 Special matches like the IDPA state match and the Cedar Valley Multigun match will have different fee structures. See the [schedule](/schedule) for specific match details. Additionally [IDPA matches](/articles/idpa-info/) require you to be an IDPA member.
 
 | **Match Type**  |**UDPL Member**|**Non Member**|
-|Regular UDPL/IDPA Match | $15.00 | $25.00 |
-|3 Gun Match| $20.00 | $30.00 |
-|Female Shooters| $5.00 | $5.00 |
-|Junior Shooters (17 and under)| $5.00 | $5.00 |
+|Regular UDPL/IDPA Match | $20.00 | $30.00 |
+|3 Gun Match| $25.00 | $35.00 |
+|Female Shooters| $10.00 | $10.00 |
+|Junior Shooters (17 and under)| $10.00 | $10.00 |
 |Match Safety Officers | $5.00 | $5.00 |
 
 ### Range Commands
