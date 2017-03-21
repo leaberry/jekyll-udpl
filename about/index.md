@@ -11,7 +11,6 @@ The Utah Defensive Pistol League is a local Utah County not-for-profit organizat
 
 ## Club Affiliations
 
-* [3 Gun Nation](http://www.3gunnation.com)
 * [IDPA](http://www.idpa.com)
 * [ICORE](http://www.icore.org)
 * [Practiscore](https://practiscore.com)

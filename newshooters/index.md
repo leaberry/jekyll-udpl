@@ -119,7 +119,7 @@ IDPA requires an additional IDPA membership to shoot the match. You can join IDP
 
 ## 3 Gun Matches
 
-3 Gun is the newest type of shooting sport and uses a rifle, shotgun and pistol. Most stages use two of the three firearms at a time. For example you might need to hit 6 steel plates with your rifle from 100 yards then transition to your pistol and shoot 5 paper targets and 2 steel. Round counts can vary, each match will have a description of the recommended round count. Generally there are 8-10 stages in a match.
+3 Gun is the newest type of shooting sport and uses a rifle, shotgun and pistol. Most stages use two of the three firearms at a time. For example you might need to hit 6 steel plates with your rifle from 100 yards then transition to your pistol and shoot 5 paper targets and 2 steel. Round counts can vary, each match will have a description of the recommended round count. Generally there are 6 stages in a match.
 
 [More Info](/articles/3gun-info/)
 

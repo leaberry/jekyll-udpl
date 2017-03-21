@@ -1550,7 +1550,7 @@
       "ns_time": "8:30AM",
       "match_time": "9:00AM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results/new/33114'>Results</a>",
       "registration_link": "<a href='https://practiscore.com/udpl-march-3-gun-2/register'>Register on Practiscore</a>",
       "notes": "<p>Standard 3 gun match, bring ammo and guns..."
     },
