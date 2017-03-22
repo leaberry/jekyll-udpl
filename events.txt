@@ -1228,7 +1228,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results/new/32328'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -1542,8 +1542,8 @@
     },
     {
       "date": "2017/03/18",
-      "match_type": "<a href='/articles/3gun-info/'>3 Gun</a>",
-      "info": "<a href='/articles/3gun-info/'>3 Gun Divisions</a>",
+      "match_type": "<a href='/articles/multigun-info/'>Multigun</a>",
+      "info": "<a href='/articles/multigun-info/'>Multigun Divisions</a>",
       "location": "The Farm",
       "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
       "start_time": "8:00AM",
@@ -1552,7 +1552,7 @@
       "cof": "",
       "results": "<a href='https://practiscore.com/results/new/33114'>Results</a>",
       "registration_link": "<a href='https://practiscore.com/udpl-march-3-gun-2/register'>Register on Practiscore</a>",
-      "notes": "<p>Standard 3 gun match, bring ammo and guns..."
+      "notes": "<p>Standard Multigun match, bring ammo and guns..."
     },
     {
       "date": "2017/03/25",
@@ -1584,8 +1584,8 @@
     },
     {
       "date": "2017/04/22",
-      "match_type": "<a href='/articles/3gun-info/'>3 Gun</a>",
-      "info": "<a href='/articles/3gun-info/'>3 Gun Divisions</a>",
+      "match_type": "<a href='/articles/multigun-info/'>Multigun</a>",
+      "info": "<a href='/articles/multigun-info/'>Multigun Divisions</a>",
       "location": "The Farm",
       "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
       "start_time": "8:00AM",
@@ -1612,8 +1612,8 @@
     },
     {
       "date": "2017/06/03",
-      "match_type": "<a href='/articles/3gun-info/'>3 Gun</a>",
-      "info": "Cedar Valley Multigun (State 3 gun)",
+      "match_type": "<a href='/articles/multigun-info/'>Multigun</a>",
+      "info": "Cedar Valley Multigun (State Multigun)",
       "location": "The Farm",
       "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
       "start_time": "8:00AM",
@@ -1710,8 +1710,8 @@
     },
     {
       "date": "2017/09/23",
-      "match_type": "<a href='/articles/3gun-info/'>3 Gun</a>",
-      "info": "<a href='/articles/3gun-info/'>3 Gun Divisions</a>",
+      "match_type": "<a href='/articles/multigun-info/'>Multigun</a>",
+      "info": "<a href='/articles/multigun-info/'>Multigun Divisions</a>",
       "location": "The Farm",
       "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
       "start_time": "8:00AM",

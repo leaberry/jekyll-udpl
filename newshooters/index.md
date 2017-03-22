@@ -47,7 +47,7 @@ Special matches like the IDPA state match and the Cedar Valley Multigun match wi
 
 | **Match Type**  |**UDPL Member**|**Non Member**|
 |Regular UDPL/IDPA Match | $20.00 | $30.00 |
-|3 Gun Match| $25.00 | $35.00 |
+|Multigun Match| $25.00 | $35.00 |
 |Female Shooters| $10.00 | $10.00 |
 |Junior Shooters (17 and under)| $10.00 | $10.00 |
 |Match Safety Officers | $5.00 | $5.00 |
@@ -117,11 +117,11 @@ IDPA requires an additional IDPA membership to shoot the match. You can join IDP
 [More Info](/articles/idpa-info/)
 
 
-## 3 Gun Matches
+## Multigun Matches
 
-3 Gun is the newest type of shooting sport and uses a rifle, shotgun and pistol. Most stages use two of the three firearms at a time. For example you might need to hit 6 steel plates with your rifle from 100 yards then transition to your pistol and shoot 5 paper targets and 2 steel. Round counts can vary, each match will have a description of the recommended round count. Generally there are 6 stages in a match.
+Multigun is the newest type of shooting sport and uses a rifle, shotgun and pistol. Most stages use two of the three firearms at a time. For example you might need to hit 6 steel plates with your rifle from 100 yards then transition to your pistol and shoot 5 paper targets and 2 steel. Round counts can vary, you should bring enough ammo. Figure 200 rifle, 300 pistol, 100 shotgun and 10 slugs and you'll be fine. Generally there are 6 stages in a match.
 
-[More Info](/articles/3gun-info/)
+[More Info](/articles/multigun-info/)
 
 ## Rangemasters Fun Shoot
 

@@ -35,7 +35,7 @@ Special matches like the IDPA state match and the Cedar Valley Multigun match wi
 
 | **Match Type**  |**UDPL Member**|**Non Member**|
 |Regular UDPL/IDPA Match | $20.00 | $30.00 |
-|3 Gun Match| $25.00 | $35.00 |
+|Multigun Match| $25.00 | $35.00 |
 |Female Shooters| $10.00 | $10.00 |
 |Junior Shooters (17 and under)| $10.00 | $10.00 |
 |Match Safety Officers | $5.00 | $5.00 |
@@ -100,7 +100,7 @@ Special matches like the IDPA state match and the Cedar Valley Multigun match wi
 
 </div>
 
-### 3 Gun Matches
+### Multigun Matches
 
 <div class="group-officers">
 
