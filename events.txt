@@ -1242,7 +1242,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results/new/34046'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -1256,7 +1256,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results/new/32328'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -1270,7 +1270,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results/html/94845610-d267-4c14-8840-2764f4c15650?page=matchCombinedAll'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -1284,7 +1284,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results/new/b3a597f1-0130-477e-84ef-4455e8c46a35'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -1298,7 +1298,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results/new/37521'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -1312,7 +1312,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='/files/results/2017-06-20_Funshoot.pdf'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -1326,7 +1326,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results/new/39186'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -1340,7 +1340,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='/files/results/2017-07-18_Funshoot.pdf'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -1354,7 +1354,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results/new/40801'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -1368,7 +1368,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results/new/41635'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -1382,7 +1382,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='/files/results/2017-09-06_Funshoot.pdf'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -1396,7 +1396,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results/new/43745'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -1410,7 +1410,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results/new/44538'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -1424,7 +1424,7 @@
       "ns_time": "6:45PM",
       "match_time": "7:30PM",
       "cof": "",
-      "results": "",
+      "results": "<a href='/files/results/2017-10-17_Funshoot.pdf'>Results</a>",
       "registration_link": "",
       "notes": "Generally 100 rounds or less"
     },
@@ -1560,11 +1560,11 @@
       "info": "IDPA with Classifier Match",
       "location": "The Farm",
       "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
-      "start_time": "9:00AM",
-      "ns_time": "9:30AM",
-      "match_time": "10:00AM",
+      "start_time": "8:00AM",
+      "ns_time": "8:30AM",
+      "match_time": "9:00AM",
       "cof": "",
-      "results": "",
+      "results": "<a href='https://practiscore.com/results/new/33456'>Match</a> <a href='https://practiscore.com/results/new/33461'>Classifier</a>",
       "registration_link": "<a href='https://practiscore.com/udpl-2017-march-idpa-match-with-classifier/register'>Register on Practiscore</a>",
       "notes": "<p>Includes the IDPA classifier as part of the match. Classifier has changed format slightly and is different in that your classification with **any** semi-auto pistol is your classification for all semi-auto divisions."
     },
@@ -1578,9 +1578,9 @@
       "ns_time": "8:30AM",
       "match_time": "9:00AM",
       "cof": "",
-      "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "results": "<a href='https://practiscore.com/results/html/f7b1acf6-4bc1-4079-b8c3-8047e0cffa5c?page=matchCombined'>Results</a>",
+      "registration_link": "<a href='https://practiscore.com/udpl-icore-april-2017/register'>Register on Practiscore</a>",
+      "notes": "<p>Match will be high round count. Bring 400 rounds to be safe"
     },
     {
       "date": "2017/04/22",
@@ -1592,9 +1592,9 @@
       "ns_time": "8:30AM",
       "match_time": "9:00AM",
       "cof": "",
-      "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "results": "<a href='https://practiscore.com/results/new/33114'>Results</a>",
+      "registration_link": "<a href='https://practiscore.com/april-2017-multigun/register'>Register on Practiscore</a>",
+      "notes": "<p>There will be 6 stages of fast paced multi-gun action, running the same format as the Expedition multi-gun in Las Vegas. We will be running the new United Multigun league rule and divisions as noted on the home page. <p>Divisions: Tac, Limited, Heavy , Open, PCC (shooting the entire match with 1 PCC gun), 2 Gun (shoot the entire match Rifle/Pistol) and 2X4 (using Rifle, Pistol, Shot Gun and PCC. Must use 2 guns per stage, shooters choice. All open rules)"
     },
     {
       "date": "2017/05/27",
@@ -1606,9 +1606,9 @@
       "ns_time": "8:30AM",
       "match_time": "9:00AM",
       "cof": "",
-      "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "results": "<a href='https://practiscore.com/results/new/36878'>Results</a>",
+      "registration_link": "<a href='https://practiscore.com/udpl-2017-may-idpa/register'>Register on Practiscore</a>",
+      "notes": "<p>10 Stage IDPA Match with Classifier"
     },
     {
       "date": "2017/06/03",
@@ -1619,14 +1619,14 @@
       "start_time": "8:00AM",
       "ns_time": "8:30AM",
       "match_time": "9:00AM",
-      "cof": "",
-      "results": "",
-      "registration_link": "",
-      "notes": "<p>This is a two day match, Saturday and Sunday. Staff shoot Friday."
+      "cof": "<a href='/files/cofs/CVMG_2017_COF.pdf'>2017 COF</a>",
+      "results": "<a href='https://practiscore.com/results/new/37243'>Results</a>",
+      "registration_link": "<a href='https://practiscore.com/berrys-cedar-valley-multigun/register'>Register on Practiscore</a>",
+      "notes": "<p>This is a two day match, Saturday and Sunday. Staff shoot Friday. <p>Match fee is $100 and there will be 10 stages of fast paced multi-gun action, running the same format as the Expedition multi-gun in Las Vegas. We will be running the new rule and divisions found <a href='https://docs.google.com/document/d/1i7rn0rwTHmQM4jsJ9md0870yVp0Xqst96MFLLi1WdOk'>here</a><p>Divisions: Tac, Limited, Heavy , Open, PCC (shooting the entire match with 1 PCC gun), 2 Gun (shoot the entire match Rifle/Pistol) and 2X4 (using Rifle, Pistol, Shot Gun and PCC. Must use 2 guns per stage, shooters choice. All open rules)<p>Rather than a prize table after the match we will do a quick awards with some random draw prizes mixed in. Thru out the Match the prize patrol will be roving around to each squad with give away's and a drawing for a substantial prize or two."
     },
     {
       "date": "2017/06/24",
-      "match_type": "<a href='/articles/udpl-handgun-info/'>UDPL Handgun</a>",
+      "match_type": "<a href='/articles/udpl-handgun-info/'>Black Rifle</a>",
       "info": "Black Rifle Match",
       "location": "The Farm",
       "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
@@ -1634,9 +1634,9 @@
       "ns_time": "8:30AM",
       "match_time": "9:00AM",
       "cof": "",
-      "results": "",
-      "registration_link": "",
-      "notes": "<p>This will be a new match format using a semi-auto rifle AR/AK recommended and a pistol."
+      "results": "<a href='https://practiscore.com/results/new/38528'>Results</a>",
+      "registration_link": "<a href='https://practiscore.com/udpl-june-black-rifle-match/register'>Register on Practiscore</a>",
+      "notes": "<p>If anyone is wondering what this match is like, watch <a href='https://www.youtube.com/watch?v=cZ5p8gC9Q_c'>this video</a>.<p>We are copying the format used successfully down at SUPS in St. George. This should be a fast paced match a little different than our normal matches.<p>The overwhelming majority of the shots at this match will be well inside 100 yards. The longest shots will be maybe a touch more. But my goal for this match is to create a game where the Average Joe who otherwise wouldn't shoot a match will want to come out and just have fun. The targets aren't going to be crazy hard, just enough to make you work a tiny bit. This is a perfect opportunity for people to come out and shoot their rifles and not feel like they are required to shoot 300 yard plate racks."
     },
     {
       "date": "2017/07/15",
@@ -1648,9 +1648,9 @@
       "ns_time": "8:30AM",
       "match_time": "9:00AM",
       "cof": "",
-      "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "results": "<a href='https://practiscore.com/results/new/39832'>Results</a>",
+      "registration_link": "<a href='https://practiscore.com/udpl-july-2-gun-1/register'>Register on Practiscore</a>",
+      "notes": "<p>A mix of bay stages and some long range stages for your rifle and pistol fun. No shotgun in this match."
     },
     {
       "date": "2017/07/29",
@@ -1662,9 +1662,9 @@
       "ns_time": "8:30AM",
       "match_time": "9:00AM",
       "cof": "",
-      "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "results": "<a href='https://practiscore.com/results/new/40610'>Results</a>",
+      "registration_link": "<a href='https://practiscore.com/udpl-2017-july-idpa/register'>Register on Practiscore</a>",
+      "notes": "<p>6-8 Stage IDPA Match, Approx 150 rounds minimum"
     },
     {
       "date": "2017/08/26",
@@ -1676,9 +1676,9 @@
       "ns_time": "8:30AM",
       "match_time": "9:00AM",
       "cof": "",
-      "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "results": "<a href='https://practiscore.com/results/new/42306'>Results</a>",
+      "registration_link": "<a href='https://practiscore.com/2017-udpl-super-shoot-clone/register'>Register on Practiscore</a>",
+      "notes": "<p>The UDPL annual Supershoot is a steel shooters dream. Bring plenty of ammo. Recommend 500-600 rounds"
     },
     {
       "date": "2017/09/16",
@@ -1686,13 +1686,13 @@
       "info": "UDPL Backup Gun Match",
       "location": "The Farm",
       "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
-      "start_time": "8:00AM",
-      "ns_time": "8:30AM",
-      "match_time": "9:00AM",
+      "start_time": "12:00PM",
+      "ns_time": "12:30PM",
+      "match_time": "1:00PM",
       "cof": "",
-      "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "results": "<a href='https://practiscore.com/results/new/c6fba033-3317-49c1-b9b1-15dc456d36c4'>Results</a>",
+      "registration_link": "<a href='https://practiscore.com/2017-udpl-utah-state-back-up-gun-championship/register'>Register on Practiscore",
+      "notes": "<p>Back-up gun only match with five stages. Please see udpl.net for BUG rules and specifications. Check-in starts at 12:00 noon, new shooter meeting is at 12:30 pm and shooting starts 1:00pm. Round count is 72 minimum."
     },
     {
       "date": "2017/09/16",
@@ -1704,9 +1704,9 @@
       "ns_time": "7:30PM",
       "match_time": "8:00PM",
       "cof": "",
-      "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "results": "<a href='https://practiscore.com/results/new/b5222555-f1a3-4c00-801d-bf9dd1b4eed2'>Results</a>",
+      "registration_link": "<a href='https://practiscore.com/udpl-september-17th-2016-night-match-clone/register'>Register on Practiscore</a>",
+      "notes": "<p>6 stage low/no light match using both handheld and weapons mounted lights. Strong side holsters only. No new shooters at this match. You must have shot at least one handgun match at the Utah Defensive Pistol League prior to this match."
     },
     {
       "date": "2017/09/23",
@@ -1718,9 +1718,9 @@
       "ns_time": "8:30AM",
       "match_time": "9:00AM",
       "cof": "",
-      "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "results": "<a href='https://practiscore.com/results/new/43930'>Results</a>",
+      "registration_link": "<a href='https://practiscore.com/udpl-september-multi-gun/register'>Register on Practiscore",
+      "notes": "<p>A mix of bay stages and some long range for your multi-gun enjoyment."
     },
     {
       "date": "2017/10/28",
@@ -1733,8 +1733,8 @@
       "match_time": "10:00AM",
       "cof": "",
       "results": "",
-      "registration_link": "",
-      "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+      "registration_link": "<a href='https://practiscore.com/udpl-2017-october-idpa-match'>Register on Practiscore</a>",
+      "notes": "<p>6 Stage IDPA Match, bring 150 rounds of ammo"
     },
     {
       "date": "2017/11/25",
@@ -1763,6 +1763,20 @@
       "results": "",
       "registration_link": "",
       "notes": "<p>This match info and registration will be available on the 1st of the month the match takes place."
+    },
+    {
+      "date": "2018/01/01",
+      "match_type": "<a href='/articles/udpl-handgun-info/'>UDPL Steel Challenge</a>",
+      "info": "Steel Challenge",
+      "location": "The Farm",
+      "location_url": "http://maps.google.com/maps?ll=40.218331,-112.124469&z=15&t=h&hl=en&gl=US&mapclient=embed&daddr=40%C2%B013%2707.0%22N%20112%C2%B007%2736.2%22W@40.218626,-112.126724",
+      "start_time": "9:00AM",
+      "ns_time": "9:30AM",
+      "match_time": "10:00AM",
+      "cof": "",
+      "results": "",
+      "registration_link": "",
+      "notes": "<p>Steel challenge has a standard format. You can read up on it <a href='https://steelchallenge.com/media/stage-diagrams.html'>here</a>. "
     }
   ]
 }
