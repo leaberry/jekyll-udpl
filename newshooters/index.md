@@ -123,10 +123,10 @@ Multigun is the newest type of shooting sport and uses a rifle, shotgun and pist
 
 [More Info](/articles/multigun-info/)
 
-## Rangemasters Fun Shoot
+## Discount Guns & Ammo Fun Shoot
 
-UDPL does not sponsor these matches but provides information on them as a courtesy to shooters. These take place twice a month at the indoor range at Rangemasters in Springville, UT. Generally there are 3-4 stages at these matches.
+UDPL does not sponsor these matches but provides information on them as a courtesy to shooters. These take place twice a month at the indoor range at Discount Guns & Ammo in Springville, UT. Generally there are 3-4 stages at these matches.
 
-[More Info](/articles/rangemasters-funshoot/)
+[More Info](/articles/dgaa-funshoot/)
 
 
